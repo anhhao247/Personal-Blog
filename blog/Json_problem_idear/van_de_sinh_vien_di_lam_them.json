@@ -1,0 +1,247 @@
+{
+   
+    "background":"../img/problem_5.jpg",
+    "titles": "Vấn đề đi làm thêm của sinh viên hiện nay",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Thực trạng vấn đề đi làm thêm của sinh viên hiện nay",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Xét về nguồn nhân lực, sinh viên được coi là lực lượng lao động “không chính thức” dào dồi, có sức khỏe tốt và có kiến thức để tham gia vào bất kỳ công việc nào. Chính vì thế, trong một số lĩnh vực nghề nghiệp, các nhà tuyển dụng ưu tiên tuyển nhân viên vào làm việc thay vì các nhân sự chính thức. "
+                },
+                {
+                    "id": 2,
+                    "mean": "<img style=' border-radius: 50px;' src='../img/sv_di_lam_them_01.jpg' />"
+                }, {
+                    "id": 3,
+                    "mean": "Theo thống kê mới nhất năm 2022, tuổi lao động phổ biến nhất ở nước ta là tù 18 – 23 tuổi. Đặc biệt, lực lượng này lại chiếm phần lớn là các sinh viên đang theo học hệ chính quy, cao đẳng, trung cấp của các trường trên toàn quốc."
+                }, {
+                    "id": 4,
+                    "mean": "Có thể thấy, chính bản thân sinh viên cũng rất thích đi làm thêm. Theo thống kê 8/10 sinh viên đang theo học tại các trường đại học, cao đẳng toàn quốc đều có công việc “sơ cua” dành riêng cho mình. Hầu hết các bạn sinh viên đều cảm thấy hài lòng và yên tâm hơn khi có nguồn thu nhập ổn định hàng tháng. Không những vậy, công việc làm thêm còn cho phép học được trải nghiệm những thực tế thật, dễ dàng rút ra bài học của bản thân. Chính nhu cầu này đã tạo nên cơn sốt việc làm với sự cạnh tranh lớn. Thường sinh viên vừa học vừa làm sẽ tập trung ở các thành phố lớn như Đà Nẵng, Cần Thơ, Hà Nội và đặc biệt là trọng điểm kinh tế Sài Gòn. "
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Vì sao tỷ lệ vừa học vừa làm ở sinh viên lại cao? ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Trong một cuộc khảo sát, hơn 80% sinh viên ở các năm đại học đều đi làm theo ở nhiều hình thức khác nhau. Việc đi làm thêm ở sinh viên cũng là vấn đề dễ hiểu. Đi làm theo sẽ giúp các bạn có thêm thu nhập hàng tháng, cho phép trang trải cuộc sống sinh viên một cách thoải mái hơn. Phần lớn, sinh viên đi làm thêm tập trung ở các thành phố lớn, nơi có nhu cầu tìm nguồn lao động dồi dào. "
+                },
+                {
+                    "id":2,
+                    "mean": "Dù gia đình có khá giả hay tài chính không ổn định, sinh viên đều thử sức với các công việc bán thời gian. Có rất nhiều lý do để sinh viên vừa học vừa làm thêm đó là: tiền, kinh nghiệm, kiến thức, kỹ năng sống, kỹ năng giao tiếp, hiểu hơn về cuộc sống, … Môi trường làm thêm sẽ giúp sinh viên lớn hơn mỗi ngày khi tiếp xúc với nhiều đối tượng người khác nhau, và bị rơi vào nhiều hoàn cảnh khó khăn, khó xử khác nhau. Từ đó, sinh viên sẽ biết cách vượt qua khó khăn, biết cách xử lý tình huống cũng như mở rộng mối quan hệ của mình. "
+                },{
+                    "id":3,
+                    "mean": "Tuy nhiên, vấn đề này có rất nhiều ý kiến khác nhau và mọi người luôn thắc mắc vừa học vừa làm có nên không? "
+                },{
+                    "id": 4,
+                    "mean": "<img style=' border-radius: 50px;' src='../img/sv_di_lam_them_02.jpg' />"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Vấn đề đi làm thêm của sinh viên hiện nay: mặt được và mất ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Việc sinh viên tìm kiếm và dành thời gian để làm công việc bán thời gian không còn là vấn đề quá xa lạ đối với xã hội hiện nay. Nhiều sinh viên theo kinh nghiệm của mình từng trải khẳng định rằng, việc đi làm thêm thật sự mang lại ý nghĩa lớn cũng như lợi ích quan trọng cho cuộc sống sau này. Ấy thế nhưng, cũng nhiều đối tượng khác cho rằng đi làm thêm mang rất nhiều rủi ro, thậm chí hậu quả thương tiếc đối với giới trẻ."
+                },
+                {
+                    "id":2,
+                    "mean": "Đi làm thêm, sinh viên được gì? "
+                },
+                {
+                    "id":3,
+                    "mean": "Việc làm thêm sẽ giúp sinh viên giải quyết được rất nhiều vấn đề, trước mắt là tài chính, tiếp theo sẽ là những trải nghiệm và bài học mà trên trường học không giảng dạy. Những ưu điểm của vừa học vừa làm luôn được đánh giá rất cao về tính ứng dụng, cụ thể: "
+                },
+                {
+                    "id":4,
+                    "mean": "Có thêm thu nhập, thoải mái cuộc sống "
+                },
+                {
+                    "id":5,
+                    "mean": "Lợi ích đầu tiên cũng như tiên quyết khiến sinh viên tìm kiếm công việc thêm đó chính là thu nhập. Học đại học, đại biệt những bạn ở sống xa gia đình, tài chính luôn là vấn đề cần giải quyết của nhiều người. Cuộc sống sinh viên cần rất nhiều khoản tiền khác nhau hầu hết ai cũng mong muốn có chút thu nhập để làm nhẹ gánh nặng gia đình. Hay đơn giản và bản thân có một khoản phí dư dả cho việc chi tiêu. "
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Trải nghiệm cuộc sống ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Bên cạnh vấn đề tài chính, việc đi làm thêm còn mang ý nghĩa khác, đó chính là trải nghiệm cuộc sống, tích lũy bài học. Vốn dĩ, từ lúc sinh ra đến hết cấp 3, nhiều bạn vẫn được che chở, bảo bọc trong vòng tay của cha mẹ. Và ngay khi có cơ hội được bước ra xã hội, ai ai cũng muốn nhìn thật rõ, thật rộng cuộc sống như thế nào. "
+                },
+                {
+                    "id":2,
+                    "mean": "Hầu hết sinh viên đều có mong muốn đi làm thêm để tăng kỹ năng liên quan đến cuộc sống, hiểu rõ về xã hội này hơn, đồng thời tự rút ra cho mình những bài học mà trường lớp, ba mẹ ít ai có thể chỉ dẫn cụ thể."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Học được kỹ năng quản lý bản thân, thời gian, công việc ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Thêm một ưu điểm không thể không nhắc đến khi đề cập vấn đề đi làm thêm của sinh viên hiện nay, đó chính là đây sẽ là cơ hội để sinh viên tự học được cách quản lý bản thân, thời gian và công việc của mình. Một lúc làm 2 việc: học và làm thêm không phải là chuyện đơn giản. Để cả 2 gặt được những thành công, bản thân sinh viên phải tự tìm cách sắp xếp thời gian của mình, phân bổ cân bằng giữa hai bên. "
+                },
+                {
+                    "id":2,
+                    "mean": "Có thể thời gian đầu sẽ gây ra nhiều khó khăn và buộc sinh viên lựa chọn một trong 2 hoặc phải cố gắng cân bằng. Thế nhưng, chỉ cần vượt qua được chướng ngại vật này, mỗi chúng ta sẽ tự ngộ ra rất nhiều điều và rút ra rất nhiều bài học cần thiết cho hiện tại và tương lai sau này. "
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Tạo nền tảng Profile tốt ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Một nhà tuyển dụng luôn mong muốn tuyển được những ứng viên có kinh nghiệm, đặc biệt là lâu năm. Đối với sinh viên mới ra trường, bên cạnh kiến thức tại trường lớp được chứng thực qua bằng tốt nghiệp, chứng chỉ. Thì kinh nghiệm làm thêm của sinh viên cũng là yếu tố rất được quan tâm. "
+                },
+                {
+                    "id":2,
+                    "mean": "Nếu cũng là sinh viên mới ra trường, nhưng bạn đã có thời gian làm thêm, tiếp xúc trong ngành dù là 6 tháng hay dài hơn, thì bản thân Profile của bạn cũng chiếm ưu thế hơn rất nhiều so với một tân cử nhân không có chút kinh nghiệm nào. "
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Rèn luyện sự năng động ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Vừa học vừa làm rất hữu ích đối với các bạn thụ động hay không thích tiếp xúc với môi trường bên ngoài. Sinh viên rất cần sự năng động và chủ động. Nhưng nếu trên trường học, sinh viên sẽ khó mà rèn luyện được kỹ năng này. Trong khi đó, vừa học vừa làm chính là môi trường miễn phí để sinh viên có thể cải thiện được sự năng nổ của mình, một trong những điều mà các nhà tuyển dụng rất thích. "
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Học được giá trị của đồng tiền",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Khi đi làm, sinh viên sẽ biết được làm ra đồng tiền vất vả và khó khăn như thế nào. Từ đó, sẽ hiểu hơn về giá trị của đồng tiền, hiểu được ba mẹ đã tần tảo, cực nhọc như thế nào để nuôi mình khôn lớn. Khi đối mặt với các áp lực về công việc, sinh viên sẽ trân quý cuộc sống và lo lắng hơn cho tương lai phía trước của mình.  "
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Học được nhiều kinh nghiệm ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Dù đang làm công việc bán thời gian theo đúng chuyên ngành, hay khác chuyên ngành, thì sinh viên đều sẽ học được rất nhiều bài học về cuộc sống, về kiến thức, thấy được các góc khuất của cuộc sống. Đây chính là bài học quý báu mà mọi sinh viên đều cần. "
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Khám phá được bản thân ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Nếu là mọt sách, sinh viên sẽ khó tìm ra được điểm mạnh của mình. Thế nhưng khi đi làm, đặc biệt là vừa học vừa làm, sinh viên sẽ khám phá được bản thân của mình với các tiềm ẩn sâu bên trong mà khi phát hiện ra, bạn phải giật mình. Môi trường làm thêm sẽ là biện pháp rất tốt để giúp sinh viên hiểu rõ mình hơn, biết mình thích gì, giỏi gì, từ đó dễ dàng định hướng và quyết định các vấn đề trong cuộc sống. "
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Rủi ro khi sinh viên đi làm thêm ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Vấn đề sinh viên đi làm luôn gây ra nhiều tranh cãi, nhất là đối với các bật phụ huynh mong muốn con mình toàn tâm toàn ý vào việc học. Tuy nhiên, tất cả vấn đề đều có 2 mặt tích cực và tiêu cực. Bên cạnh những ưu điểm được chia sẻ trên, thì sinh viên vừa học vừa làm cũng mang đến rất nhiều hệ quả ảnh hưởng đến tương lai. "
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Không phân bổ tốt thời gian học và làm ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Quản lý thời gian là công việc khiến nhiều người cảm thấy lo lắng vì nó thật sự rất khó khăn khi quyết định phân chia việc làm, học và giải trí như thế nào là hợp lý nhưng vẫn đạt kết quả tốt ở mọi mặt. Mặc dù đã cố gắng, thế nhưng có một sự thật đáng buồn là tỷ lệ sinh viên dành nhiều thời gian cho việc làm thêm hơn là việc học chiếm con số khác đông. Điều này khiến kết quả học tập tụt dốc. Thậm chí nhiều bạn còn bỏ bê cả việc học và bị quyến rũ bởi đồng tiền mà mình kiếm được. "
+                },
+                {
+                    "id":2,
+                    "mean": "Ngoài những giờ học tập mệt mỏi, sinh viên còn phải tăng cường sức lao động của mình để đối mặt với những công việc bán thời gian. Trong thời gian đầu, vì hứng thú với công việc nên sinh viên cảm thấy đây vấn đề này rất nhẹ nhàng. Thế nhưng, khi vào các kỳ thi hoặc tăng ca, sinh viên sẽ đối mặt với những giờ ngủ gật trên giảng đường, những lúc cần ôn bài thi nhưng không thể chuyển ca làm việc cho đồng nghiệp… Nếu làm việc kéo dài liên tục trong nhiều ngày, tinh thần học tập sẽ không còn nữa, sinh viên sẽ cảm thấy mỏi mệt, chán chường và kết quả học tập không tốt. "
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Không tập trung vào học tập ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Nếu không thể cân bằng được thời gian học và đi làm, sinh viên rất dễ xao nhãng chuyện học, tinh thần và tâm trí lúc nào cũng hướng đến công việc, không tập trung trong các giờ học. Nhiều sinh viên viện lý do đi làm nên rất thờ ở trong các công tác, bài tập với đội nhóm. Từ đó kết quả học tập sẽ bị ảnh hưởng rất nhiều. "
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Đi làm vì tiền, sai chuyên ngành học ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": " Sẽ không có gì đáng nói nếu bạn đang làm công việc bán thời gian nhưng thuộc lĩnh vực chuyên ngành mà mình đang học. Bởi lẽ, sau những kiến thức sách vở, chúng ta lại tiếp tục tiếp cận với những kiến thức thực tế đầy bổ ích. "
+                },
+                {
+                    "id":2,
+                    "mean": "Thế nhưng, phần lớn sinh viên thường lựa chọn các công việc trái với chuyên ngành của mình như: bán hàng tại shop quần áo, nhân viên tại cửa hàng tiện lợi, cà phê, quán ăn, gia sư, … Những công việc này linh hoạt về thời gian, mức lương cao và dễ tìm việc. Tuy nhiên, nhiều bạn sinh viên quá sa ngã vào công việc vì mức lương cao mà không nghĩ đến bản thân công việc này có giúp ích gì cho tương lai của mình hay không. Thậm chí nhiều bạn cảm thấy công việc hiện tại quá tốt, tốt hơn cả tấm bằng đại học hiện tại mà chạy theo công việc, dang dở chuyện học hành. "
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Bị lừa gạt, bóc lột sức lao động ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Vì nhu cầu làm thêm của sinh viên tại các thành phố phát triển ngày càng cao, nên các trò lừa đảo tinh vi qua từng ngày. Dựa vào mong muốn kiếm tiền của sinh viên, nhiều trung tâm việc làm lừa đảo đã thu hút nhân lực bởi các lời quảng cáo có cánh, những công việc kiếm tiền như mơ… để rồi sau đó quỵt lương, bóc lột sức lao động, không trả công xứng đáng, …"
+                },
+                {
+                    "id":2,
+                    "mean": "Có rất nhiều công việc cần sức, thức khuya, khi phải làm nhiều việc cùng một lúc (vừa học vừa làm), sinh viên sẽ không có đủ thời gian để nghỉ ngơi, thư giãn. Từ đó, cơ thể sẽ luôn ở trạng thái mệt mỏi. Tình trạng này kéo dài, kết quả của học và làm việc sẽ ngày càng tụt dốc. "
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Lời khuyên cho sinh viên đi làm thêm",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Lời khuyên dành cho sinh viên đó chính là tìm đến những anh chị trong đội công tác phường, xã, nhà trường để được tư vấn tìm việc, hãy lựa chọn các công việc phù hợp với bản thân, thời gian không chiếm quá nhiều, và không tổn hại đến sức khỏe. Làm gia sư là một trong những công việc được rất nhiều phụ huynh, sinh viên yêu thích. Vậy nên, hãy thật sự cẩn thận khi quyết định đi làm thêm. "
+                },
+                {
+                    "id":2,
+                    "mean": "Năm một và năm 2 chương trình học có vẻ còn thư thả, bạn có thể lựa chọn công việc mà mình yêu thích. Thế nhưng, năm 3 năm 4 cần đầu tư thời gian để làm khóa luận, thực tập, tốt nghiệp… hãy dành 2 năm cuối này làm công việc chuyên ngành của mình với những điều căn bản nhất. Đây chính là nền tảng để bạn có thể dễ dàng phát triển công việc của mình trong tương lai cũng như ghi điểm tuyệt đối trong mắt nhà tuyển dụng khi biết cách sắp xếp công việc phù hợp với mình. "
+                },{
+                    "id": 3,
+                    "mean": "<ul><li>Tạo kế hoạch, thời gian biểu cho bản thân </li><li>Làm rõ thời gian làm việc với nhà tuyển dụng</li><li>Chăm sóc tốt bản thân </li><li>Không quá lún sâu vào công việc</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Lời kết",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Trên đây là những chia sẻ về vấn đề đi làm thêm của sinh viên hiện nay. Đây là một vấn đề với nhiều luồng suy nghĩ khác nhau. Tùy thuộc vào mục đích, định hướng của từng người mà nó mang nghĩa tốt hay xấu. Tuy nhiên, chung quy lại, đi làm thêm là thời gian mang lại ý nghĩa rất lớn khi có thể cho chúng ta các giá trị mà đời thường không thể có được. Vậy nên, đừng bắt bản thân từ bỏ cơ hội này, thay vào đó hãy cố gắng sắp xếp thời gian hợp lý để vừa có kết quả tốt trong việc học, vừa mang lại thành công trong cuộc sống.  "
+                }
+            ]
+        }
+    ]
+
+    
+
+}

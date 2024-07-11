@@ -1,0 +1,41 @@
+{
+    "content":[
+   
+        {
+            "id": 1,
+            "link": "Doi_thoai_voi_AI.html",
+            "title": "Đối thoại với AI: Generative AI (AI tạo sinh) và những điều cần biết",
+            "discription": "Trí tuệ nhân tạo Tạo sinh (Generative AI) đang là một chủ đề nóng"
+        },
+        {
+            "id": 2,
+            "link":"product_manager.html",
+            "title": "Product Manager là gì? ",
+            "discription": "Product Manager ( PM ) là công việc khá mù mờ. Họ là ai, làm gì?"
+        },
+        {
+            "id": 3,
+            "link":"su_co_may_tinh_y2k.html",
+            "title": "Sự cố máy tính năm 2000",
+            "discription": "Sự kiện Y2k nó là gì? tại sao có sự kiện này?"
+        },
+        {
+            "id": 4,
+            "link": "technology_la_gi.html",
+            "title": "Technology là gì?",
+            "discription": "Bạn biết nhiều về công nghệ số bây giờ?"
+        },
+        {
+            "id": 5,
+            "link": "ki_su_it_luong_thang_bao_nhieu.html",
+            "title": "Kỹ sư IT Việt đang nhận lương bao nhiêu?",
+            "discription": "Theo bạn thì lương của lập trình viên việt nam là bao nhiêu. Tại sao bạn hỏi câu này? Bạn muốn trở thành lập trình viên sao?"
+        },
+        {
+            "id": 6,
+            "link": "tong_quan_ve_cong_nghe_thong_tin.html",
+            "title": "Tổng quan ngành Công nghệ Thông tin",
+            "discription": "Bạn Biết gì về Công Nghệ Thông Tin, Công nghệ thông tin là gì mà mọi người quan tâm đến nó?"
+        }
+    ]
+}

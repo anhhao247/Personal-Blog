@@ -1,0 +1,117 @@
+{
+   
+    "background":"../img/product_3.jpg",
+    "titles": "Xây dựng đúng sản Phẩm ",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Có phải chúng ta đang xây dựng đúng sản phẩm?",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Đầu tiên và quan trọng nhất, trọng tâm của PM phải luôn là xây dựngPhải sản phẩm. Trước khi bắt đầu một đường dẫn cụ thể, có một số Câu hỏi cần giải quyết trong Phần khởi động Khám phá Sản phẩm của bạn trước khi viết một dòng mã. "
+                },
+                {
+                    "id": 2,
+                    "mean": "Hoàn thành Khám phá sản phẩm dưới một hình thức nào đó là bạn đang tiến hành thẩm định để đảm bảo rằng bạn không xây dựng một sản phẩm dựa trên các giả định sai lầm và thiếu hiểu biết về các mục tiêu và yêu cầu của người dùngtất cảcác bên liên quan (nghĩa là người dùng, quản trị viên, nhà đầu tư, v.v.)"
+                }, {
+                    "id": 3,
+                    "mean": "Để đảm bảo hơn nữa bạn đang xây dựngđúng sản phẩm, Thủ tướng quan tâm đến những vấn đề sau:"
+                }, {
+                    "id": 4,
+                    "mean": "Chủ sở hữu sản phẩm"
+                }, {
+                    "id": 5,
+                    "mean": "Product Owner là thành viên trong nhóm được trao quyền đưa ra quyết định về sản phẩm (cùng với hướng dẫn của PM). Họ là bên liên quan chính thường chịu trách nhiệm, từ góc độ kinh doanh, về hậu quả thành công và thất bại của dự án. Chủ sở hữu sản phẩm cũng phải có kiến ​​thức sâu về miền."
+                }, {
+                    "id": 6,
+                    "mean": "Có một số cạm bẫy phổ biến và những điều cần lưu ý khi chọn Chủ sở hữu sản phẩm phù hợp, nhưng nếu bạn là một nhóm sản phẩm lớn, bạn có thể muốn xem lại Tại sao các sản phẩm được xây dựng bởi các nhóm lớn thường thất bại ."
+                }, {
+                    "id": 7,
+                    "mean": "người dùng"
+                }, {
+                    "id": 8,
+                    "mean": "Hiểu người dùng của bạn là chìa khóa để xây dựng sản phẩm phù hợp vì tất nhiên, nếu họ không sử dụng nó thì theo định nghĩa thì sản phẩm đó không đúng. Mọi thứ đều xoay quanh việc giải quyết các vấn đề của người dùng và các phần khác của việc xây dựng sản phẩm phù hợp (ví dụ: nghiên cứu, phân tích, v.v.) là phương tiện để đạt được mục tiêu đó."
+                }, {
+                    "id": 9,
+                    "mean": "Người dùng không phải lúc nào cũng biết cách diễn đạt các vấn đề của họ và chắc chắn không phải lúc nào cũng biết các giải pháp. Để xây dựng điều đúng đắn, PM phải khiến người dùng và Chủ sở hữu sản phẩm trình bày chính xác các vấn đề của họ, sau đó phải xác định các cơ hội và sử dụng nghiên cứu và phân tích chất lượng cao để xác định các giải pháp phù hợp."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Nghiên cứu",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Nghiên cứu nên được sử dụng để xác nhận cả các vấn đề kinh doanh (điều này có thực sự đáng để giải quyết không? Và chúng ta đã xác định đúng vấn đề chưa?) và các giải pháp tiềm năng (nghĩa là tập hợp một danh sách các giải pháp tiềm năng và xác thực xem các giải pháp được đề xuất có thực sự giải quyết được vấn đề hay không.)"
+                },
+                {
+                    "id":2,
+                    "mean": "Nghiên cứu có thể có nhiều hình thức khác nhau. Nó có thể có nghĩa là phân tích cạnh tranh, nó có thể có nghĩa là đọc tài liệu hoặc nó có thể liên quan đến các giải pháp tạo mẫu. Nghiên cứu cũng có thể có nghĩa là theo dõi ai đó trong khi họ hoàn thành công việc của mình hoặc có thể có nghĩa là phỏng vấn người dùng."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "ưu tiên",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Sắp xếp thứ tự ưu tiên là quyết định vấn đề nào là quan trọng nhất cần giải quyết và theo thứ tự nào. Có nhiều điểm tinh tế trong việc sắp xếp thứ tự ưu tiên, nhưng về cốt lõi, nó có nghĩa là cân bằng giữa giá trị, rủi ro và chi phí."
+                },
+                {
+                    "id":2,
+                    "mean": "Nếu các bộ phận có giá trị cao trong sản phẩm của bạn đặc biệt rủi ro, thì điều quan trọng trước tiên là loại bỏ rủi ro ở những khu vực đó và xác định những điều chưa biết. Điều này có thể yêu cầu xây dựng một giải pháp hoàn chỉnh hoặc có thể chỉ yêu cầu nghiên cứu hoặc tạo mẫu."
+                },
+                {
+                    "id":3,
+                    "mean": "Khi bạn cảm thấy mình đã khám phá ra hầu hết những điều chưa biết, ưu tiên sẽ tập trung vào các tính năng có giá trị cao và chi phí chấp nhận được."
+                },
+                {
+                    "id":4,
+                    "mean": "Một khía cạnh khác cần xem xét là những thách thức kỹ thuật có thể thúc đẩy việc ưu tiên. Một tính năng có giá trị cao có thể yêu cầu một tính năng có giá trị thấp vì tính năng này được xây dựng dựa trên mã. Những sự đánh đổi này rất quan trọng để xem xét và thảo luận với nhóm công nghệ của bạn."
+                },
+                {
+                    "id":5,
+                    "mean": "Những cơ hội"
+                },
+                {
+                    "id":6,
+                    "mean": "Chỉ vì bạn đã xác định được một vấn đề và một giải pháp không có nghĩa là người dùng sẽ áp dụng giải pháp của bạn — thị trường có thể có rất nhiều giải pháp tương tự ."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Chúng ta đang xây dựng sản phẩm Phải?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Nếu bạn chỉ quan tâm đến việc xây dựng sản phẩmPhải,bạn gặp rủi ro rằng sản phẩm chỉ hoàn thành kế hoạch của các nhà phát triển và đáp ứng các điều kiện được đặt ra khi bắt đầu mỗi lần chạy nước rút phát triển."
+                },
+                {
+                    "id":2,
+                    "mean": "Nếu bạn là người sáng lập hoặc Chủ sở hữu sản phẩm không có kỹ thuật, thì đây thường là lúc trải nghiệm của PM trở nên vô giá. Để tìm sự cân bằng giữa nhu cầu kỹ thuật và mục tiêu sản phẩm, Thủ tướng quan tâm đến:"
+                },
+                {
+                    "id":3,
+                    "mean": "<ul><li>Công nghệ</li><li>Ngành kiến ​​​​trúc</li><li>Kỹ thuật</li><li>Thiết kế</li><li>Quá trình</li><li>Kiểm tra/Đảm bảo chất lượng</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Phần kết luận",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Siêu năng lực của Thủ tướng nằm ở khả năng ủng hộ mọi gạch đầu dòng ở trên và đạt được sự cân bằng giữa việc xây dựngđúng sản phẩmvà xây dựng sản phẩmPhải. Điều này đảm bảo sản phẩm không chỉ hoạt động tốt mà còn làm hài lòng người dùng, hoạt động tối ưu và mang lại giá trị lâu dài trong tương lai."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

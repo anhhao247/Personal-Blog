@@ -1,0 +1,175 @@
+{
+   
+    "background":"../img/problem_3.jpg",
+    "titles": "Những phát minh vĩ đại của Nikola Tesla",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Khai thác tia vũ trụ",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Tesla từng nghĩ đến ý tưởng khai thác nguồn năng lượng miễn phí đến từ những hạt nguyên tử, các loài tia đầy rẫy trong vũ trụ. Đây là ý tưởng bị coi là khoa học giả tưởng với hầu hết các nhà nghiên cứu vì nó không thực tế."
+                },
+                {
+                    "id": 2,
+                    "mean": "Những Tesla lại tin rằng có thể thiết kế một chiếc máy khả thi để khai thác nguồn năng lượng này và chấm dứt vấn đề khan hiếm từ Trái Đất."
+                }, {
+                    "id": 3,
+                    "mean": "Các hạt vũ trụ siêu nhỏ này liên tục rơi xuống mặt đất với tốc độ nhanh hơn ánh sáng và ông nghĩ có thể bắt được chúng để chuyển đổi thành năng lượng sử dụng được. Rất tiếc, phát minh của ông chưa từng được sản xuất."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Điện cảm ứng",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Tesla mơ ước một thế giới không tồn tại dây điện phức tạp. Ông đề xuất một hệ thống điện không dây bao gồm một tháp truyền điện và năng lượng không dây đến mọi ngõ ngách trên hành tinh. Ông đã chứng minh ý tưởng này qua thí nghiệm về sự truyền dẫn cảm ứng để đốt sáng một cái bóng đèn ở khoảng cách ngắn."
+                },
+                {
+                    "id":2,
+                    "mean": "Ông bắt tay xây dựng tháp Wardenclyffe ở New York nhưng sau đó bị rút nguồn tài trợ của JP Morgan vì họ phát hiện ý đồ thật sự của ông chứ không phải xây dựng tháp viễn thông. Đây là bước cuối cùng trong hệ thống điện không dây của Tesla và được kết hợp với phát minh máy thu năng lượng vũ trụ. Nếu thành công, thế giới sẽ được sử dụng điện miễn phí và không giới hạn chỉ bằng một cái ăng-ten."
+                },{
+                    "id":3,
+                    "mean": "Phát minh của Tesla bị chính phủ phản đối kịch liệt vì nó không thu được lợi nhuận. Tuy nhiên, mới đây các nhà khoa học đã thắp sáng được bóng đèn bằng điện không dây ở khoảng cách 7 mét."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Đốt lạnh",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Phát minh này hy vọng sẽ thay thế được xà phòng và nước trong sinh hoạt. Tesla muốn thay thế điện với nước vì điện là kẻ thù lớn nhất của vi trùng."
+                },
+                {
+                    "id":2,
+                    "mean": "Sự đốt lạnh nghĩa là đốt cháy nhưng không gây bỏng, người ta sẽ đứng trên một tấm kim loại và được phủ trong nguồn điện luân phiên đến 2,5 triệu volt giống như một ngọn lửa trùm lên cơ thể."
+                },
+                {
+                    "id":3,
+                    "mean": "Phương pháp này hiệu quả vì da người có tính dẫn điện. Nó còn có tác dụng chữa bệnh vì nguồn điện mạnh có thể sinh ra lượng lớn khí ozon khử trùng có lợi cho sức khỏe."
+                },
+                {
+                    "id":4,
+                    "mean": "Vấn đề chi phí và an toàn cho người sử dụng đã biến ý tưởng đốt lạnh thành mơ hồ"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Điều khiển thời tiết",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Một trong những thách thức lớn nhất của con người là khả năng kiểm soát thời tiết. Tesla nghĩ rằng ông có thể làm cho đất đai màu mỡ nhờ sử dụng sóng vô tuyến điện để thay đổi từ trường Trái Đất trong tầng điện ly của khí quyển, hình thành các sóng khí quyển cực mạnh điều khiển thời tiết."
+                },
+                {
+                    "id":2,
+                    "mean": "Một lần nữa, thuyết âm mưu cho rằng phát minh của ông đã rơi vào tay kẻ xấu và đang được chúng sử dụng để thống trị nhân loại. Bằng chứng là sự thay đổi khí hậu, thời tiết cực đoan ngày một nhiều hiện nay."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Súng tia X",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Việc phát hiện ra tia X của William Roentgen thu hút giới khoa học, đặc biệt là Tesla. Ông mở rộng phát mình thành một khẩu sung bắn tia X - quang, lợi hại cùng với Mark Twain - họ trở thành đôi bạn thân sau khi Tesla chữa khỏi bệnh táo bón cho đại thi hào này."
+                },
+                {
+                    "id":2,
+                    "mean": "Sử dụng khẩu súng này, 2 ông có thể nhìn xuyên thấu bất cứ vật gì mà chùm tia đi qua ở khoảng cách 12 mét. Sáng chế tưởng chừng bị lãng quên giờ lại trở thành một ứng dụng không thể thiếu trong y học ngày nay."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Dòng điện xoay chiều",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Nikola Tesla bắt đầu hợp tác với Thomas Edison năm 1882 khi ông chuyển tới Paris làm việc cho công ty Continetal Edison. Đây là thời gian đầu khi Tesla được giới khoa học công nhận tài năng. Edison đã gợi ý trả 50.000 đô cho Tesla để sửa chữa chiếc máy phát điện của mình mặc dù sau đó không thấy ông trả khoản tiền đó cho cộng sự."
+                },
+                {
+                    "id":2,
+                    "mean": "Điều này buộc Tesla tách riêng và lập công ty, nơi ông phát triển loại điện mới gọi là dòng điện xoay chiều có khả năng truyền tải khoảng cách xa và tiết kiệm. Edison đã rất tức giận và kêu gọi mọi người biểu tình, thậm chí dọa đốt nhà xưởng."
+                },
+                {
+                    "id":3,
+                    "mean": "Tesla đã chứng minh dòng điện của mình đủ thắp sáng bóng đèn mà không gặp bất cứ nguy hiểm nào ở triển lãm năm 1893."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Thắp sáng thế giới ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Một lần nữa, Tesla muốn cho cả thế giới thấy tài năng của mình bằng sáng chế ra loại hạt khí loãng nhạy cảm với năng lượng để phát sáng cho cả hành tinh. Ông lên kế hoạch sử dụng một loại tia cực mạnh như tia cực tím bắn vào các hạt này để chúng phát sáng như hiện tượng cực quang. Ông khiến người ta cho rằng nếu thành công, con tàu Titanic sẽ chẳng bao giờ chìm xuống mãi mãi."
+                },
+                {
+                    "id":2,
+                    "mean": "<img style='border-radius: 50px;' src='../img/thap-sang-the-gioi.jpg' />"
+                },
+                {
+                    "id":3,
+                    "mean": "Tesla đã chứng minh dòng điện của mình đủ thắp sáng bóng đèn mà không gặp bất cứ nguy hiểm nào ở triển lãm năm 1893."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Điều khiển từ xa",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Tesla đã phát minh ra chiếc điều khiển từ xa đầu tiên trong lịch sử. Trước khi nó được gọi là “điều khiển từ xa” (remote control), Tesla gọi phát minh của ông là “thiết bị tự động từ xa” (teleautomaton) và đã công bố nó tại Madison Square Garden ở New York vào năm 1898."
+                },
+                {
+                    "id":2,
+                    "mean": "Thay vì sử dụng tia hồng ngoại như điều khiển TV truyền thống, teleautomaton của Tesla sử dụng sóng radio. Ông từng dùng nó để điều khiển một chiếc thuyền đồ chơi nhỏ trong buổi ra mắt công chúng năm 1898. Chiếc thuyền này được tích hợp một bộ ăng-ten để nhận sóng radio phát ra từ điều khiển."
+                },
+                {
+                    "id":3,
+                    "mean": "Tesla tìm cách thương mại hoá cả bộ điều khiển và chiếc tàu đồ chơi này, nhưng công chúng đơn giản là không hứng thú. Tuy nhiên, ý tưởng này lại dần được đón nhận qua nhiều năm, và điều khiển từ xa ngày nay có thể được tìm thấy ở mọi hộ gia đình."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Đèn neon",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Dù Tesla không trực tiếp phát minh ra đèn neon, ông đóng vai trò quan trọng trong việc cải tiến phát minh này."
+                },
+                {
+                    "id":2,
+                    "mean": "5 năm trước buổi ra mắt teleautomaton nói trên, Tesla đã giới thiệu một phiên bản đèn neon cải tiến tại Triển lãm Thế giới Chicago. Trong sự kiện này, Tesla cho người xem thấy loại đèn này có thể được uốn cong và đúc thành nhiều hình dáng và chữ cái khác nhau."
+                },
+                {
+                    "id":3,
+                    "mean": "Tính năng đặc sắc này của đèn neon, mà bạn có thể thấy trong nhiều quán bar và câu lạc bộ ngày nay, đã được phát triển bởi Tesla. Và thành thật mà nói, một trong những điểm tuyệt vời nhất của đèn neon chính là khả năng đúc khuôn của nó! Hãy cảm ơn Tesla đi nào."
+                }
+            ]
+        },{
+            "id": 10,
+            "title": "kết",
+            "discription": [
+                {
+                    "id": 1,
+                    "mean": "Dù cuối đời, Tesla ra đi trong cô độc và túng thiếu, những phát minh ông tạo ra trong suốt cuộc đời mình đã dọn đường cho công nghệ mà chúng ta không thể sống thiếu ở thời hiện đại ngày nay. Có thể nói rằng, Tesla là một trong những nhà phát minh vĩ đại nhất của mọi thời đại, và hãy hi vọng chúng ta sẽ được thấy thêm nhiều thiên tài như ông trong tương lai."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

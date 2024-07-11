@@ -1,0 +1,106 @@
+{
+   
+    "background":"../img/problem_4.jpg",
+    "titles": "Tình trạng sống thử của sinh viên hiện nay",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Tình trạng sống thử của sinh viên hiện nay",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Hiện tượng sống thử thường xuất hiện nhiều ở thành phố phát triển và ở độ tuổi sinh viên. Hiện tượng sống thử của sinh viên hiện nay rất phổ biến, không thể thống kê được số lượng những sinh viên sống thử trước khi kết hôn. Lý do dẫn đến tình trạng sống thử của sinh viên hiện nay một phần là do tâm lý xã hội đã khá thoải mái về quan hệ tình cảm và hôn nhân. Nhiều người trẻ nghĩ thoáng trong vấn đề sống chung, hơn nữa còn có thể có những lợi ích từ việc sống thử. Ví dụ như sinh viên ở chung với nhau có thể tiết kiệm được một khoảng sinh hoạt phí và phí thuê nhà. Hơn nữa, xuất phát từ sự tò mò về quan hệ hôn nhân của sinh viên mà những người này lựa chọn sống thử."
+                },
+                {
+                    "id": 2,
+                    "mean": "Tình trạng sống thử của sinh viên tập trung nhiều ở thành phố lơn, nơi thu hút nhiều sinh viên đến để học tập và làm việc. Bởi vì đi học xa nhà, nên việc có một người để tâm sự bầu bạn là một việc khá lý tưởng đối với những sinh viên sống xa quê. Do đó, hiện tượng sống thử của sinh viên ngày càng tăng và có xu hưởng trẻ hóa."
+                }, {
+                    "id": 3,
+                    "mean": "Hơn nữa, nhiều bạn đã tự nguyện sống thử, đặc biệt là các bạn nữ sinh viên và công nhân. Các bạn thích một cuộc sống hưởng thụ, phóng đãng, không tôn trọng chuẩn mực đạo đức của cộng đồng hay luật lệ của tôn giáo. Rất nhiều bạn không những coi thường luật pháp và giáo luật mà còn tự hạ thấp nhân phẩm của mình, không coi trọng giá trị của đời sống gia đình, cho dù biết hành động mình đang làm là sai trái với chuẩn mực cuộc sống nhưng vẫn cố tình bước vào."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Quan điểm về sống thử của sinh viên hiện nay",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Đối với tình trạng sống thử của sinh viên thì chúng tôi có một số quan điểm để nói về vấn đề này. Việc sống thử sẽ khá có lợi cho những người trẻ khi tiết kiệm được một vài chi phí sinh hoạt hằng ngày, nhưng cũng có thể dẫn đến những hậu quá nghiêm trọng. Nhiều sự việc đáng tiếc xảy ra sau khi cả hai sống thử trước hôn nhân, điều này không nên khuyến khích."
+                },
+                {
+                    "id":2,
+                    "mean": "Thành phố có tỷ lệ sống thử cao là do quan điểm sống và lối sống của thành phố khá thoáng, hơn nữa sinh viên đi học xa nhà, việc quản lý của gia đình sẽ bị nới lỏng, dẫn đến các bạn sinh viên lựa chọn sống thử mà không mắc một rào cản nào. Đối với các vùng nông thôn, tỷ lệ sống thử là rất thấp, hoặc hầu như là không có."
+                },{
+                    "id":3,
+                    "mean": "Việc sống thử của sinh viên hiện nay sẽ có thể dẫn đến những hậu quả của tương lai. Chúng tôi không khuyến khích các bạn còn đang ở tuổi sinh viên, tuổi ăn học và còn nhờ ba mẹ lo lắng chuyện sinh hoạt phí lựa chọn sống thử. Bởi khi hậu quả không mong muốn xảy ra, không ai chịu trách nhiệm, đó sẽ là gánh nặng cho xã hội, người trẻ cũng sẽ bị ảnh hưởng tương lai sau này. Nếu các bạn vẫn muốn lựa chọn sống thử thì hãy suy nghĩ thật kỹ và cần chịu trách nhiệm với những việc mình đã làm."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Hậu quả của việc sống thử ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/song_thu_01.jpg' />"
+                },
+                {
+                    "id":2,
+                    "mean": "Sống thử không chỉ ảnh hưởng đến đời sống của các bạn sinh viên mà còn ảnh hưởng đến gia đình và xã hội. Hiện tượng sống thử của sinh viên ngày càng phổ biến dẫn đến những hậu quả vô cùng nghiêm trọng. Nếu việc sống thử của sinh viên diễn ra suông sẻ thì không có vấn đề gì, nếu không suông sẽ có thể ảnh hưởng rất lớn đến đời sống sau này, ảnh hưởng gia đình và xã hội."
+                },
+                {
+                    "id":3,
+                    "mean": "Trước hết là ảnh hưởng tới bản thân sinh viên trong cuộc sống thử. Khi sống thử, nếu tính cách của cả hai không hợp, vậy chỉ có thể ngày càng thất vọng về nhau, cuối cùng tình yêu đổ vỡ, ảnh hưởng tinh thần rất lớn. Tệ hại hơn là, nếu có xảy ra những sự việc ngoài ý muốn như mang thai thì việc chịu trách nhiệm của người sống thử cần được đặt ra. Liệu rằng một sinh viên đang tuổi ăn tuổi học có thể nuôi nấng đứa bé thật tốt không? Nếu như không có khả năng, vậy cho nên tình trạng phá bỏ thai và bỏ con ngày càng cao. Điều này cũng ảnh hưởng đến việc học hành và công việc sau này của cả người nam lẫn nữ."
+                },
+                {
+                    "id":4,
+                    "mean": "Đối với gia đình, nhà có con sống thử thì có thể chấp nhận hoặc không. Chính vì sự chênh lệch giữa hai thế hệ mà quan điểm về việc này sẽ khác nhau, có thể dẫn đến những mâu thuẫn trong gia đình. Bên cạnh đó, đa số là sinh viên xa nhà lựa chọn sống thử ở các thành phố lớn (đó là lý do hiện trạng sống thử của thành phố lớn cao hơn vùng nông thôn) nên không chịu sự quản lý của ba mẹ, một khi chuyện được rõ ràng thì có thể chịu nhiều lời bàn tán từ hàng xóm do quan điểm còn giữ nét truyền thống."
+                },
+                {
+                    "id":5,
+                    "mean": "Đối với xã hội, việc sống thử của sinh viên có lẽ sẽ là gánh nặng cho xã hội khi mà các ca phá thai ngày càng tăng cao, việc bỏ con mới đẻ ngày càng nhiều. Xã hội phải chịu một trách nhiệm lớn trong việc nuôi nấng những đứa trẻ mồ côi vì ba mẹ lại không muốn chịu trách nhiệm. Hy vọng các bạn sinh viên có thể cân nhắc trước khi quyết định. Chúng tôi khuyến khích các bạn nên tìm hiểu thêm về những quy định của luật hôn nhân và gia đình để biết rõ hơn về những vấn đề xung quanh hôn nhân."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Có nên sống thử khi còn là sinh viên hay không?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Tỷ lệ các bạn trẻ quan hệ tình dục trước hôn nhân tăng nhanh, trong khi kiến thức về các biện pháp tình dục an toàn, lành mạnh lại rất hạn chế. Đây cũng là nguyên nhân dẫn đến hiện tượng sinh viên đến các trung tâm, cơ sở y tế để nạo phá thai ngày càng tăng. Trong khi đó, tỷ lệ những cặp sinh viên quan hệ tình dục và sống thử khi ra trường tiến đến hôn nhân rất khiêm tốn. Đa phần sinh viên đã yêu khi sống độc lập, xa gia đình, ở trong các khu trọ không có người quản lý, các quy chế quy định về việc cư trú của sinh viên chưa được các trường cao đẳng, đại học giám sát chặt chẽ… đó là những điều kiện thuận lợi để sinh viên sống thử. Cho rằng sống thử để khẳng định tình yêu bền chặt, hiện tượng này diễn ra khá phổ biến trong giới sinh viên ở hầu hết các trường đại học, cao đẳng. Trên thực tế, không ít sinh viên chọn việc sống thử, chấp nhận mạo hiểm vì tình yêu, mà hậu quả chủ yếu do các bạn nữ gánh chịu rủi ro như: mang thai ngoài ý muốn và phá thai, rồi nhiều cặp đôi chia tay khi nhận ra mình khó hòa hợp với nhau. Không ít nữ sinh phải bỏ học để lập gia đình. Theo các chuyên gia tâm lý, thì sống thử trước hôn nhân, đặc biệt là ở sinh viên, đa phần thường dẫn đến tan vỡ, bởi họ chưa có khả năng tự quyết định cuộc sống của mình, chưa có công việc ổn định."
+                },
+                {
+                    "id":2,
+                    "mean": "Tình yêu và hôn nhân là hai khái niệm khác nhau. Tình yêu là thiên đường chú trọng đến cảm xúc, còn hôn nhân không phải là màu hồng trước những lo toan của cuộc sống, rất dễ xảy ra những va chạm và xung đột, có thể mẫu thuẫn mà không thể giải quyết thì ly hôn là điều khó tránh khỏi… Điều quan trong mà các bạn trẻ cần chú ý, đặc biệt là các bạn gái phải biết giữ mình, lựa chọn lối sống lành mạnh để học tập, đừng lấy mình ra để làm phép thử cho tình yêu, tránh phải gánh chịu hậu quả khi chưa sẵn sàng như: mang thai ngoài ý muốn, nạo phá thai ảnh hưởng nghiêm trọng đến sức khỏe, bỏ học giữa chừng."
+                },
+                {
+                    "id":3,
+                    "mean": "Ngày nay, cùng với sự phát triển mạnh của thế giới, tư tưởng của giới trẻ ngày càng thoáng hơn và càng tự tin hơn với bản thân nên vấn đề sống thử cũng ngày càng nhiều."
+                },
+                {
+                    "id":4,
+                    "mean": "Một vấn đề luôn có hai mặt đối lập của nó, có ưu điểm và nhược điểm. Khi những cặp tình nhân từng sống chung với nhau bị tan rã, họ nhận ra có lẽ bản thân đã yêu sai người và sẽ khó mở lòng với người khác hoặc sẽ mạnh dạn tiếp tục tìm một nửa của mình. Ngược lại, khi họ có một kết thúc có hậu với nhau, họ đã minh chứng cho một trường hợp sống thử thành công. Đối với sinh viên, những người trẻ nhưng vẫn chưa thể có đủ khả năng lo cho bản thân mình, luôn phải chật vật với cơm áo gạo tiền hay vẫn phải dựa vào sự chu cấp của phụ huynh, việc sống thử có thể là động lực giúp các bạn động viên nhau vượt qua hoặc sẽ cùng kéo nhau đi xuống. Sự non trẻ và thiếu chín chắn, chưa trưởng thành khiến cho cả hai không đủ sự cảm thông và thấu hiểu, động viên nhau vượt qua khó khăn mà cuộc sống chung mang lại. "
+                },
+                {
+                    "id":5,
+                    "mean": "Ngược lại, nếu bạn đã tự tin trang bị cho mình đầy đủ kiến thức, bản thân đã thực sự độc lập, có khả năng tự chịu trách nhiệm cho chính bản thân mình, việc sống thử sẽ không còn là vấn đề quá lớn lao, vì bạn đã trưởng thành và hoàn toàn có khả năng quyết định tương lai của mình."
+                },
+                {
+                    "id":6,
+                    "mean": "Lợi ích cua việc sống thử: "
+                },{
+                    "id": 7,
+                    "mean": "<ul><li>Đầu tiên đó là có nhiều thời gian bên nhau, gần gũi với nhau hơn. Người trẻ ngày nay quá bận rộn và có ít thời gian dành cho nhau, gặp mặt và nói chuyện với nhau chỉ qua một chiếc màn hình. Thế nên, việc sống thử sẽ rút ngắn khoảng cách về địa lý, gia tăng tình cảm, sự gắn kết của cả hai người.</li><li>Thứ hai, việc sống thử là cơ hội để trải nghiệm, nhìn nhận trước hôn nhân. Tỷ lệ ly hôn hiện nay rất cao, lý do chính bởi cách yêu và cưới quá vội vàng. Yêu và cưới là hai việc hoàn toàn khác nhau, nên sống thử là cơ hội để hiểu hơn phần nào về cuộc sống của đối phương. Để xem thử liệu có phải họ là người phù hợp để kết hôn hay không.</li><li>Cuối cùng, cả hai có thể cùng nhau vun đắp để có một đám cưới trọn vẹn trong tương lai. Không phải ai sống thử rồi cũng sẽ kết hôn, tuy nhiên khi họ đã chọn sống thử sẽ một những dự tính nhất định trong tương lai. Đây chính là cơ hội để cùng nhau thay đổi, vun đắp và thấu hiểu nhau hơn.</li></ul>"
+                },{
+                    "id": 8,
+                    "mean": "Tác hại cua việc sống thử: "
+                },{
+                    "id": 9,
+                    "mean": "<ul><li>Đầu tiên là bất đồng quan điểm sống. Chúng ta yêu nhau chỉ gặp và giao tiếp với nhau. Những khi sống chung mỗi người sẽ có một quan điểm và lối sống riêng dẫn đến sự bất đồng. Khi không có sự ràng buộc về pháp lý thì việc chia tay là điều không thể tránh khỏi.</li><li>Tiếp theo là những mâu thuẫn trong việc tiền bạc. Thường thì người nam sẽ chịu trách nhiệm về chuyện tiền bạc, tuy nhiên khi có thêm một người nữa sống chung thì trọng trách rất lớn. Tạo nên những áp lực về tiền và dễ dẫn đến xung đột. Một cách để khắc phục là lập kế hoạch chi tiêu cùng, thỏa thuận trước khi sống thử. Cuối cùng là bàn tán của những người xung quanh dễ tác động đến người trong cuộc. Một lượng lớn người không chấp nhận lối sống thử vì thế sẽ rất dễ bị bàn tán không tốt, gây nên những mâu thuẫn với đối phương.</li><li>Và quan trọng và phổ biến là sống thử không tránh khỏi thỏa mãn việc quan hệ tình dục. Chính vì vậy, khi cả hai bên không có sự tìm hiểu kỹ càng, sử dụng biện pháp phòng tránh và có kiến thức về tình dục an toàn, rất dễ dẫn đến những hệ lụy mà hai bên, đặc biệt bạn nữ phải gánh chịu. Đó là việc mang thai ngoài ý muốn hay lây các bệnh qua đường tình dục. Nếu các bạn sẵn sàng, thì có thể sẽ kết thúc bằng việc kết hôn và có một gia đình nhỏ. Tuy nhiên không ít trường hợp, các bạn không dám chịu trách nhiệm, nên dẫn đến muốn từ bỏ cái thai, đi đến các trung tâm, cơ sở y tế để thực hiện việc đó. Có một số trường hợp không lựa chọn đúng nơi làm uy tín, sẽ gây ra nhiều hậu quả nghiêm trọng, ảnh hưởng đến sức khỏe, đặc biệt là hệ sinh sản. Vì vậy, còn đang tuổi trẻ, chưa có nhiều kiến thức, trải nghiệm thì nên tìm hiểu, suy nghĩ, phải lựa chọn quyết định sao để tốt cho bản thân.</li></ul>"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+[
+    {   "id": 1,
+        "linktag": "../HTML/life.html",
+        "tag": "Life",
+        "img":"../img/Life.jpg",
+        "desc":"Life is a beautiful journey that is meant to be embraced to the fullest every day. However, that doesn't mean you always wake up ready to seize the day, and sometimes need a reminder that life is a great gift.",
+        "content": [
+            {
+                "id": 1,
+                "img": "../img/life_6.jpg",
+                "time": "13 August 2023",
+                "title": "Hạnh Phúc Là Gì?",
+                "desc": "Hạnh phúc là một trạng thái cảm xúc của con người khi được thỏa mãn một nhu cầu nào đó mang tính trừu tượng. Hạnh phúc là một cảm xúc bậc cao. Ở con người, nó mang tính nhân bản sâu sắc và thường chịu tác động của lý trí.[1] Hạnh phúc gắn liền với quan niệm về niềm vui trong cuộc sống.",
+                "link": "../HTML_life/hanh_phuc_la_gi.html"
+            },
+            {
+                "id": 2,
+                "img": "../img/life_5.jpg",
+                "time": "12 August 2023",
+                "title": "Luận Văn FACTORS INFLUENCING QUALITY OF LIFE",
+                "desc": "Chất lượng cuộc sống ( QOL ) được Tổ chức Y tế Thế giới định nghĩa là nhận thức của một cá nhân về vị trí của họ trong cuộc sống trong bối cảnh văn hóa và hệ thống giá trị mà họ sống và liên quan đến mục tiêu, kỳ vọng, tiêu chuẩn và mối quan tâm của họ",
+                "link": "../HTML_life/quality_of_life.html"
+            },
+            {
+                "id": 3,
+                "img": "../img/life_2.jpg",
+                "time": "11 August 2023",
+                "title": "Quyển sách về cây cối hay nhất",
+                "desc": "Giả sử hành tinh này được sinh ra vào nửa đêm và nó sống trong một ngày thì cây cối xuất hiện trên mặt đất ngay trước mười giờ đêm. 11 giờ đêm, khủng long trút cạn sinh lực cuối cùng. Còn con người chỉ xuất hiện 4 phút trước nửa đêm. Đến nửa đêm, phần lớn địa cầu được biến thành các mùa vụ canh tác theo luống để phục vụ và cung cấp thức ăn cho một loài duy nhất, loài mà chỉ xuất hiện 4 phút trước nửa đêm.",
+                "link": "../HTML_life/quyen_sach_ve_cay_coi_hay_nhat.html"
+            },
+            {
+                "id": 4,
+                "img": "../img/life_3.jpg",
+                "time": "10 August 2023",
+                "title": "Sống tối giản dưới 7kg hành lý",
+                "desc": "Trong chuyến đi xuyên Việt năm nay, do mình cũng phải trả phòng nên đành phải mang theo hết hành lý. Cộng với việc chơi ván nữa nên cũng mang theo 2 cái ván",
+                "link": "../HTML_life/song_toi_gian_duoi_7_kg.html"
+            },
+            {
+                "id": 5,
+                "img": "../img/life_4.jpg",
+                "time": "9 August 2023",
+                "title": "Tự học hay học với thầy?",
+                "desc": "Đây là lần thứ 2 mình học tiếng Trung. Lần trước tự học được mấy bữa cũng bỏ. Mình mua 2 khoá tiếng Đức với tiếng Tân Ban Nha rồi cũng bỏ đó.Mình cũng mua 4 loại nhạc cụ luôn, tự học mấy bữa trên Youtube, rồi giờ cũng không biết đánh đàn nào hết.",
+                "link": "../HTML_life/tu_hoc_hay_hoc_voi_thay.html"
+            },
+            {
+                "id": 6,
+                "img": "../img/life_1.jpg",
+                "time": "8 August 2023",
+                "title": "Ý nghĩa cuộc sống là gì?",
+                "desc": "Bạn hỏi vì bạn đang chơi vơi, rối bời và bất ổn. Và bạn muốn thứ gì đó ổn định có phải không?",
+                "link": "../HTML_life/Y_nghia_cuoc_song.html"
+            }
+            
+        ]
+    },
+    {
+        "id": 2,
+        "linktag": "../HTML/business.html",
+        "tag": "Business",
+        "img":"../img/business.jpg",
+        "desc":"Filled with a healthy dose of everything an entrepreneur could want, Mashable Business gives you a great idea about current business trends, especially when it comes to the digital landscape",
+        "content": [
+            {
+                "id": 1,
+                "img": "../img/business_2.jpg",
+                "time": "7 August 2023",
+                "title": "Ngành Business là gì?",
+                "desc": "Business là thuật ngữ tiếng Anh có tên gọi tiếng việt là kinh doanh, được hiểu là những hoạt động kinh tế xoay quanh vấn đề sản xuất và phân phối các loại hàng hóa, dịch vụ nhằm đáp ứng nhu cầu cần thiết của con người.",
+                "link": "../HTML_business/business_la_gi.html"
+            },
+            {
+                "id": 2,
+                "img": "../img/business_6.jpg",
+                "time": "6 August 2023",
+                "title": "GIÁM ĐỐC KINH DOANH LÀ GÌ? VAI TRÒ NHIỆM VỤ VÀ MÔ TẢ CÔNG VIỆC",
+                "desc": "Giám đốc kinh doanh là người đứng đầu bộ phận kinh doanh của một công ty hoặc tổ chức. Chịu trách nhiệm quản lý, điều hành, chỉ đạo và định hướng các hoạt động kinh doanh nhằm đạt được các mục tiêu doanh số, lợi nhuận và phát triển của công ty. Giám đốc kinh doanh có tên tiếng Anh là Chief Customer Officer – viết tắt CCO.",
+                "link": "../HTML_business/giam_doc_kinh_doanh.html"
+            },
+            {
+                "id": 3,
+                "img": "../img/business_1.jpg",
+                "time": "5 August 2023",
+                "title": "Kinh Doanh là  gì?",
+                "desc": "Kinh doanh là việc thực hiện liên tục một, một số hoặc tất cả công đoạn của quá trình từ đầu tư, sản xuất đến tiêu thụ sản phẩm hoặc cung ứng dịch vụ trên thị trường nhằm mục đích tìm kiếm lợi nhuận.",
+                "link": "../HTML_business/kinh_doanh_la_gi.html"
+            },
+            {
+                "id": 4,
+                "img": "../img/business_4.jpg",
+                "time": "4 August 2023",
+                "title": "Kinh Nghiệm bán hàng trên shoppe",
+                "desc": "Bạn hoàn toàn có thể bắt đầu học hỏi kinh nghiệm kinh doanh Shopee mà không cần chút vốn nào. Mô hình này là lựa chọn hoàn hảo dành cho các bạn trẻ yêu thích kinh doanh nhưng lại chưa đủ vốn hoặc có ít vốn. Từ việc tạo gian hàng, đăng sản phẩm, cho đến các công cụ quảng bá sản phẩm thì Shopee cũng đều cung cấp miễn phí cho bạn. Đây thật sự là một điểm mạnh rất lớn của Shopee dành cho người mới bắt đầu kinh doanh online. Nếu chăm chỉ hỏi hỏi kinh nghiệm từ người đã thành công, bạn sẽ dễ dàng trả lời được câu hỏi cách kinh doanh trên Shopee như thế nào?",
+                "link": "../HTML_business/kinh_nghiem_ban_hang_tren_shoppe.html"
+            },
+            {
+                "id": 5,
+                "img": "../img/business_5.jpg",
+                "time": "3 August 2023",
+                "title": "Mở quán cà phê cần những gì? Bí quyết là gì?",
+                "desc": "Về cơ bản bước này các bạn cần thực hiện thăm dò, khảo sát thị trường để đưa ra cho mình định hướng kinh doanh tốt nhất để lên kế hoạch kinh doanh một cách chi tiết.",
+                "link": "../HTML_business/mo_quan_cafe_nho_can_gi.html"
+            },
+            {
+                "id": 6,
+                "img": "../img/business_3.jpg",
+                "time": "2 August 2023",
+                "title": "Thời Đại của Kinh Doanh Online",
+                "desc": "Kinh doanh online trở thành trào lưu thịnh hành trong vài năm gần đây, khi Internet và số người dùng smart phone ở Việt Nam phát triển bùng nổ. Vậy kinh doanh online là gì?",
+                "link": "../HTML_business/thoi_dai_cua_kinh_doanh_online.html"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "linktag": "../HTML/build_the_product.html",
+        "tag": "Product",
+        "img":"../img/build-the-product.jpg",
+        "desc":"This blog aims to help you understand and land that product role of your dreams. It shares insights on salaries, in-demand product manager skills, and job descriptions. This blog has advice on how to create a CV that gets attention",
+        "content": [
+            {
+                "id": 1,
+                "img": "../img/product_4.jpg",
+                "time": "1 August 2023",
+                "title": "Tìm hiểu 7 bước phát triển sản phẩm",
+                "desc": "Đối với hầu hết các chủ doanh nghiệp dày dạn kinh nghiệm và các doanh nhân đầy tham vọng, quá trình phát triển sản phẩm thường mang một luồng khí thần bí.",
+                "link": "../HTML_product/7_buoc_paht_trien_san_pham.html"
+            },
+            {
+                "id": 2,
+                "img": "../img/product_5.jpg",
+                "time": "31 July 2023",
+                "title": "Cuốn sách Sản phẩm: Cách trở thành Giám đốc Sản phẩm xuất sắc",
+                "desc": "Chúng tôi cung cấp chuyên môn của mình cho bạn sau khi giúp nhiều sinh viên chuyển sang quản lý sản phẩm",
+                "link": "../HTML_product/cach_tro_thanh_giam_doc_xuat_xac.html"
+            },
+            {
+                "id": 3,
+                "img": "../img/product_2.jpg",
+                "time": "30 July 2023",
+                "title": "Làm Giàu bằng thực Lực",
+                "desc": "Mình rất thích bác Naval Ravikant - founder của Angel List. Bác Naval có các podcast, tweet storm rất hay về cách làm giàu, hạnh phúc, và cuộc sống.",
+                "link": "../HTML_product/lam_giau_bang_thuc_luc.html"
+            },
+            {
+                "id": 4,
+                "img": "../img/product_1.jpg",
+                "time": "29 July 2023",
+                "title": "Vậy sản phẩm ở đây là gì?",
+                "desc": "Product có thể là một sản phẩm vậy lý như con chuột bàn phím, laptop, điện thoại. Nó cũng có thể là phần mềm như Facebook, Email.",
+                "link": "../HTML_product/product_manager.html"
+            },
+            {
+                "id": 5,
+                "img": "../img/product_3.jpg",
+                "time": "28 July 2023",
+                "title": "Xây dựng đúng sản Phẩm",
+                "desc": "Đầu tiên và quan trọng nhất, trọng tâm của PM phải luôn là xây dựngPhải sản phẩm. Trước khi bắt đầu một đường dẫn cụ thể, có một số Câu hỏi cần giải quyết trong Phần khởi động Khám phá Sản phẩm của bạn trước khi viết một dòng mã.",
+                "link": "../HTML_product/xay_dung_dung_san_pham.html"
+            },
+            {
+                "id": 6,
+                "img": "../img/product_6.jpg",
+                "time": "27 July 2023",
+                "title": "Các Bước Xây Dựng Thương Hiệu Cá Nhân",
+                "desc": "Xây dựng thương hiệu cá nhân trên facebook là một trong những việc làm hết sức quan trọng đối với mỗi doanh nghiệp. Bởi thương hiệu cá nhân không chỉ giúp cho người khác tin vào những điều mà mình đang đăng trên Facebook. Mà còn giúp người dùng biết đến sản phẩm và thương hiệu của công ty. Trong bài viết này, chúng tôi chia sẻ với bạn về các phương pháp xây dựng thương hiệu cá nhân mang lại hiệu quả tốt nhất.",
+                "link": "../HTML_product/xay_dung_thuong_hieu_ca_nhan.html"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "linktag": "../HTML/technology.html",
+        "tag": "Technology",
+        "img":"../img/technology.jpg",
+        "desc":"This blog aims to help you understand and land that product role of your dreams. It shares insights on salaries, in-demand product manager skills, and job descriptions. This blog has advice on how to create a CV that gets attention",
+        "content": [
+            {
+                "id": 1,
+                "img": "../img/technology_1.jpg",
+                "time": "26 July 2023",
+                "title": "Đối thoại với AI: Generative AI (AI tạo sinh) và những điều cần biết",
+                "desc": "Trí tuệ nhân tạo Tạo sinh (Generative AI) đang là một chủ đề nóng trong ngành AI hiện nay. Vậy nó là gì và bạn cần biết những gì về nó? Hãy cùng tìm hiểu qua cuộc trò chuyện giữa mình và trợ lý AI Claude dưới đây nhé",
+                "link": "../HTML_technology/Doi_thoai_voi_AI.html"
+            },
+            {
+                "id": 2,
+                "img": "../img/technology_5.jpg",
+                "time": "25 July 2023",
+                "title": "Kỹ sư IT Việt Nam đang nhận lương bao nhiêu một tháng",
+                "desc": "Kỹ sư IT có thể thu nhập trăm triệu đồng mỗi tháng nhưng phải đánh đổi nhiều hơn về thời gian, sức khoẻ so với người nhận lương vài chục triệu đồng.",
+                "link": "../HTML_technology/ki_su_it_luong_thang_bao_nhieu.html"
+            },
+            {
+                "id": 3,
+                "img": "../img/technology_2.jpg",
+                "time": "24 July 2023",
+                "title": "Product Manager là gì?",
+                "desc": "Trong Inspired - quyển sách khá nổi tiếng về Product Manager, Marty Cagan mô tả công việc của Product Manager là:",
+                "link": "../HTML_technology/product_manager.html"
+            },
+            {
+                "id": 4,
+                "img": "../img/technology_3.jpg",
+                "time": "23 July 2023",
+                "title": "Sự cố máy tính năm 2000",
+                "desc": "Sự cố máy tính năm 2000 (còn được gọi là sự cố Y2K, lỗi thiên niên kỷ, hay đơn giản là Y2K) là sự cố máy tính diễn ra vào thời khắc đầu tiên bước sang năm 2000. Nguyên nhân là do các máy tính thế hệ cũ, các vi mạch đồng hồ điện tử cũ không thể nhận biết được sự khác biệt giữa các năm 2000 và 1900, bởi vì chúng được lập trình với 2 chữ số cuối cùng của năm nhằm tiết kiệm dung lượng lưu trữ khi mà giá cả sản xuất phần cứng máy tính trong giai đoạn đầu còn đắt đỏ. Khi những máy này cộng thêm một con số vào sau 99",
+                "link": "../HTML_technology/su_co_may_tinh_y2k.html"
+            },
+            {
+                "id": 5,
+                "img": "../img/technology_4.jpg",
+                "time": "22 July 2023",
+                "title": "Bạn hiểu thế nào về công nghệ thông tin!",
+                "desc": "Technology hay còn gọi là công nghệ là sự phát minh, sự thay đổi, việc sử dụng và kiến thức về công cụ, máy móc, kỹ thuật, kỹ năng nghề nghiệp, hệ thống, phương pháp tổ chức,… Technology sẽ giải quyết một vấn đề, cải tiến một giải pháp đã tồn tại để đạt được mục đích hay thực hiện một chức năng cụ thể đòi hỏi hàm lượng chất xám cao. Ảnh hưởng nhiều đến khả năng kiểm soát và thích nghi của con người.",
+                "link": "../HTML_technology/technology_la_gi.html"
+            },
+            {
+                "id": 6,
+                "img": "../img/technology_6.jpg",
+                "time": "21 July 2023",
+                "title": "Tổng Quan về ngành công nghệ thông tin!",
+                "desc": "Hiện nay, ngành công nghệ thông tin là một trong những ngành học được chú trọng trong hệ thống đào tạo của trường Đại học Công nghệ thông tin cũng như các trường Đại học khác có đào tạo ngành học này. Nó được xem là ngành đào tạo mũi nhọn hướng đến sự phát triển của công nghệ và khoa học kỹ thuật trong thời đại số hóa ngày nay.",
+                "link": "../HTML_technology/tong_quan_ve_cong_nghe_thong_tin.html"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "linktag": "../HTML/traval.html",
+        "tag": "Travel",
+        "img":"../img/travel.jpg",
+        "desc":"This blog aims to help you understand and land that product role of your dreams. It shares insights on salaries, in-demand product manager skills, and job descriptions. This blog has advice on how to create a CV that gets attention",
+        "content": [
+            {
+                "id": 1,
+                "img": "../img/traval_1.jpg",
+                "time": "20 July 2023",
+                "title": "Địa điểm vui chơi tại Đà Lạt",
+                "desc": "Lạc vào xứ sở vẻ đẹp mơ màng của hoa CÚC HỌA MI, loài hoa khoe sắc từ tháng 12 đến tháng 3. Cùng cúc họa mi, Mai Anh Đào khoe sắc như tô điểm thêm vẻ đẹp rực rỡ trên mặt hồ làm xao xuyến bao trái tim du khách ghé thăm.",
+                "link": "../HTML_traval/du_lich_tai_da_lat.html"
+            },
+            {
+                "id": 2,
+                "img": "../img/traval_2.jpg",
+                "time": "19 July 2023",
+                "title": "Kinh nghiệm đi Công Viên Suối Mơ 1 ngày chi tiết nhất",
+                "desc": "Trước khi đi sâu vào kinh nghiệm vui chơi tại công viên Suối Mơ, Halo sẽ hướng dẫn bạn đường đi tới đây trước nhé. Từ trung tâm thành phố Hồ Chí Minh, bạn có thể chọn phương tiện cá nhân hoặc xe khách để tới Suối Mơ Park.",
+                "link": "../HTML_traval/du_lich_tai_suoi_mo.html"
+            },
+            {
+                "id": 3,
+                "img": "../img/traval_3.jpg",
+                "time": "18 July 2023",
+                "title": "Địa Điểm vui chơi, check in cực đẹp tại vũng tàu",
+                "desc": "Hồ Bàu Sen được ví như “lá phổi xanh” tại Vũng Tàu, trở thành điểm du lịch mới hấp dẫn mà bạn nên đến trải nghiệm khi có dịp ghé thăm Thành phố biển. Không gian rộng, thoáng mát cực chill giúp bạn giảm căng thẳng sau những bộn bề công việc.",
+                "link": "../HTML_traval/du_lich_tai_vung_tau.html"
+            },
+            {
+                "id": 4,
+                "img": "../img/traval_4.jpg",
+                "time": "17 July 2023",
+                "title": "Khu vui chơi đàm sen tại thành phố HCM",
+                "desc": "Công viên Văn hóa Đầm Sen đã thu hút hàng ngàn lượt khách tham quan mỗi năm. Tới đây, bạn sẽ có cơ hội hòa mình vào thiên nhiên, trải nghiệm nhiều trò hay, tìm thấy những giây phút thư giãn cực đã!",
+                "link": "../HTML_traval/khu_vui_choi_dam_sen.html"
+            },
+            {
+                "id": 5,
+                "img": "../img/traval_5.jpg",
+                "time": "16 July 2023",
+                "title": "Lợi ích của việc du lịch bằng máy bay thay vì tàu hỏa, xe khác mà bạn nên biết",
+                "desc": "Ngày nay, sự phát triển mạnh mẽ của ngành hàng không biến máy bay trở thành phương tiện đi lại vô cùng phổ biến trong đời sống. Dù đi công tác, về quê hay đi du lịch thì máy bay vẫn luôn là ưu tiên hàng đầu",
+                "link": "../HTML_traval/loi_ich_cua_viec_du_lich_bang_may_bay.html"
+            },
+            {
+                "id": 6,
+                "img": "../img/traval_6.jpg",
+                "time": "15 July 2023",
+                "title": "Vừa làm việc vừa du lịch với xu hướng workation",
+                "desc": "Phương pháp vừa làm việc vừa du lịch workation được dự đoán có thể trở thành xu hướng, đặc biệt trong đại dịch.",
+                "link": "../HTML_traval/vua_du_lich_vua_lam_them.html"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "linktag": "../HTML/problem.html",
+        "tag": "Problem",
+        "img":"../img/problem.jpg",
+        "desc":"This blog aims to help you understand and land that product role of your dreams. It shares insights on salaries, in-demand product manager skills, and job descriptions. This blog has advice on how to create a CV that gets attention",
+        "content":[
+            {
+                "id": 1,
+                "img": "../img/problem_1.jpg",
+                "time": "14 July 2023",
+                "title": "Năm vấn đề về giảng viên đại học",
+                "desc": "Với giáo dục đại học (GDÐH), đối tượng học là người lao động, là những cử nhân, kỹ sư tương lai. Họ chính là lực lượng bổ sung trọng yếu hằng năm cho nguồn nhân lực chất lượng cao nước nhà, là nhân tố động lực phát triển của nền kinh tế đất nước.",
+                "link": "../HTML_problem/5_van_de_giang_vien_dai_hoc.html"
+            },
+            {
+                "id": 2,
+                "img": "../img/problem_2.jpg",
+                "time": "13 July 2023",
+                "title": "Ô nhiễm môi trường nơi trường học",
+                "desc": "Vấn đề rác thải là vấn đề nan giải của toàn xã hội, trong đó có khu vực trường học, nơi tập trung rất đông những bạn trẻ được xem là chủ nhân tương lai của đất nước.Việc bảo vệ vệ sinh môi trường đang là một vấn đề rất bức thiết trong cuộc sống chung của chúng ta hiện nay. Trong môi trường học đường thì lâu nay sự ô nhiễm vẫn tồn tại nhưng lại bị mọi người bỏ quên, và chính học sinh, sinh viên những người được xem là chủ nhân tương lai của đất nước cũng thể hiện ra ý thức rất kém trong việc giữ gìn vệ sinh trong môi trường lớp học. Từ các cấp mẫu giáo, tiểu học cho tới đại học, các em học sinh, sinh viên luôn được giáo dục rất kỹ lưỡng về ý thức bảo vệ môi trường sống xanh - sạch đẹp ở mọi nơi, mọi chỗ.",
+                "link": "../HTML_problem/o_nhiem_moi_truong_noi_truong_hoc.html"
+            },
+            {
+                "id": 3,
+                "img": "../img/problem_3.jpg",
+                "time": "12 July 2023",
+                "title": "Những phát minh vĩ đại của Nikola Tesla",
+                "desc": "Tesla từng nghĩ đến ý tưởng khai thác nguồn năng lượng miễn phí đến từ những hạt nguyên tử, các loài tia đầy rẫy trong vũ trụ. Đây là ý tưởng bị coi là khoa học giả tưởng với hầu hết các nhà nghiên cứu vì nó không thực tế.",
+                "link": "../HTML_problem/phat_minh_khong_tuong_nikola_texla.html"
+            },
+            {
+                "id": 4,
+                "img": "../img/problem_4.jpg",
+                "time": "10 July 2023",
+                "title": "Tình trạng sống thử của sinh viên hiện nay",
+                "desc": "Hiện tượng sống thử thường xuất hiện nhiều ở thành phố phát triển và ở độ tuổi sinh viên. Hiện tượng sống thử của sinh viên hiện nay rất phổ biến, không thể thống kê được số lượng những sinh viên sống thử trước khi kết hôn. Lý do dẫn đến tình trạng sống thử của sinh viên hiện nay một phần là do tâm lý xã hội đã khá thoải mái về quan hệ tình cảm và hôn nhân. Nhiều người trẻ nghĩ thoáng trong vấn đề sống chung, hơn nữa còn có thể có những lợi ích từ việc sống thử. Ví dụ như sinh viên ở chung với nhau có thể tiết kiệm được một khoảng sinh hoạt phí và phí thuê nhà. Hơn nữa, xuất phát từ sự tò mò về quan hệ hôn nhân của sinh viên mà những người này lựa chọn sống thử.",
+                "link": "../HTML_problem/tinh_trang_song_thu_cua_sinh_vien_hien_nay.html"
+            },
+            {
+                "id": 5,
+                "img": "../img/problem_5.jpg",
+                "time": "9 July 2023",
+                "title": "Vấn đề đi làm thêm của sinh viên hiện nay",
+                "desc": "Xét về nguồn nhân lực, sinh viên được coi là lực lượng lao động “không chính thức” dào dồi, có sức khỏe tốt và có kiến thức để tham gia vào bất kỳ công việc nào. Chính vì thế, trong một số lĩnh vực nghề nghiệp, các nhà tuyển dụng ưu tiên tuyển nhân viên vào làm việc thay vì các nhân sự chính thức.",
+                "link": "../HTML_problem/van_de_sinh_vien_di_lam_them.html"
+            },
+            {
+                "id": 6,
+                "img": "../img/problem_6.jpg",
+                "time": "8 July 2023",
+                "title": "Những sai lầm mà sinh viên năm nhất thường hay mắc phải.",
+                "desc": "Sau một đêm tiệc tùng, ta khó có thể kìm được ham muốn trốn học. Quả là đơn giản khi chỉ cần lên mạng xã hội để xin ghi chú về bài giảng và bài tập. Nhưng, ngược lại, bạn cũng sẽ không được trải nghiệm các giờ học tập trên lớp, lắng nghe những lời giảng sâu sắc của các giáo sư và tham gia thảo luận.",
+                "link": "../HTML_problem/van_de_sinh_vien_nam_nhat_hay_mac_phai.html"
+            }
+        ]
+    }
+]
+
+

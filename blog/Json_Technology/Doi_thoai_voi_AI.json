@@ -1,0 +1,165 @@
+{
+    "background":"../img/technology_1.jpg",
+    "titles": "Đối thoại với AI: Generative AI (AI tạo sinh) và những điều cần biết",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Đối thoại với AI: Generative ",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Trí tuệ nhân tạo Tạo sinh (Generative AI) đang là một chủ đề nóng trong ngành AI hiện nay."
+                },
+                {
+                    "id": 2,
+                    "mean": "Vậy nó là gì và bạn cần biết những gì về nó? Hãy cùng tìm hiểu qua cuộc trò chuyện giữa mình và trợ lý AI Claude dưới đây nhé"
+                }, {
+                    "id": 3,
+                    "mean": "<img style='height: 100%; width: 80%;' src'../img/generative_ai.png' style:/>"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Người: Bạn có thể giải thích về Trí tuệ nhân tạo Tạo Generative AI sinh cho trẻ 10 tuổi hiểu được không?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Trợ lý AI: Được rồi, đây là cách tôi sẽ giải thích về trí tuệ nhân tạo tạo sinh cho trẻ 10 tuổi:"
+                },
+                {
+                    "id":2,
+                    "mean": "Trí tuệ nhân tạo tạo sinh là một loại AI có khả năng tự tạo ra những thứ mới mẻ, chẳng hạn như viết truyện hoặc vẽ tranh. Nó giống như cho máy tính sức tưởng tượng vậy!"
+                },{
+                    "id":3,
+                    "mean": "Máy tính sử dụng công nghệ gọi là học máy, trong đó nó nghiên cứu rất nhiều ví dụ về một thứ gì đó, ví dụ như truyện hay tác phẩm nghệ thuật, để học cách chúng được tạo ra. Sau đó, nó có thể sử dụng những gì đã học được để tạo ra các ví dụ hoàn toàn mới mà trông có vẻ do con người làm ra."
+                },{
+                    "id":4,
+                    "mean": "Một số ví dụ về những gì AI tạo sinh có thể tạo ra bao gồm:"
+                },{
+                    "id":5,
+                    "mean": "<ul><li>Những câu chuyện hay bài thơ mới, thậm chí theo nhiều thể loại hay phong cách khác nhau</li><li>Những hình ảnh mới về bất cứ thứ gì - con người, động vật, vật thể, thậm chí cả sinh vật huyền bí</li><li>Những video hay hoạt ảnh mới</li><li>Âm nhạc và bài hát</li><li>Các chương trình và mã máy tính</li></ul>"
+                },{
+                    "id":6,
+                    "mean": "Nói tóm lại, AI tạo sinh là máy tính có trí tưởng tượng, có thể tạo ra nhiều thứ mới mẻ sau khi nghiên cứu các ví dụ thực tế do con người tạo ra. Đây vẫn là công nghệ mới nhưng nó ngày càng hoàn thiện hơn! Bạn có hiểu AI tạo sinh là gì không? Hãy cho tôi biết nếu bạn có câu hỏi nào nhé!"
+                }
+
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Người: Thế prompts là gì?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Trợ lý AI: Câu hỏi hay! Prompts là một phần quan trọng trong cách hoạt động của AI tạo sinh"
+                },
+                {
+                    "id":2,
+                    "mean": "Đây có lẽ là đồ thị venn rất dễ bắt gặp khi ban tìm hiểu về Product Manager. Bạn không nhất thiết phải master ở cả 3 lĩnh vực. Nhưng bạn cần có kinh nghiệm ở một lĩnh vực và có niềm đam mê học hỏi, nghiên cứu cả ba."
+                },
+                {
+                    "id":3,
+                    "mean": "Prompt là một đoạn text người dùng nhập vào để cho AI biết họ muốn nó tạo ra loại nội dung gì. Nó giống như cung cấp các ý tưởng hay nguồn cảm hứng ban đầu cho AI. Một số ví dụ:"
+                },
+                {
+                    "id":4,
+                    "mean": "<ul><li>Nếu bạn muốn AI tạo ra một câu chuyện, prompt của bạn có thể là Hãy viết một câu chuyện giả tưởng ngắn về một cô gái phát hiện ra một sinh vật ma thuật.</li><li>Nếu bạn muốn nó tạo ra một hình ảnh, prompt có thể là Một bức tranh sơn dầu về một con kỳ lân trong rừng.</li><li>Đối với một bài hát, bạn có thể nhập Một bài hát dân gian vui vẻ có guitar và piano.</li></ul>"
+                },
+                {
+                    "id":5,
+                    "mean": "AI sau đó sẽ sử dụng prompt để bắt đầu tạo ra thứ gì đó mới. Prompt càng chi tiết thì AI càng hiểu rõ bạn muốn nó tạo ra cái gì."
+                },
+                {
+                    "id":6,
+                    "mean": "Prompt giúp hướng dẫn AI và đưa ra các ràng buộc để những gì nó tạo ra có ý nghĩa. Nếu không có prompt tốt, output có thể ngẫu nhiên hoặc vô nghĩa. Prompt giúp bạn điều khiển sự sáng tạo của AI!"
+                },
+                {
+                    "id":7,
+                    "mean": "Bạn có hiểu prompts là gì rồi không? Cho tôi biết nếu bạn còn thắc mắc gì nhé!"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Bạn có hiểu prompts là gì rồi không? Cho tôi biết nếu bạn còn thắc mắc gì nhé!",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Trợ lý AI: Đây là một số mẹo để viết prompt tốt cho AI tạo sinh:"
+                },{
+                    "id":2,
+                    "mean":"<ul><li>Cụ thể - Cung cấp nhiều chi tiết có thể cho AI. Thay vì một câu chuyện về một cô gái, hãy viết một câu chuyện giả tưởng về một cô gái 12 tuổi có thể nói chuyện với rồng.</li><li>Sử dụng ngôn ngữ sinh động - Chọn các từ mô tả chi tiết để tạo ra hình ảnh. Ví dụ: một bức tranh tĩnh vật sống động với những loại trái cây nhiệt đới trong một giỏ mộc.</li><li>Đặt ngữ điệu - Sử dụng các từ để thể hiện tâm trạng bạn muốn cho nội dung được tạo ra. Ví dụ: một bài hát pop vui vẻ với lời lạc quan.</li><li>Đưa ra bối cảnh - Chi tiết về địa điểm, thời kỳ, thể loại, v.v. giúp hướng dẫn AI. Ví dụ: một câu chuyện kiểu viễn tưởng cyberpunk lấy bối cảnh ở Tokyo năm 2150.</li><li>Tránh mơ hồ - Hãy nêu rõ bạn muốn gì. Đừng để cho nhiều cách hiểu.</li><li>Kích thích sự sáng tạo - Những prompt độc đáo kích thích trí tưởng tượng của AI. Ví dụ: một công thức cho một hương vị kem mới lấy cảm hứng từ cực quang.</li><li>Kiểm tra prompt trước khi tạo - Đảm bảo prompt cụ thể, rõ ràng và hấp dẫn trước khi nhấn nút tạo.</li><li>Thử nhiều prompt khác nhau - Thí nghiệm để xem prompt nào cho kết quả tốt nhất.</li><li>Học hỏi từ kinh nghiệm - Điều chỉnh prompt trong tương lai dựa trên những gì hoạt động tốt và chưa tốt.</li></ul>"
+                },{
+                    "id":1,
+                    "mean": "Càng thực hành viết prompt, bạn sẽ càng giỏi trong việc hướng dẫn AI tạo ra ý tưởng bạn muốn! Cho tôi biết nếu bạn cần thêm mẹo viết prompt nhé."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Người: Làm thế nào để áp dụng viết prompt để kiếm tiền?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Trợ lý AI: Dưới đây là một số ý tưởng để kiếm tiền với prompt AI tạo sinh:"
+                },
+                {
+                    "id":2,
+                    "mean": "<ul><li>Viết nội dung freelance - Cung cấp dịch vụ viết prompt riêng cho khách hàng để tạo ra nội dung như bài viết, truyện, mô tả sản phẩm, v.v. theo nhu cầu của họ.</li><li>Bán nội dung được tạo ra - Sử dụng prompt để tạo ra các sản phẩm như ebook, thơ, slogan và bán nội dung trên các sàn thương mại điện tử.</li><li>Marketing mạng xã hội - Cung cấp dịch vụ tạo ra prompt để tạo ra các bài đăng, caption, hashtag trên mạng xã hội cho các thương hiệu.</li><li>Tư vấn AI - Cung cấp dịch vụ tư vấn cho doanh nghiệp về cách tận dụng AI tạo sinh, cách viết prompt hiệu quả.</li><li>Thiết kế prompt - Thiết kế các bộ prompt xoay quanh các chủ đề đặc thù để bán hoặc cấp phép cho người tạo nội dung.</li><li>Chào bán ý tưởng - Sử dụng prompt để viết các ý tưởng hoặc kịch bản và chào bán cho các nhà xuất bản/phim ảnh.</li><li>Thu thập prompt từ cộng đồng - Thu thập prompt từ cộng đồng để biên tập thành sách hoặc công cụ prompt bán.</li><li>Prompt NFT - Bán các bộ prompt giới hạn dưới dạng NFT để người mua có thể dùng tạo nội dung độc đáo.</li><li>Đăng ký nhận prompt - Cung cấp gói prompt hàng tháng để người dùng đăng ký nhận để tạo nội dung.</li><li>Chủ đề podcast - Tạo ra các prompt podcast xoay quanh các xu hướng để bán hoặc chào các host.</li></ul>"
+                },
+                {
+                    "id":3,
+                    "mean": "Chìa khóa là sử dụng prompt một cách sáng tạo để cung cấp giá trị cho người khác thông qua việc tạo nội dung, nguồn cảm hứng, v.v.! Cho tôi biết nếu bạn cần ý tưởng kiếm tiền từ prompt nhé."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Người: Những lựa chọn thay thế cho Claude AI để sử dụng AI Tạo sinh là gì?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Trợ lý AI: Dưới đây là một số lựa chọn thay thế cho Claude AI để truy cập AI tạo sinh:"
+                },
+                {
+                    "id":2,
+                    "mean": "<ul><li>Anthropic - Đơn vị tạo ra Claude. Cung cấp Claude thông qua danh sách chờ/đăng ký trả phí.</li><li>OpenAI API - Cung cấp quyền truy cập các mô hình GPT-3 và DALL-E thông qua API trả phí.</li><li>Cohere - Các mô hình AI dùng để tạo văn bản thông qua API trả phí.</li><li>InferKit - Các mô hình AI tạo sinh dùng để tạo nội dung văn bản. Có gói miễn phí và trả phí.</li><li>Rytr - Trợ lý AI viết nội dung quảng cáo và nội dung tiếp thị. Có gói miễn phí và trả phí.</li><li>ShortlyAI - API tạo văn bản có gói miễn phí và đăng ký trả phí.</li><li>Sudowrite - Trợ lý viết AI thông qua tiện ích mở rộng trình duyệt Chrome. Có phiên bản miễn phí.</li><li>Writesonic - Công cụ viết nội dung AI với thử miễn phí và đăng ký trả phí.</li><li>Quillbot - Công cụ cải biên văn bản làm đơn giản hóa và mở rộng văn bản. Có gói miễn phí và trả phí.</li><li>Elephas - Thư viện mã nguồn mở Python để truy cập các mô hình tạo văn bản miễn phí.</li></ul>"
+                },
+                {
+                    "id":3,
+                    "mean": "Giá cả và khả năng của các dịch vụ này khác nhau, vì vậy nên khảo sát để tìm nền tảng phù hợp nhất với nhu cầu và ngân sách của bạn"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Kết",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Qua cuộc trò chuyện trên, chúng ta có thể thấy trí tuệ nhân tạo tạo sinh là một lĩnh vực phát triển vượt bậc. Nó mở ra nhiều cơ hội và tiềm năng cho cả doanh nghiệp lẫn người tiêu dùng."
+                },
+                {
+                    "id":2,
+                    "mean": "Mình rất ngưỡng mộ sức mạnh và khả năng sáng tạo của công nghệ AI này. Nó giúp máy móc trở nên thông minh và linh hoạt hơn rất nhiều. Đồng thời, nó cũng giúp con người tiết kiệm thời gian và công sức cho nhiều công việc."
+                },
+                {
+                    "id":3,
+                    "mean": "Tuy nhiên, cũng cần lưu ý về mặt đạo đức và an toàn khi phát triển và ứng dụng AI. Hy vọng các nhà khoa học và doanh nghiệp sẽ chú trọng phát triển AI có trách nhiệm, vì lợi ích của con người."
+                },
+                {
+                    "id":4,
+                    "mean": "Mọi người hãy theo dõi blog để cập nhật thêm nhiều thông tin thú vị về trí tuệ nhân tạo nhé!"
+                },
+                {
+                    "id":5,
+                    "mean": ""
+                }
+            ]
+        }
+    ]
+
+    
+
+}

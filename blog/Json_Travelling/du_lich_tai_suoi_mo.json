@@ -1,0 +1,94 @@
+{
+   
+    "background":"../img/traval_2.jpg",
+    "titles": "Kinh nghiệm đi Công Viên Suối Mơ 1 ngày chi tiết nhất",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Hướng dẫn đường đi đến Suối Mơ Park",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Trước khi đi sâu vào kinh nghiệm vui chơi tại công viên Suối Mơ, Halo sẽ hướng dẫn bạn đường đi tới đây trước nhé. Từ trung tâm thành phố Hồ Chí Minh, bạn có thể chọn phương tiện cá nhân hoặc xe khách để tới Suối Mơ Park."
+                },
+                {
+                    "id": 2,
+                    "mean": "Nếu bạn thích rong ruổi trên những chiếc xe máy đi phượt gần Sài Gòn, hoặc lái xe ô tô riêng. Bạn hoàn toàn có thể sử dụng chúng đi tới đây."
+                }, {
+                    "id": 3,
+                    "mean": "Xe máy hoặc ô tô cá nhân: Từ trung tâm Sài Gòn tới Suối Mơ Park đi theo hướng quốc lộ 1A, ngã ba Dầu Giây. Rẽ trái vào đường quốc lộ 20, rồi rẽ phải vào đường 16Km, tới 115 Định Quán là tới công viên"
+                }, {
+                    "id": 4,
+                    "mean": "Phượt công viên Suối Mơ bằng xe máy cũng rất thú vị đó. Nhưng để đảm bảo sức khỏe cho chuyến du lịch ngắn ngày, xe khách sẽ là sự lựa chọn lý tưởng bạn nhé."
+                }, {
+                    "id": 5,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/suoi_mo_01.jpg' />"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Chơi gì ở khu du lịch Suối Mơ Đồng Nai",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Nếu là người mới đi, chắc hẳn bạn tò mò mình sẽ chơi gì ở công viên Suối Mơ? Đừng lo! Ở đây có rất nhiều hoạt động vui chơi ngoài trời cho bạn “giết thời gian”. Điều bạn cần là chuẩn bị cho mình sức mạnh để “quẩy tới bến” thôi."
+                },
+                {
+                    "id":2,
+                    "mean": "<ul><li>Tắm suối</li><li>Các trò chơi dưới nước</li><li>Đi xe đạp địa hình và ô tô điện</li><li>Cắm trại tại khu du lịch</li><li>Địa điểm sống ảo lý tưởng</li></ul>"
+                },{
+                    "id":3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/suoi_mo_02.jpg' />"
+                },{
+                    "id":4,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/suoi_mo_03.jpg' />"
+                },{
+                    "id":5,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/suoi_mo_04.jpg' />"
+                },{
+                    "id":6,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/suoi_mo_06.jpg' />"
+                },{
+                    "id":7,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/suoi_mo_05.jpg' />"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Ăn gì tại công viên Suối Mơ Đồng Nai?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Trong khuôn viên khu du lịch Suối Mơ hiện tại có 3 nhà hàng phục vụ ăn uống cho khách du lịch. Đó là nhà hàng Cây Xanh, nhà hàng Fastfood & BBQ, và nhà hàng nổi Bar Xanh. Mỗi nhà hàng sẽ phục vụ món ngon, đặc sản của nhiều vùng miền Việt Nam. Hãy cùng Halo tham khảo thực đơn kèm bảng giá dưới đây:"
+                },
+                {
+                    "id":2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/menu_01.jpg' />"
+                },
+                {
+                    "id":3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/menu_02.jpg' />"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Một số lưu ý khi du lịch Suối Mơ Park",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "<ul><li>Khách tới tham quan công viên Suối Mơ được mang theo đồ ăn, đồ uống bên ngoài vào khu du lịch. Lưu ý: du khách không được mang đồ ăn, hay ăn uống ở khu vực hồ bơi.</li><li>Chú ý giữ gìn vệ sinh chung nơi công cộng</li><li>Không xả rác bừa bãi, cần vứt rác đúng nơi quy định của khu du lịch</li><li>Các dịch vụ vui chơi giải trí sẽ kết thúc vào lúc 17h hằng ngày. Vì vậy, quý khách lưu ý về thời gian.</li><li>Quý khách phải tự bảo quản tư trang, vật dụng cá nhân của mình khi tới khu du lịch</li></ul>"
+                },
+                {
+                    "id":2,
+                    "mean": "Trên đây là cẩm nang kinh nghiệm đi du lịch công viên Suối Mơ Đồng Nai mà Halo muốn gửi tới bạn đọc. Cuối tuần ở Sài Gòn mà không biết du lịch ở đâu cho gần thì cứ đi tắm suối là chuẩn nhất. Halo chúc bạn có một kỳ nghỉ tràn đầy ý nghĩa!"
+                }
+            ]
+        }
+    ]
+
+    
+
+}

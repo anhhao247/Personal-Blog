@@ -1,0 +1,44 @@
+{
+    "background":"../img/life_2.jpg",
+    "titles": "Quyển sách về cây cối hay nhất",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Theo bạn thì cuốn sách nào hay nhất ?",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Giả sử hành tinh này được sinh ra vào nửa đêm và nó sống trong một ngày thì cây cối xuất hiện trên mặt đất ngay trước mười giờ đêm. 11 giờ đêm, khủng long trút cạn sinh lực cuối cùng. Còn con người chỉ xuất hiện 4 phút trước nửa đêm. Đến nửa đêm, phần lớn địa cầu được biến thành các mùa vụ canh tác theo luống để phục vụ và cung cấp thức ăn cho một loài duy nhất, loài mà chỉ xuất hiện 4 phút trước nửa đêm."
+                },
+                {
+                    "id": 2,
+                    "mean": "Bạn và cái cây trong vườn nhà bạn đến từ cùng một tổ tiên. Một tỉ rưỡi năm trước, bạn và cây chia tách nhau. Cây và bạn vẫn có chung một phần tư số gene Cây cối có thể giao tiếp với nhau. Cây biết khi chúng ta tới gần. Hoá chất từ rễ và mùi hương mà lá của chúng phun ra thay đổi khi chúng ta tới gần. Khi bạn cảm thấy tốt sau một chuyến đi bộ trong rừng, đó là vì một loài nào đó đang hối lộ bạn."
+                }, {
+                    "id": 3,
+                    "mean": "Đây là những câu văn trong quyển Vòm Rừng (tên tiếng anh là The Overstory). Quyển này thực sự là kiệt tác."
+                }, {
+                    "id": 4,
+                    "mean": "Bố cục của quyển này khá thú vị chia thành Rễ, Thân, Ngọn, Hạt giống. Trong phần Rễ thì giới thiệu tận 9 nhân vật không liên quan gì đến nhau nhưng mỗi nhân vật gắn liền với 1 loại cây. Có người 3 đời gắn liền với 1 cái cây hạt dẻ, có người được cây đa đỡ thoát chết, có người té cây bị bại liệt lol."
+                }, {
+                    "id": 5,
+                    "mean": "Rồi từ phần Thân, 9 nhân vật đó có người gặp nhau có người không, nhưng tất cả đều có liên quan gián tiếp đến nhau."
+                }, {
+                    "id": 6,
+                    "mean": "Nội dung thì bao hàm nhiều vấn đề từ cây cối, di truyền học, chính trị, lịch sử, tâm lý học, nạn phá rừng, biến đổi khí hậu và bảo vệ môi trường."
+                }, {
+                    "id": 7,
+                    "mean": "Một tip là nên đọc ngược thứ tự nhân vật để đỡ chán khi mới đọc."
+                }, {
+                    "id": 8,
+                    "mean": "Bác tác giả phải đọc hơn 120 quyển về cây cối mới viết được như vậy. Cho nên ai thích thiên nhiên cây cỏ thì không nên bỏ qua quyển này."
+                }, {
+                    "id": 9,
+                    "mean": "Đọc xong rồi chỉ muốn lên rừng thông Đà Lạt ngồi đọc sách, nhìn cây cối, nghe chim hót thôi."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

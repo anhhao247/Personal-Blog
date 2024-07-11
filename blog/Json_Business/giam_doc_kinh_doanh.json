@@ -1,0 +1,178 @@
+{
+   
+    "background":"../img/business_6.jpg",
+    "titles": "GIÁM ĐỐC KINH DOANH LÀ GÌ? VAI TRÒ NHIỆM VỤ VÀ MÔ TẢ CÔNG VIỆC",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Giám đốc kinh doanh là gì?",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Giám đốc kinh doanh là người đứng đầu bộ phận kinh doanh của một công ty hoặc tổ chức. Chịu trách nhiệm quản lý, điều hành, chỉ đạo và định hướng các hoạt động kinh doanh nhằm đạt được các mục tiêu doanh số, lợi nhuận và phát triển của công ty. Giám đốc kinh doanh có tên tiếng Anh là Chief Customer Officer – viết tắt CCO."
+                },
+                {
+                    "id": 2,
+                    "mean": "Chức vụ này đòi hỏi người đảm nhiệm phải có kinh nghiệm, chuyên môn sâu rộng về kinh doanh, có khả năng lãnh đạo, đưa ra quyết định, giải quyết vấn đề đúng đắn, đồng thời phải biết phân tích và dự báo thị trường. Giám đốc kinh doanh báo cáo trực tiếp với CEO hoặc Ban giám đốc trong doanh nghiệp."
+                }, {
+                    "id": 3,
+                    "mean": "Hiện nay, hầu hết các doanh nghiệp lớn đều cần vị trí giám đốc kinh doanh, họ quyết định không nhỏ tới sự thành bại của một tổ chức, doanh nghiệp. Vị trí này được xem là mục tiêu nghề nghiệp của rất nhiều người vì những cơ hội và lợi ích mà vai trò này mang đến."
+                }, {
+                    "id": 4,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/kn_giam_doc_kinh_doanh.jpg' alt='thi truong'"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Vai trò của giám đốc kinh doanh trong doanh nghiệp",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Giám đốc kinh doanh đóng vai trò là người đầu tàu dẫn dắt các hoạt động trong cơ cấu quản trị bán hàng. Sự thành công hay thất bại của giám đốc kinh doanh nằm ở doanh số và lợi nhuận bán hàng của doanh nghiệp. Họ có mối quan hệ sâu rộng với khách hàng, các đối thủ cạnh tranh, một số vai trò của giám đốc kinh doanh phải kể đến:"
+                },
+                {
+                    "id":2,
+                    "mean": "<ul><li>Người kể chuyện xuất sắc</li><li>Đặt mình vào khách hàng</li><li>Tham gia cố vấn cho CEO</li><li>Có khả năng cập nhật công nghệ</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Người kể chuyện xuất sắc",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Trong kinh doanh ngày nay, thứ dễ thuyết phục khách hàng nhất có lẽ là một câu chuyện sâu sắc và truyền đi thông điệp mạnh mẽ. Để tiếp thị khách hàng hiệu quả, giám đốc kinh doanh đóng vai trò là một người kể chuyện xuất sắc."
+                },
+                {
+                    "id":2,
+                    "mean": "Câu chuyện ngoài yếu tố cung cấp thông tin còn phải chạm tới cảm xúc của khách hàng, khiến họ tin, mua và gắn bó với sản phẩm của doanh nghiệp. Câu chuyện phải bộc bạch, đánh giá các giá trị và lòng tin sau những ý tưởng và kết nối chúng với thị trường, với khách hàng tiềm năng."
+                },
+                {
+                    "id":3,
+                    "mean": "Lưu ý, những câu chuyện phải dễ nhớ để lan truyền nhanh và chính xác hơn, khi giám đốc kinh doanh có những câu chuyện sâu sắc, họ có thể dễ dàng tiếp cận với khách hàng, xây dựng lòng trung thành của khách hàng thay vì chỉ dựa hoàn toàn vào những dữ liệu, bảng biểu cứng nhắc."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Đặt mình vào khách hàng",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Giám đốc kinh doanh luôn phải đặt bản thân vào khách hàng để mua và trải nghiệm sản phẩm, tức là họ cần có trực giác của khách hàng. Bằng chuyên môn, kinh nghiệm, tư duy, giám đốc kinh doanh là người dẫn dắt tổ chức, tạo tiền đề cần thiết để doanh nghiệp tăng trưởng dài hạn. Họ cần đảm bảo rằng, khách hàng luôn được chăm sóc đặc biệt bằng những quy trình, văn hoá bền vững của doanh nghiệp."
+                },
+                {
+                    "id":2,
+                    "mean": "Giám đốc kinh doanh cần biết thời điểm nào, cần làm gì để chuyển đổi giữa các vai trò với nhau một cách nhanh chóng. Trong nền kinh tế phức tạp như hiện nay, đạt được mục tiêu chung của doanh nghiệp và sự hài lòng của khách hàng là một sự thành công của CCO."
+                
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Tham gia cố vấn cho CEO",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Khách hàng là người giúp duy trì doanh nghiệp, họ là điều cần thiết để một doanh nghiệp trường tồn và phát triển lâu dài. Chính vì vậy, cả giám đốc điều hành (CEO) và giám đốc kinh doanh đều cần chia sẻ tầm nhìn về định hướng phát triển của công ty, lấy khách hàng làm nền tảng. "
+                },
+                {
+                    "id":2,
+                    "mean": "Với vai trò chủ chốt trong hoạt động kinh doanh, giám đốc kinh doanh có kiến thức và kinh nghiệm về chiến lược, Marketing, bán hàng, do đó họ đóng vai trò là người cố vấn cho CEO khi đưa ra các quyết định chiến lược và chiến thuật cho doanh nghiệp."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Có khả năng cập nhật công nghệ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Ngày nay, với sự phát triển chóng mặt của công nghệ và cuộc cách mạng chuyển đổi số đang dần thay đổi hành vi mua hàng của khách hàng. Không nằm ngoài cuộc, nhiều doanh nghiệp cũng sẵn sàng đầu tư vào trải nghiệm khách hàng thông qua các kênh đa phương tiện. Chẳng hạn như công nghệ thực tế ảo VR cho phép người dùng được trải nghiệm không gian ảo với trải nghiệm thật, ví dụ như đi du lịch."
+                },
+                {
+                    "id":2,
+                    "mean": "Do đó, giám đốc kinh doanh là người có vai trò cập nhật các công nghệ mới nhất, phù hợp với khách hàng mục tiêu của doanh nghiệp nhất để tăng lợi thế cạnh tranh. Dựa vào những tiện ích công nghệ mà khách hàng kỳ vọng, giám đốc kinh doanh sẽ tiến hành xây dựng các kênh phân phối và tiếp thị hiệu quả."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Lãnh đạo bộ phận kinh doanh",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Giám đốc kinh doanh có trách nhiệm trong việc định hướng kinh doanh cho doanh nghiệp, đảm bảo lợi nhuận cũng như sự phát triển bền vững của tổ chức. CCO là người đứng đầu nhóm kinh doanh, Marketing, quan hệ khách hàng, PR,... họ cần đảm bảo các chức năng trong doanh nghiệp được thực hiện hiệu quả, các mối quan hệ hợp tác được nuôi dưỡng, duy trì nhằm giúp doanh nghiệp đạt được mục tiêu chiến lược."
+                },
+                {
+                    "id":2,
+                    "mean": "Giám đốc kinh doanh có trách nhiệm lãnh đạo bộ phận kinh doanh trong các công việc hằng ngày, thực hiện và phê duyệt các quyết định được đưa ra liên quan đến hoạt động kinh doanh của doanh nghiệp."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Dự đoán thị trường, thiết lập kế hoạch kinh doanh",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Để đạt được mục tiêu kinh doanh, giám đốc kinh doanh có trách nhiệm định hướng và lên kế hoạch cho tổ chức của mình dựa trên các yếu tố như nhu cầu của khách hàng, xu hướng thị trường, sản phẩm/ dịch vụ của đối thủ cạnh tranh,... Thông qua việc dự đoán thị trường, thiết lập kế hoạch kinh doanh, CCO có thể xác định các mục tiêu kinh doanh và chiến lược phù hợp với nhu cầu, thị hiếu của khách hàng. Từ đó có thể đưa ra các quyết định cần thiết để tối ưu hoá hoạt động kinh doanh."
+                },
+                {
+                    "id":2,
+                    "mean": "Ngoài ra, giám đốc kinh doanh cũng có trách nhiệm quản lý và đánh giá hiệu quả các hoạt động kinh doanh, dựa vào đó để điều chỉnh và cập nhật kế hoạch kinh doanh nhằm đáp ứng yêu cầu thay đổi của thị trường."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Xây dựng chiến lược sản phẩm, dịch vụ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Giám đốc kinh doanh có trách nhiệm xây dựng chiến lược sản phẩm, dịch vụ để phù hợp với nhu cầu của khách hàng và đạt được mục tiêu kinh doanh của tổ chức. CCO cần phải đảm bảo các sản phẩm, dịch vụ tạo ra giá trị, đóng góp vào doanh số và lợi nhuận của doanh nghiệp."
+                },
+                {
+                    "id":2,
+                    "mean": "Bên cạnh đó, giám đốc kinh doanh cũng phải đảm bảo các sản phẩm, dịch vụ phù hợp với chiến lược kinh doanh và định hướng của doanh nghiệp. Chẳng hạn như nếu doanh nghiệp muốn phát triển ở thị trường mới, giám đốc kinh doanh cần xây dựng chiến lược sản phẩm, dịch vụ để đáp ứng nhu cầu của thị trường đó."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Xây dựng chiến lược bán hàng",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Giám đốc kinh doanh có trách nhiệm xây dựng chiến lược bán hàng để đảm bảo sản phẩm, dịch vụ có thể tiếp cận tới khách hàng một cách hiệu quả, nhằm tạo ra doanh số và lợi nhuận cho doanh nghiệp."
+                },
+                {
+                    "id":2,
+                    "mean": "Để xây dựng chiến lược bán hàng hiệu quả, giám đốc kinh doanh cần phải tìm hiểu về thị trường, nhu cầu và xu hướng mua của khách hàng, đánh giá các đối thủ cạnh tranh, thiết lập mục tiêu bán hàng, lên kế hoạch tiếp thị, đưa ra chiến lược giá cả và quyết định về các kênh bán hàng. Cần phối hợp làm việc với các bộ phận khác như Marketing, kế toán, sản xuất,... nhằm đảm bảo tính đồng nhất cũng như tối ưu hoá chi phí cho doanh nghiệp."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Xây dựng chiến lược Marketing",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Giám đốc kinh doanh có trách nhiệm quản lý, định hướng chiến lược kinh doanh cho doanh nghiệp. Một phần không thể thiếu trong quá trình này là các chiến lược về Marketing phù hợp để thu hút khách hàng tiềm năng, đồng thời giữ chân khách hàng hiện tại."
+                },
+                {
+                    "id":2,
+                    "mean": "Chính vì vậy, CCO thường xuyên phải phối hợp với các bộ phận khác trong công ty để thiết lập, xây dựng chiến lược Marketing như phân tích thị trường, quản lý sản phẩm và bán hàng. Họ phải đảm bảo rằng chiến lược Marketing của doanh nghiệp được phát triển đúng đắn, phù hợp với đối tượng khách hàng tiềm năng và mục tiêu kinh doanh."
+                },{
+                    "id": 3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/chiem_luoc_markerting.jpg' alt='thi truong'"
+                }
+            ]
+        }
+    ]
+
+    
+
+}

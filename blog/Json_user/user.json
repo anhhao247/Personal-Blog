@@ -1,0 +1,14 @@
+{
+    "user":[
+        {
+            "id": 1,
+            "email": "trinhdat@gamil.com",
+            "password": "041004"
+        },{
+            "id": 2,
+            "email": "vanphuc@gamil.com",
+            "password": "090909"
+        }
+    ]
+    
+}

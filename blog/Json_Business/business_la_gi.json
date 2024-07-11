@@ -1,0 +1,80 @@
+{
+   
+    "background":"../img/business_2.jpg",
+    "titles": "Ngành Business là gì? ",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Định nghĩa ngành business",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Business là thuật ngữ tiếng Anh có tên gọi tiếng việt là kinh doanh, được hiểu là những hoạt động kinh tế xoay quanh vấn đề sản xuất và phân phối các loại hàng hóa, dịch vụ nhằm đáp ứng nhu cầu cần thiết của con người."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Đặc điểm của ngành business",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Ngành business có một số những đặc điểm nổi bật sau đây:"
+                },
+                {
+                    "id":2,
+                    "mean": "Mọi hoạt động trong ngành business đều liên quan trực tiếp hay gián tiếp đến việc trao đổi hàng hóa, dịch vụ để thu lại được lợi nhuận. Và mục đích cuối cùng của việc thực hiện hoạt động kinh doanh chính là tìm kiếm nguồn lợi nhuận."
+                },{
+                    "id":3,
+                    "mean": "Trong ngành business, hoạt động trao đổi hàng hóa, dịch vụ diễn ra thường xuyên và mỗi sản phẩm hay dịch vụ trước khi đến tay của người tiêu dùng có thể trải qua một hay nhiều giao dịch trung gian."
+                },{
+                    "id": 4,
+                    "mean": "Mỗi giao dịch kinh doanh trong ngành business cần tối thiểu sự tham gia của một bên mua và một bên bán, ngoài ra có thể là 1 bên bán và nhiều bên mua hoặc người lại 1 bên mua và nhiều bên bán."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Khó khăn khi làm trong ngành business",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Môi trường cạnh tranh khốc liệt"
+                },
+                {
+                    "id":2,
+                    "mean": "<ul><li>Khi làm kinh doanh thì việc đưa ra ý tưởng kinh doanh mới luôn được ưu tiên hàng đầu để thể hiện được sự độc và lạ của doanh nghiệp và tạo được lòng tin với người tiêu dùng. Tuy nhiên một mặt hàng hay dịch vụ không chỉ có một doanh nghiệp kinh doanh mà có rất nhiều doanh nghiệp khác cũng tham gia vào cạnh tranh.</li><li>Chính điều đó gây ra những áp lực vô hình chi người làm kinh doanh khi luôn luôn phải đưa ra những ý tưởng kinh doanh mới lạ để có thể đủ sức cạnh tranh trên thị trường và đánh bại các đối thủ khác.</li><li>Ví dụ: mặt hàng kinh doanh quần áo là một trong những loại hình kinh doanh rất phổ biến hiện nay được biểu hiện bởi sự ra đời ngày càng nhiều của các shop, các cửa hàng hay trung tâm thời trang. Tuy nhiên lượng khách hàng của mỗi cửa hàng lại có sự chênh lệch bởi sự khác nhau trong ý tưởng, chiến lược kinh doanh của họ.</li></ul>"
+                },
+                {
+                    "id":3,
+                    "mean": "Môi trường sinh thái"
+                },
+                {
+                    "id":4,
+                    "mean": "<ul><li>Bất kể doanh nghiệp của bạn kinh doanh mặt hàng gì thì đều cần phải quan tâm đến các yếu tố môi trường xung quanh của doanh nghiệp nhằm tối đa nguồn lợi nhuận thu được.</li><li>Ví dụ: nếu doanh nghiệp kinh doanh mặt hàng đông lạnh thì bạn cần chú ý đến yếu tố nhiệt độ môi trường xung quanh để có thể chọn được vị trí mở doanh nghiệp hợp lý. Nếu như doanh nghiệp của bạn đặt ở khu vực nắng nóng thường xuyên sẽ làm gia tăng chi phí điện, máy móc làm lạnh,...và có thể gây hư hỏng hàng hóa nếu không có biện pháp xử lý kịp thời.</li></ul>"
+                },
+                {
+                    "id":5,
+                    "mean": "Vốn kinh doanh"
+                },
+                {
+                    "id":6,
+                    "mean": "<ul><li>Khi thực hiện kinh doanh, không bao giờ chúng ta có câu trả lời rõ ràng rằng cần bao nhiêu vốn là đủ bởi nếu khi kinh doanh mặt hàng đó mà phát triển thì nhu cầu về vốn lại cao hơn để có thể mở rộng hơn nữa quy mô kinh doanh.</li><li>Chính vì vậy, các doanh nghiệp cần đưa ra bản kế hoạch kinh doanh chi tiết nêu ra nhu cầu vốn trong từng giai đoạn để có thể kiểm soát tốt hoạt động kinh doanh và không làm chệch hướng đi so với mục tiêu mà doanh nghiệp đã đề ra.</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Kết",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Hiện nay, trong xu hướng toàn cầu hóa thì ngành business càng ngày càng khẳng định được vị thế và vai trò của mình trong việc phát triển kinh tế - xã hội. Hy vọng, qua bài viết, bạn đọc đã hiểu rõ hơn về ngành business cũng như những đặc điểm của ngành business. Rất mong, qua những khó khăn trong ngành business mà bài viết liệt kê, các bạn sẽ cân nhắc và có những bước đi đúng đắn trong việc kinh doanh hiện tại cũng như tương lai của mình."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

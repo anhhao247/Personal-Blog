@@ -1,0 +1,86 @@
+{
+    "background":"../img/life_4.jpg",
+    "titles": "Tự học hay học với thầy?",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Tự học",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Đây là lần thứ 2 mình học tiếng Trung. Lần trước tự học được mấy bữa cũng bỏ. Mình mua 2 khoá tiếng Đức với tiếng Tân Ban Nha rồi cũng bỏ đó.Mình cũng mua 4 loại nhạc cụ luôn, tự học mấy bữa trên Youtube, rồi giờ cũng không biết đánh đàn nào hết."
+                },
+                {
+                    "id": 2,
+                    "mean": "Kể cả kỹ năng thiên về thể chất như lái xe ô tô, mình học tận 8 thầy xong mới dám lái xe đi xuyên Việt. Học bơi trên Đà Lạt cũng không biết bơi, phải về thành phố học lại. Gym cũng 2 đời PT."
+                }, {
+                    "id": 3,
+                    "mean": "Trượt ván bạn tưởng là đam mê hả, không có đâu. Mình mua cái ván từ năm nhất, cũng ra trượt mấy bữa rồi cũng bỏ. Bốn năm sau, đến khi ra trường lên Đà Lạt gặp thầy rồi về thành phố có nhóm trượt mới tập lại đúng."
+                }, {
+                    "id": 4,
+                    "mean": "Đó là mấy kỹ năng học cho vui, làm cho cuộc sống thú vị hơn thôi."
+                }, {
+                    "id": 5,
+                    "mean": "Còn mấy kỹ năng kiếm cơm như lập trình, tiếng Anh, đầu tư crypto thì ối giời ơi, còn chông gai nữa."
+                }, {
+                    "id": 6,
+                    "mean": "Hàng ngàn giờ, hàng trăm thầy khác nhau, những lần mất tiền ngu đã dạy mình rất nhiều. Tự nghĩ nếu mà mấy kỹ năng kiếm cơm tự học thì chắc giờ không có cháo mà húp."
+                }, {
+                    "id": 7,
+                    "mean": "Bạn có bao giờ mua một khoá học gì đó tính sẽ tự học thành thục kỹ năng đó rồi bỏ xó không? Nếu có thì bạn có lẽ không phải là người duy nhất đâu."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Vai trò của người thầy",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Mình là người luôn đề cao chuyện tự học. Nhưng nếu chỉ được chọn giữa sự tự học và sự học với thầy thì mình sẽ chọn cả hai. Mắc gì phải chọn một vì cảm giác tự học nhưng không tới đâu nó không vui vẻ gì."
+                },
+                {
+                    "id":2,
+                    "mean": "Nhưng mà nếu có thầy rồi cũng chưa đủ. Vì nếu"
+                },{
+                    "id":3,
+                    "mean": "    + Bạn lười thầy giỏi thì cũng thua"
+                },{
+                    "id":4,
+                    "mean": "    + Bạn siêng mà không có thầy chỉ dẫn, đưa ra góp ý phản hồi thì bạn tiến bộ chậm hoặc học sai hướng"
+                },{
+                    "id":5,
+                    "mean": "    + Bạn siêng nhưng gặp thầy tào lao. Cái này dễ có thể đổi thầy khác."
+                },{
+                    "id":6,
+                    "mean": "    + Bạn siêng và thầy giỏi, có tâm thì bạn thành không thể cản phá."
+                },{
+                    "id":7,
+                    "mean": "Ngẫm lại mới thấy sự học nó gian truân lắm. Quy tắc cần 10000 giờ để thành thạo một kỹ năng luôn đúng. Nên việc giữ động lực học trong suốt 10000 giờ đó cũng chẳng phải chuyện dễ. Chuyện bỏ cuộc giữ chừng là rất bình thường luôn. Học những thứ nó đem lại lợi ích trực tiếp cho bản thân thì còn đỡ vì nó ảnh hưởng đến tiền bạc, sức khoẻ."
+                },{
+                    "id":8,
+                    "mean": "Như hiện giờ mình học tiếng Trung đúng là cho vui thôi. Giờ chỉ biết tìm động lực bằng cách học với mấy cô xinh xinh trên Italki."
+                },{
+                    "id":6,
+                    "mean": "Việc học đã khó thì việc dạy càng khó hơn. Chuyện bạn hiểu một thứ và truyền đạt lại là hai chuyện hoàn toàn khác nhau. Thấy được trình độ của người học trò đang ở đâu là kỹ năng mà không phải người thầy nào cũng có."
+                },{
+                    "id":6,
+                    "mean": "Cho nên bạn cũng nên chính là người thầy của bản thân. Khi học một cái gì đó bạn nên biết bạn đang biết gì (known knowns), đang không biết gì (known unknowns). Thì sau đó người thầy mới dễ dàng giúp bạn và đưa thêm cho bạn cái bạn không biết nó tồn tại (unknown unknowns)"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Tóm Lại là ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Xin thúc bằng 1 câu nói của Lão Tử “Khi người học trò sẵn sàng, người thầy sẽ xuất hiện” - Sẽ luôn có những người thầy xuất hiện nếu bạn không từ bỏ. Hãy luôn cố gắng trên con đường đã chọn, để tự tin nói với thầy của bạn là “cảm ơn thầy đã đào tạo nên một người xuất sắc như em”"
+                }
+            ]
+        }
+    ]
+
+    
+
+}

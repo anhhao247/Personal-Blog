@@ -1,0 +1,91 @@
+{
+   
+    "background":"../img/technology_5.jpg",
+    "titles": "Kỹ sư IT Việt Nam đang nhận lương bao nhiêu một tháng",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Kỹ sư IT Việt Nam đang nhận lương bao nhiêu một tháng",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Kỹ sư IT có thể thu nhập trăm triệu đồng mỗi tháng nhưng phải đánh đổi nhiều hơn về thời gian, sức khoẻ so với người nhận lương vài chục triệu đồng."
+                },
+                {
+                    "id": 2,
+                    "mean": " Đầu năm 2021, nữ kỹ sư IT 28 tuổi sống tại Hà Nội khiến cộng đồng xôn xao khi nộp 23,4 tỷ đồng thuế trong thu nhập 330 tỷ đồng. Một nam kỹ sư IT khác sinh năm 1990 cũng tự nguyện nộp 18,1 tỷ đồng tiền thuế trong tổng thu nhập 260 tỷ đồng một năm. Cả hai đều là lập trình viên, kiếm tiền từ nghề viết phần mềm."
+                },{
+                    "id":3,
+                    "mean": "Trước đó, một thanh niên 35 tuổi ở Đà Nẵng làm việc trong lĩnh vực xuất bản phần mềm và game cho máy tính đã chủ động khai nộp 23,5 tỷ đồng tiền thuế. Theo người này, những trường hợp nộp thuế hàng chục tỷ đồng đa phần làm việc trong lĩnh vực phát triển game, viết phần mềm cho điện thoại. Doanh thu phần lớn đến từ quảng cáo chạy trên ứng dụng."
+                },{
+                    "id": 4,
+                    "mean": "Thi thoảng có người đạt doanh thu trăm tỷ trong ngành IT, tuy nhiên, nhiều người thường đại diện một đội, họ gộp chung sản phẩm vào một tài khoản, đẩy doanh thu lên cao để nhận được sự chăm sóc tốt hơn từ các đối tác như Google, Facebook, người này nói. Trước khi có được sản phẩm doanh thu hàng trăm tỷ đồng mỗi năm, những người này đã phải thử nhiều sản phẩm, thậm chí có những dự án thua lỗ tiền tỷ."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Thực trạng lương kỹ sư IT Việt",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Theo Jobstreet.com, công nghệ thông tin (CNTT) đang nằm trong top 10 những ngành nghề có mức lương cao nhất tại Việt Nam. Tuy nhiên, những người làm trong lĩnh vực IT có thu nhập hàng trăm tỷ mỗi năm vẫn là hiện tượng hiếm."
+                },
+                {
+                    "id":2,
+                    "mean": "Dải lương phổ biến của ngành CNTT là từ 8,4 triệu đồng đến 27,4 triệu đồng. Tùy theo chính sách ở các doanh nghiệp khác nhau, con số này có thể thay đổi. Với những sinh viên mới tốt nghiệp chuyên ngành CNTT, lương cơ bản nằm trong khoảng 7 - 10 triệu đồng/tháng. Những người 1 - 2 năm kinh nghiệm sẽ nhận lương mỗi tháng khoảng 10 - 15 triệu đồng. Con số này có thể lên hơn 20 triệu đồng nếu có tối thiểu 3 năm kinh nghiệm và kỹ năng chuyên sâu, đa dạng."
+                },{
+                    "id":3,
+                    "mean": "<img  style='height: 520px; width: 800px; border-radius: 50px;' src='../img/bieu_do_luong_it.jpg' alt='CNTT'>"
+                },{
+                    "id": 4,
+                    "mean": "Một thống kê của TopDev về thị trường IT Việt Nam tính đến quý II/2021 cho thấy kỹ sư trí tuệ nhân tạo (AI) và học máy (machine learning) có mức lương trung bình tháng cao nhất, khoảng 70 triệu đồng. Mức này cao gấp đôi lương kỹ sư dữ liệu lớn (Big Data) và kỹ sư Backend hay lập trình viên (trung bình 30 triệu đồng mỗi tháng). 6 trong số 10 vị trí IT có lương tháng cao nhất thuộc về các cấp quản lý và kiến trúc sư công nghệ. Vị trí có lương trung bình tháng cao nhất hiện nay là CTO, CIO, khoảng 5.776 USD (khoảng 132 triệu đồng)."
+                },{
+                    "id": 5,
+                    "mean": "Hoàng Tuấn, kỹ sư lập trình có hơn 10 năm kinh nghiệm đang làm việc tại Hà Nội, cho rằng cần phân biệt rõ hai khái niệm lương và thu nhập. Lương trung bình của mình hiện tại là 60 triệu đồng cho vị trí quản lý. Đây là mức lương tương đối, không phải cao. Nhưng ngoài lương cứng, mình còn nhận thêm một số dự án bên ngoài. Thời gian cao điểm có thể kiếm hơn trăm triệu đồng mỗi tháng. Nhiều bạn bè mình quen biết cũng có mức thu nhập tương đương"
+                },{
+                    "id": 6,
+                    "mean": "Mức lương ra trường của một kỹ sư IT thực tế khoảng 7 - 8 triệu đồng mỗi tháng. Tuy nhiên, chỉ cần sau hai năm làm việc, có kinh nghiệm, mức lương mỗi tháng sẽ không dưới 10 triệu. Để có thu nhập lên đến trăm triệu mỗi tháng, ngoài kỹ năng về lập trình, kỹ sư còn phải giỏi về nhiều lĩnh vực."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Đằng sau mức lương trăm triệu đồng/tháng",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Nghề lập trình nhìn có vẻ đơn giản vì chỉ làm việc trên máy tính, nhưng thực tế rất áp lực, đặc biệt với nữ giới. Theo Huyền, để có thể làm việc được trong các công ty công nghệ, một kỹ sư IT phải rèn luyện học thuật toán cơ bản, sử dụng thành thạo vài ngôn ngữ: C, Java, C++. Sau đó, lựa chọn mảng làm việc chuyên sâu như mobile, web hay AI..."
+                },
+                {
+                    "id":2,
+                    "mean": "Nếu bạn chưa có gia đình, bạn có thể tăng ca ngày đêm, thù lao xứng đáng với công sức bỏ ra. Nhưng nếu có con cái, bạn phải lựa chọn lương thấp đi một chút để có thời gian cho gia đình. Đó là lý do nhiều nữ 'coder' phải chuyển sang làm 'tester'"
+                },{
+                    "id":3,
+                    "mean": "kỹ sư lập trình đang làm việc cho một công ty Singapore với mức lương 4,5 nghìn USD/tháng, cho biết: Mình có gần tám năm làm việc tại một công ty công nghệ lớn của Việt Nam. Hai năm trước, mức lương cho vị trí quản lý là hơn 30 triệu đồng. Công việc ổn định, không phải ‘code ngày đêm’. Nhưng đây không phải mức thu nhập mình mong muốn, làm thêm chục năm cũng không lên lương được bao nhiêu. Sau đó một công ty Singapore liên hệ mình, đề nghị mức lương cao hơn 300%,nhưng quay về vị trí kỹ sư, chứ không phải quản lý. Mình quyết định nhảy việc vì 'vòng đời' của kỹ sư IT tương đối ngắn, nếu không tranh thủ kiếm tiền, mình có thể bỏ lỡ thời kỳ đỉnh cao"
+                },
+                {
+                    "id":4,
+                    "mean": "lương trăm triệu đồng mỗi tháng cũng có cái giá của nó. Trước đây, anh làm việc trong công ty Việt Nam, dù lương không cao nhưng có nhiều thời gian cho gia đình, chế độ đãi ngộ tốt. Nhưng khi chuyển sang làm việc cho công ty nước ngoài, các phúc lợi cơ bản bị cắt bỏ. Ngoài ra, anh cũng luôn phải chuẩn bị tâm thế công ty có thể phá sản bất kỳ lúc nào."
+                },{
+                    "id":5,
+                    "mean": "<img  style='height: 520px; width: 800px; border-radius: 50px;' src='../img/muc_luong_theo_nam_kn.png' alt='CNTT'>"
+                },
+                {
+                    "id":6,
+                    "mean": "Ngoài việc thành thục kỹ năng nghề nghiệp, để kiếm được mức lương trăm triệu đồng mỗi tháng, lập trình viên còn phải học thêm nhiều ngôn ngữ lập trình, ngoại ngữ. Lương cao thường đi kèm áp lực công việc. Những gì bạn nhận được tính bằng hiệu quả công việc bạn bỏ ra, chứ không phải thời gian bạn điểm danh trên công ty. Có những tuần mình phải làm việc xuyên đêm, ngày chỉ ngủ 4 - 5 tiếng. Lúc nào cũng trong trạng thái sẵn sàng nghe phản hồi. Chưa kể làm việc cho công ty nước ngoài, chênh lệch về múi giờ, áp lực vô cùng lớn, Minh Kỳ chia sẻ."
+                },{
+                    "id":7,
+                    "mean": "Hơn nữa, để đạt được mức lương 100 triệu đồng/tháng trong ngành IT Việt Nam, người kỹ sư phải nắm giữ những vị trí quản lý cao, như project manager, leader trở lên. Để đạt được vị trí này, họ phải từng trải nhiều vị trí khác, giỏi cả về kỹ năng nghề lẫn khả năng quản lý."
+                },
+                {
+                    "id":8,
+                    "mean": "Những người làm trong ngành IT Việt Nam đều cho rằng mức lương trăm triệu đồng mỗi tháng ở thị trường trong nước không còn hiếm. Tuy nhiên, để đạt đến mức lương mơ ước này, kỹ sư IT phải là người xuất sắc, sẵn sàng làm việc ngày đêm, chăm chỉ và chịu được áp lực cao. Nếu ở vị trí quản lý, lãnh đạo công nghệ phải là người kiên trì, có định hướng nghề nghiệp dài hạn và không ngừng cập nhật kiến thức công nghệ trong và ngoài nước nếu không muốn bị đào thải."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

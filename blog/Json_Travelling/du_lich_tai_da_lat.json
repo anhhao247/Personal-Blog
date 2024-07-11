@@ -1,0 +1,173 @@
+{
+   
+    "background":"../img/traval_1.jpg",
+    "titles": "Địa điểm vui chơi tại Đà Lạt",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Khu du lịch Fresh Garden – Dalat",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Thông tin liên hệ:"
+                },
+                {
+                    "id": 2,
+                    "mean": "<ul><li>Địa chỉ: 90B Vạn Thành, Phường 5, Thành phố Đà Lạt.</li><li>Số điện thoại liên hệ: 0816 549 049/ 0908 97 49 / 0946 67 00 77</li><li>Website: https://freshdalat.vn/</li><li>Facebook: https://www.facebook.com/freshgardendl/</li><li>Facebook: Khu du lịch Fresh Garden Dalat</li><li>Giở mở cửa: 7:30 – 17:30</li><li>Giá tham khảo: 120.000 đồng/ vé người lớn</li></ul>"
+                }, {
+                    "id": 3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/garden_dalat.jpg' />"
+                }, {
+                    "id": 4,
+                    "mean": "Lạc vào xứ sở vẻ đẹp mơ màng của hoa CÚC HỌA MI, loài hoa khoe sắc từ tháng 12 đến tháng 3. Cùng cúc họa mi, Mai Anh Đào khoe sắc như tô điểm thêm vẻ đẹp rực rỡ trên mặt hồ làm xao xuyến bao trái tim du khách ghé thăm."
+                }, {
+                    "id": 5,
+                    "mean": "Khi tiết trời vào Hè, tháng 4 sang với MÙA HOA TÍM nở rộ đến tháng 8. Sắc tím bao phủ trời mây thung lũng, hòa quyện cùng hương thơm nhẹ nhàng từ muôn loài hoa khiến Fresh Garden thêm lãng mạn và đầy thơ mộng."
+                }, {
+                    "id": 6,
+                    "mean": "Một mùa hoa bạn mà bạn cũng không nên bỏ lỡ khi tiết trời vào đông, đó là Mùa hoa THU HẢI ĐƯỜNG, kéo dài từ tháng 9 đến giữa tháng 12. Sắc hoa thu hải đường níu chân lữ khách bởi vẻ dịu dàng, đằm thắm vốn có của nó."
+                }, {
+                    "id": 7,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/thu_hai_duong.jpg' />"
+                }
+            ]
+        },{
+            "id" : 2,
+            "title":"DaLat Fairytale Land – Làng Cổ tích & Hầm rượu Vang Vĩnh Tiến",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Thông tin liên hệ:"
+                },
+                {
+                    "id": 2,
+                    "mean": "<ul><li>Địa chỉ: Số 81D Hoàng Văn Thụ, Phường 5, Thành phố Đà Lạt.</li><li>Số điện thoại liên hệ: 0941.204.222/ 0857.204.222 (Hotline + Zalo)</li><li>Website: https://dalatfairytaleland.com/</li><li>Facebook: DaLatFairytaleLand.LangCoTich</li><li>Facebook: HamruouVinhTien</li><li>Giở mở cửa: 7:30 – 17:00</li><li>Giá tham khảo: 70.000 đồng/ vé người lớn.</li></ul>"
+                }, {
+                    "id": 3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/dalat_faitylate_land.jpg' />"
+                }, {
+                    "id": 4,
+                    "mean": "DaLat Fairytale Land – Làng Cổ tích & Hầm rượu Vang Vĩnh Tiến nằm ngay trung tâm thành phố Đà Lạt, đây là một thánh địa sống ảo đang cực hot trong thời gian qua. Là một địa điểm mới nhưng lại thu hút về một lượng lớn khách du lịch cũng như dân bản địa tại thành phố mộng mơ này. Nó không chỉ thu hút khách bằng lối kiến trúc lạ mắt mà còn bởi những ý tưởng độc đáo, những câu chuyện vô cùng hấp dẫn và lý thú."
+                }, {
+                    "id": 5,
+                    "mean": "Ẩn mình giữa những rừng thông, ngọn núi của Đà Lạt có một ngôi làng người lùn thân thiện. Một vùng đất cổ tích khiến ai cũng phải ngạc nhiên khi đến đây. Khi bước chân vào, du khách sẽ cảm nhận được bầu không khí trong lành, mát mẻ, một khung cảnh thần tiên, huyền bí, tạo cho bạn cảm giác tò mò, muốn được khám phá vẻ đẹp bí ẩn nơi này."
+                }
+            ]
+        },{
+            "id" : 3,
+            "title":"Dalat Golf Café",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Thông tin liên hệ:"
+                },
+                {
+                    "id": 2,
+                    "mean": "<ul><li>Thời gian mở cửa: 7h – 22h</li><li>Địa chỉ: 14 Đống Đa, Phường 3, Thành phố Đà Lạt.</li><li>Hotline: 02633 503535</li></ul>"
+                }, {
+                    "id": 3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/dalat_golf.jpg' />"
+                }, {
+                    "id": 4,
+                    "mean": "Không phải đi quá xa để tìm cho mình một không gian có thể thu trọn thành phố Đà Lạt vào tầm mắt. Dù bạn đến Dalat Golf bất kỳ thời điểm nào đều có thể thoải mái tận hưởng, buổi sáng sương mù bao phủ, buổi chiều hoàng hôn ngập tràn nắng vàng ấm áp, một ngày nắng trong xanh hay một chiều mưa buồn."
+                }, {
+                    "id": 5,
+                    "mean": "Lúc nào bạn cũng có thể mang về thật nhiều những bức hình siêu xinh. Với thiết kế kính hiện đại cùng view 360 độ cực phẩm, Dalat Golf Café hiện là một trong những quán cà phê view đỉnh nhất Đà Lạt."
+                }, {
+                    "id": 6,
+                    "mean": "Tuy đơn giản nhưng không kém phần sang trọng, menu đa dạng, phong phú, đội ngũ nhân viên chuyên nghiệp, nhiệt tình, bãi đậu xe rộng rãi thoải mái, tất cả đều tạo nên sức cuốn hút riêng dành cho Dalat Golf."
+                }
+            ]
+        },{
+            "id" : 4,
+            "title":"Quán cafe Lỡ Đà Lạt – Không gian chill chill bên bờ suối",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Thông tin liên hệ:"
+                },
+                {
+                    "id": 2,
+                    "mean": "<ul><li>Địa chỉ: 18 Trúc Lâm Yên Tử, Phường 3, Thành phố Đà Lạt, Lâm Đồng</li><li>Maps: Lỡ Cafe Đà Lạt</li><li>Số điện thoại: 0916 637 663</li><li>Thời gian mở cửa: 08:00 – 17:00</li></ul>"
+                }, {
+                    "id": 3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/cafe_bo_suoi_dalat.jpg' />"
+                }, {
+                    "id": 4,
+                    "mean": "Một điểm du lịch Đà Lạt mới mở đang “HOT” rần rần được nhiều bạn trẻ đến check in trong thời gian vừa qua mà bạn không nên bỏ qua chính là quán cafe Lỡ Đà Lạt. Quán cafe Lỡ mang đến một không gian xanh mang đậm chất núi rừng, đúng nghĩa là một chốn bình yên. Nơi đây được bao quanh bởi khu rừng thông già, một khuôn viên rộng lớn với bãi cỏ xanh mướt và dòng suối trong xanh chảy róc rách."
+                }, {
+                    "id": 5,
+                    "mean": "Ngồi thưởng thức tách trà bên bờ suối nhỏ, cảm nhận sự bình yên thư thái giữa bầu không khí trong lành mát mẻ của thiên nhiên. Mọi muộn phiền, suy tư mệt mỏi sẽ trôi theo dòng suối trong lành, trả lại cho bạn một khoảng bình yên."
+                }, {
+                    "id": 6,
+                    "mean": "Vào mỗi tối, quán cafe Lỡ mang đến không gian tuyệt vời để tổ chức bữa tiệc BBQ ngoài trời. Dưới ánh đèn lung linh, cùng đám bạn thưởng thức đồ nướng, cùng hát cho nhau nghe sẽ là một kỷ niệm đáng nhớ trong chuyến đi. Không gian tách biệt giữa núi rừng nên có quẩy hết mình, mở nhạc max volume thì cũng không ảnh hưởng đến ai. Sau khi ăn uống no say thì bạn có thể book ngay một chiếc lều xinh xinh để ngủ lại qua đêm nhé."
+                } 
+            ]
+        },{
+            "id" : 5,
+            "title":"Amazing Coffee Đà Lạt",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Thông tin liên hệ:"
+                },
+                {
+                    "id": 2,
+                    "mean": "<ul><li>Thời gian mở cửa: 7h – 22h</li><li>Địa chỉ: 02 Đống Đa – Phường 3 – Đà Lạt </li><li>Hotline: 02633 50 35 35</li></ul>"
+                }, {
+                    "id": 3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/cafe_amazing_dalat.jpg' />"
+                }, {
+                    "id": 4,
+                    "mean": "Trong tiết trời se se lạnh của Đà Lạt ngồi bên khung cửa sổ thơ mộng, phóng tầm mắt ngắm view thành phố từ trên cao đẹp bất kể ngày đêm thì chắc hẳn ai cũng sẽ bị si mê. Nằm ngay đầu cửa ngõ vào thành phố cùng view đắt giá nhìn thẳng bến xe liên tỉnh Đà Lạt."
+                }, {
+                    "id": 5,
+                    "mean": "Không gian quán được décor đơn giản và nhẹ nhàng nhưng cũng không kém phần ấm cúng. Ngồi đây ngắm mây, ngắm trời, ngắm toàn cảnh thành phố Đà Lạt từ trên cao, luyên thuyên vài ba câu chuyện, chắc hẳn tâm trạng sẽ tốt hơn rất nhiều."
+                }, {
+                    "id": 6,
+                    "mean": "Một Amazing hiện đại vẫn toát ra vẻ lãng mạn tự nhiên vốn có, sẽ là một nơi thật chill để bạn relax đấy."
+                } 
+            ]
+        },{
+            "id" : 6,
+            "title":"Quảng trường Lâm Viên",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Thông tin liên hệ:"
+                },
+                {
+                    "id": 2,
+                    "mean": "Có địa chỉ tại đường Trần Quốc Toản, Phường 1, Thành phố Đà Lạt."
+                }, {
+                    "id": 3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/quang_truong_lam_vien.jpg' />"
+                }, {
+                    "id": 4,
+                    "mean": "Sức hút kỳ lạ của công trình độc đáo này đã tạo nên một diện mạo mới cho thành phố mộng mơ Đà Lạt. Được xây dựng từ đầu năm 2016, Quảng trường Lâm Viên nhanh chóng trở thành điểm tới hấp dẫn không chỉ du khách trong nước và quốc tế mà còn là điểm sống ảo của giới trẻ lui tới đây."
+                }, {
+                    "id": 5,
+                    "mean": "Được mệnh danh là “đóa hoa dã quỳ khổng lồ của Đà Lạt” thật không có một nơi nào có thể sánh bằng. Với diện tích 72.000m2 đã mang tới một không gian rộng lớn với nhiều hoạt động giải trí thu hút du khách. Điểm gây ấn tượng với du khách chính là bông hoa dã quỳ khổng lồ được thiết kế hơi nghiêng bằng kính nhiều màu sắc trông thật lạ mắt trở thành nơi check – in của giới trẻ hay nhiều cặp đôi khi đến đây."
+                }, {
+                    "id": 6,
+                    "mean": "Đi vào sâu bên trong bông hoa khổng lồ, du khách sẽ choáng ngợp với không gian bên trong với những quán cafe, quán bar được trang trí tuyệt đẹp phục vụ cho du khách đến tham quan Đà Lạt. Sẽ chẳng đắn đo gì khi du khách gọi một tách cafe ngắm nhìn ánh nắng chiều nhuộm vàng chiếu qua những ô cửa kính đa sắc màu trông thật huyền ảo."
+                } 
+            ]
+        },{
+            "id": 7,
+            "title": "Kết",
+            "discription": [
+                {
+                    "id": 1,
+                    "mean": "Chúc bạn có kì nghỉ thật thư giãn khi ghé tham thành Phố Đà Lạt "
+                }
+            ]
+        }
+        
+        
+        
+    ]
+
+    
+
+}

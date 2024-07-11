@@ -1,0 +1,195 @@
+.body__container-title {
+    font-size: var(--font-sm);
+    line-height: var(--lh-sm);
+    font-weight: 500;
+    margin: auto;
+    color: var(--text-color--);
+}
+.header__navbar--list{
+    flex-direction: column;
+    position: fixed;
+    top: 120px;
+    left: 0;
+    bottom: 0;
+    padding-left: 5px;
+    display: none;
+    z-index: 99;
+}
+.header__navbar--list-item{
+    line-height: 5rem;
+    border-bottom: 2px solid var(--blue-color--);
+    border-right: 2px solid var(--blue-color--);
+    background-color: #3c483d;
+}
+.dot{
+    display: none;
+}
+.auth-form{
+    width: 100%;
+}
+.modal__body{
+    margin: auto;
+    width: 90%;
+}
+body{
+    width: 100%;
+}
+.next-modal{
+    display: block !important;
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--text-color--);
+}
+.block{
+    display: block;
+}
+.none{
+    display: none;
+}
+.popular__tags{
+    width: 100%;
+    max-width: none; 
+    min-width: none;
+  
+}
+.footer__aside-title{
+    font-size: 1.8rem;
+}
+ul.footer__nav > li > a {
+    font-size: 1.2rem;
+}
+div.widget__content > ul > li > a{
+    font-size: 1.2rem;
+}
+.footer__end-top{
+    flex-wrap: wrap;
+}
+.footer__end-address{
+    padding: 0 4px;
+}
+.footer__end-connet{
+    width: 100%;
+}
+.body__col-lable1 > p{
+    width: 100%;
+    font-size: 1.2rem;
+}
+.body__col-lable1{
+    width: 100%;
+}
+.body__row{
+    flex-wrap: wrap;
+}
+.tag{
+    width: 100%;
+}
+.app{
+    position: relative;
+    display: block;
+}
+.body__tags{
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    position: static;
+    justify-content: center;
+}
+.container{
+    width: 100%;
+}
+.body__tags > div.tag {
+    width: 90%;
+    position: static;
+    margin-bottom: 36px;
+}
+.gobal__header{
+    width: 100%;
+}
+.gobal__header-image{
+    width: 80%;
+}
+.header__navbar--list-item a{
+    font-size: 1.8rem;
+}
+.header__navbar--list-item{
+    line-height: 3.5rem;
+}
+.auth-form__socials--title--fb, .auth-form__socials--title-gg{
+    font-size: 1.2rem;
+}
+.container1{
+    padding: 50px 4px;
+}
+.post__header{
+    flex-wrap: wrap;
+}
+.post__image{
+    width: 95%;
+    margin: auto;
+}
+.auth-form__policy-text{
+    font-size: 1rem;
+}
+.post__title{
+    width: 100%;
+    margin: 12px 0;
+}
+div.post__content{
+    width: 90%;
+}
+div.post__content >h1{
+    line-height: 3.2rem;
+}
+.post__footer{
+    width: 100%;    
+}
+div.socal_network ul{
+    padding: 0;
+}
+div.socal_network ul > li > a{
+    font-size: 1.7rem;
+    margin: 0;
+}
+.footer__width-area{
+    height: 0;
+    width: 0;
+}
+.post__content > p > img{
+    width: 100% !important;
+    height: 220px !important;
+    margin: auto;
+    border-radius: 20px !important;
+}
+
+.post__title > h1{
+    font-size: 3.3rem;
+    line-height: 3.8rem;
+}
+div.post__content > p, ul > li,div.about p, div.about > ul > li{
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+}
+div.contact > ul > li> a, div.contact > ul > li{
+    font-size: 1.8rem;
+}
+div.contact >h1{
+    font-size: 5rem;
+}
+div.tag{
+    height: 100%;
+}
+.gobal__header-title > h1{
+    margin: 12px 4px;
+}
+.gobal{
+    padding: 50px 12px;
+}
+.d-flex.margin{
+    flex-wrap: wrap;
+}
+.gobal__header-title,.gobal__header-inner{
+    width: 100%;
+}
+.gobal__header-inner >h1{
+    margin: 0;
+}

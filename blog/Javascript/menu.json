@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "link": "../HTML/index.html",
+        "modal": "Home"
+    },{
+        "id": 2,
+        "link": "../HTML/all-post.html",
+        "modal": "All Posts"
+    },{
+        "link": "../HTML/categories.html",
+        "id": 3,
+        "modal": "Categories"
+    },{
+        "link": "../HTML/about.html",
+        "id": 4,
+        "modal": "About"
+    },{
+        "link": "../HTML/contact.html",
+        "id": 5,
+        "modal": "contact"
+    },{
+        "link": "../HTML/technology.html",
+        "id": 6,
+        "modal": "Technology"
+    },{
+        "link": "../HTML/traval.html",
+        "id": 7,
+        "modal": "Travel"
+    },{
+        "link": "../HTML/build_the_product.html",
+        "id": 8,
+        "modal": "Buil Product"
+    },{
+        "link": "../HTML/life.html",
+        "id": 9,
+        "modal": "Life"
+    }
+]

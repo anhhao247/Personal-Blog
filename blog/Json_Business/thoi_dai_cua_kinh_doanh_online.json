@@ -1,0 +1,107 @@
+{
+   
+    "background":"../img/business_3.jpg",
+    "titles": "Thời Đại của Kinh Doanh Online",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Kinh doanh online là gì?",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Kinh doanh online trở thành trào lưu thịnh hành trong vài năm gần đây, khi Internet và số người dùng smart phone ở Việt Nam phát triển bùng nổ. Vậy kinh doanh online là gì?"
+                },
+                {
+                    "id": 2,
+                    "mean": "Kinh doanh online là hình thức bán hàng trên mạng, bán hàng trực tuyến, là nơi diễn ra mọi hoạt động mua - bán sôi nổi vào bất cứ thời gian nào khi khách hàng có nhu cầu và hàng hóa được vận chuyển tới tận tay người nhận."
+                }, {
+                    "id": 3,
+                    "mean": "Hoạt động kinh doanh trực tuyến dễ thấy qua một số cách thức bán hàng như:"
+                }, {
+                    "id": 4,
+                    "mean": "<ul><li>Bán hàng trên Tiktok Shop</li><li>Bán hàng trên Facebook</li><li>Bán hàng trên Websit</li><li>Bán hàng trên Shopee, Tiki, Lazada, Sendo,...</li></ul>"
+                }, {
+                    "id": 5,
+                    "mean": "Chỉ cần máy tính hoặc điện thoại có kết nối Internet là bạn có thể bắt đầu bán hàng online. Nhờ bán online, nhiều người có thể đạt mức thu nhập từ 20 - 30 triệu mỗi tháng và hơn thế."
+                }, {
+                    "id": 6,
+                    "mean": "Ưu điểm của kinh doanh qua mạng:"
+                }, {
+                    "id": 7,
+                    "mean": "<ul><li>Người bán hàng được tự do, chủ động trong công việc</li><li>Nguồn hàng phong phú, đa dạng</li><li>Phương thức kinh doanh đơn giản</li><li>Chi phí đầu tư không quá lớn, không phải thuê mặt bằng</li><li>Đối tượng khách hàng rộng và tăng lên nhanh chóng</li><li>Người bán có cơ hội nhận được thu nhập cao</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Cơ hội kinh doanh online ngày nay",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Dù bạn là người đã bán hàng online lâu năm hay đang chuẩn bị khởi nghiệp kinh doanh thì hãy tin rằng cơ hội để phát triển lĩnh vực này còn rất lớn. "
+                },
+                {
+                    "id":2,
+                    "mean": "Hãy cùng xem các con số sau đây:"
+                },{
+                    "id":3,
+                    "mean": "<ul><li>Số lượng người dùng internet là 68,17 triệu người (chiếm tỷ lệ 70% số dân) tính đến giữa năm 2020.</li><li>Số người dùng mobile là 145,8 triệu thuê bao.</li><li>Số người tham gia mua sắm online tới 44,8 triệu người. Trước đó, năm 2015 chỉ đạt 30,3 triệu người chọn mua sắm trực tuyến.</li></ul>"
+                },{
+                    "id": 4,
+                    "mean": "Đây là những điều kiện vô cùng thuận lợi giúp cho những người muốn kiếm tiền online đạt được mục tiêu làm giàu."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Làm thế nào để bắt đầu kinh doanh online thành công?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Lập kế hoạch kinh doanh không phải là một việc quá khó. Điều cần làm đơn giản chỉ là: “bắt đầu”."
+                },
+                {
+                    "id":2,
+                    "mean": "Hãy cùng điểm qua các bước để kinh doanh online thành công bạn cận làm tốt từ khâu lập kế hoạch đến triển khai kinh doanh online dưới đây:"
+                },
+                {
+                    "id":3,
+                    "mean": "<ul><li>Ý tưởng kinh doanh</li><li>Xác định các mục tiêu</li><li>Lập kế hoạch kinh doanh</li><li>Nghiên cứu khách hàng mục tiêu</li><li>Nghiên cứu thị trường</li><li>Phân tích cạnh tranh</li><li>Đánh giá tình khả thi</li><li>Chiến lược, mô hình kinh doanh online</li><li>Các bước triển khai</li><li>Lựa chọn và tìm kiếm nguồn hàng</li><li>Lựa chọn các kênh bán</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Ý tưởng kinh doanh online đang là xu hướng HOT",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Bạn đã có sẵn ý tưởng kinh doanh online hay đang trong quá trình tìm kiếm vì chưa biết kinh doanh gì? "
+                },
+                {
+                    "id":2,
+                    "mean": "Nếu bạn chưa từng buôn bán một mặt hàng nào đó, bạn có thể quan sát xung quanh mình xem người thân và bạn bè của bạn, mọi người đang kinh doanh gì. Hãy học cách bán hàng trên Facebook và các shop uy tín trên sàn TMĐT như Shopee, Tiki, Lazada, Sendo của những người thành công."
+                },
+                {
+                    "id":3,
+                    "mean": "Bạn hãy xem họ chọn những mặt hàng gì để bán, mức giá ra sao, cách họ đăng những bài viết bán hàng hay trên Facebook thế nào?"
+                },
+                {
+                    "id":4,
+                    "mean": "Tuy nhiên, trước khi quyết định nên kinh doanh mặt hàng gì, bạn hãy trả lời loạt câu hỏi sau:"
+                },
+                {
+                    "id":5,
+                    "mean": "<ul><li>Đó có phải là sản phẩm HOT không?</li><li>Nguồn hàng lấy ở đâu?</li><li>Mặt hàng cần tới nhiều vốn không?</li></ul>"
+                },
+                {
+                    "id":6,
+                    "mean": "Một số ý tưởng được nhiều người gợi ý như kinh doanh quần áo thời trang, giày dép, mỹ phẩm, trái cây,... Hoặc bạn cũng có thể tận dụng các đồ dùng sẵn có tại nhà để làm đồ ăn vặt bán online nếu bạn khéo tay và có đam mê nấu ăn. Hoặc bạn hãy đăng ký làm đại lý cung cấp thực phẩm tươi sạch, hữu cơ cho người dùng. Đây là xu hướng tiêu dùng ngày càng được ưa chuộng, do vậy bạn kinh doanh chắc chắn sẽ đắt hàng nếu bạn có nguồn hàng tốt và giá cả hợp lý."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

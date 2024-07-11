@@ -1,0 +1,89 @@
+.container1{
+    width: 100%;
+    padding: 100px 12px;
+    background-color: var(--body--);
+}
+.post__header{
+    width: 100%;
+}
+.post__image{
+    width: 50%;
+}
+.post__image img{
+    width: 100%;
+    border-radius: 36px;
+}
+.post__title{
+    width: 50%;
+    padding-left: 36px;
+}
+.post__title-user{
+    display: flex;
+}
+.name{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-top: 16px;
+    margin-left: 12px;
+    color: var(--text-color--);
+}
+.post__title > h1{
+    font-size: 4.5rem;
+    color: var(--text-color--);
+    font-weight: 700;
+    line-height: 5.5rem;
+}
+div.post__content{
+    width: 75%;
+    margin: auto;
+}
+div.post__content >h1{
+    font-size: 3rem;
+    line-height: 3.2rem;
+    font-weight: 600;
+    color: var(--text-color--);
+}
+div.post__content > p{
+    font-size: 2rem;
+    color: var(--mean-color--);
+    line-height: 3rem;
+}
+.post__footer{
+    width: 80%;
+    margin: auto;
+    padding: 50px 0;
+    border-top: 4px solid rgb(146, 139, 139);
+}
+div.socal_network ul{
+    list-style: none;
+}
+div.socal_network ul > li > a{
+    text-decoration: none;
+    font-size: 2.5rem;
+    padding: 12px;
+    margin: 0 36px;
+    color: var(--mean-color--);
+}
+div.socal_network ul > li > a:hover{
+    color: var(--blue-color--);
+}
+div.socal_network ul > li{
+    font-size: 2.5rem;
+    color: var(--mean-color--);
+
+}
+ul > li{
+    font-size: 2rem;
+    line-height: 3rem;
+    color: var(--mean-color--);
+}
+div.post__content > p > img{
+    height: 100% !important;
+    width: 100% !important;
+}
+.list-item--menu{
+    top: 218% !important;
+}
+.list-item-app-add a{
+    padding: 2px 8px;
+}

@@ -1,0 +1,41 @@
+{
+    "content":[
+   
+        {
+            "id": 1,
+            "link": "product_manager.html",
+            "title": "Product Manager là gì?",
+            "discription": "Product Manager ( PM ) là công việc khá mù mờ. Họ là ai, làm gì?"
+        },
+        {
+            "id": 2,
+            "link":"lam_giau_bang_thuc_luc.html",
+            "title": "Làm giàu bằng thực lực ",
+            "discription": "Làm giàu bằng thực lực khó không? "
+        },
+        {
+            "id": 3,
+            "link":"xay_dung_dung_san_pham.html",
+            "title": "Xây dựng sản phẩm so với xây dựng đúng sản phẩm",
+            "discription": "Xây dựng đúng sản phẩm so với xây dựng đúng sản phẩm?"
+        },
+        {
+            "id": 4,
+            "link": "7_buoc_paht_trien_san_pham.html",
+            "title": "Tìm hiểu 7 bước phát triển sản phẩm",
+            "discription": "develoment product?"
+        },
+        {
+            "id": 5,
+            "link": "cach_tro_thanh_giam_doc_xuat_xac.html",
+            "title": "Cuốn sách Sản phẩm: Cách trở thành Giám đốc Sản phẩm xuất sắc",
+            "discription": "Cách trở thành Giám đốc Sản phẩm xuất sắc"
+        },
+        {
+            "id": 6,
+            "link": "xay_dung_thuong_hieu_ca_nhan.html",
+            "title": "Các Bước Xây Dựng Thương Hiệu Cá Nhân",
+            "discription": "Tai sao bạn muốn xây dựng thương hiệu cá nhân?"
+        }
+    ]
+}

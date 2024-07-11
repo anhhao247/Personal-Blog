@@ -1,0 +1,116 @@
+{
+   
+    "background":"../img/problem_1.jpg",
+    "titles": "Năm vấn đề về giảng viên đại học",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Hầu hết đội ngũ giảng viên đại học (GVÐH) không được đào tạo căn bản về trình độ nghiệp vụ sư phạm.",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Với giáo dục đại học (GDÐH), đối tượng học là người lao động, là những cử nhân, kỹ sư tương lai. Họ chính là lực lượng bổ sung trọng yếu hằng năm cho nguồn nhân lực chất lượng cao nước nhà, là nhân tố động lực phát triển của nền kinh tế đất nước."
+                },
+                {
+                    "id": 2,
+                    "mean": "Sự nghiệp CNH, HÐH nước ta thành công hay không là hoàn toàn phụ thuộc vào họ. Vì vậy, đối tượng học này không chỉ đơn thuần là cần có được trình độ chuyên môn nghề nghiệp phù hợp với đòi hỏi thực tiễn mà cần phải tiếp thụ được nghệ thuật sư phạm trong ứng xử, giao tiếp cũng như khả năng độc lập, thích nghi cao với môi trường sống và làm việc."
+                }, {
+                    "id": 3,
+                    "mean": "Ðiều này cho thấy sứ mệnh, vai trò và trách nhiệm của GVÐH là vô cùng lớn lao. Nó đòi hỏi ở GVÐH, bên cạnh năng lực chuyên môn nghiệp vụ vững vàng, phải có được năng lực nghiệp vụ sư phạm căn bản. GVÐH có chuyên môn nghiệp vụ vững vàng, có kỹ năng và phương pháp giảng dạy tốt, tất sẽ có sinh viên giỏi."
+                }, {
+                    "id": 4,
+                    "mean": "Bởi, yếu tố sư phạm tựa như đường dẫn để GVÐH truyền thụ tri thức nói chung và kiến thức chuyên môn nói riêng đến sinh viên. Sự hạn chế về năng lực sư phạm của GVÐH là một thiệt thòi không thể định lượng được đối với sinh viên. Nó ảnh hưởng trực tiếp đến chất lượng học tập của họ."
+                }, {
+                    "id": 5,
+                    "mean": "Nên chăng, Bộ Giáo dục và Đào tạo nên cho thành lập một số cơ sở chuyên đào tạo nghiệp vụ sư phạm trực thuộc bộ cho các đối tượng có nguyện vọng muốn trở thành GVÐH."
+                }, {
+                    "id": 6,
+                    "mean": "Các đối tượng này có thể là cử nhân, kỹ sư, nhưng với điều kiện đã có văn bằng chuyên môn hệ chính quy từ loại khá trở lên; là thạc sĩ; tiến sĩ. Bên cạnh đó, các cơ sở này còn có nhiệm vụ đào tạo lại, chuẩn hóa nghiệp vụ sư phạm cho đội ngũ GV đang giảng dạy ở các trường ÐH."
+                }, {
+                    "id": 7,
+                    "mean": "Sự ra đời của các cơ sở này sẽ là đơn vị đầu mối cung cấp, bổ sung nhân lực cho nguồn lực GVÐH; giúp cho bộ định lượng và điều tiết được nhân lực GVÐH phù hợp với kế hoạch phát triển mạng lưới trường ÐH trong cả nước. Ðây còn là nơi tiếp cận, cập nhật, thực hiện chuyển giao công nghệ về khoa học giảng dạy hiện đại của khu vực và thế giới."
+                }, {
+                    "id": 8,
+                    "mean": "Ðiều quan trọng nữa là Bộ Giáo dục và Đào tạo nên ban hành quy chế cụ thể về việc tuyển dụng GVÐH, áp dụng thống nhất trong cả nước, để giúp cho bộ quản lý được tình trạng tuyển dụng GVÐH manh mún của các trường ÐH như hiện nay."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Hiện nay tồn tại tình trạng GV giảng dạy không đúng chuyên môn. Ðây hiển nhiên được coi là giải pháp tình thế.",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Ở GDÐH, tình trạng GV dạy không đúng chuyên môn đã kéo dài nhiều thập kỷ nay và được các nhà trường hiển nhiên sử dụng như là giải pháp tình thế."
+                },
+                {
+                    "id":2,
+                    "mean": "Nhiều GV cả cuộc đời dạy học không được giảng dạy đúng chuyên môn của mình, chỉ thực hiện vai trò của người chuyên lấp chỗ trống. Họ, thay vì việc tìm tòi nghiên cứu nâng cao trình độ chuyên môn, lại phải gồng mình vừa học vừa dạy phân môn khác, thành ra kiến thức người thầy luôn ở trong tình trạng làng nhàng. Dĩ nhiên, điều đó kéo theo chất lượng của sinh viên cũng làng nhàng."
+                },{
+                    "id":3,
+                    "mean": "Hiện nay, nền kinh tế đất nước đang trên đà phát triển và hội nhập với kinh tế quốc tế đòi hỏi GDÐH không thể cho ra sản phẩm - người lao động mang danh chất lượng cao, nhưng thực tế chất lượng lại quá yếu kém. Nên GVÐH phải được giảng dạy đúng chuyên môn của mình và nhà trường ÐH phải coi đó là phương châm trong sử dụng nguồn lực GV. Ðây sẽ là giải pháp tích cực để thúc đẩy chất lượng GDÐH đi lên."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Ở nhà trường ÐH hiện nay tồn tại quan niệm bất thành văn: môn chính, môn phụ (môn chung). GVÐH giảng dạy những môn học phụ đang thể hiện bằng thái độ vô cảm trong giảng dạy.",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Thực tế, một cử nhân hay kỹ sư ra trường khi đi xin việc làm thì điều đầu tiên là phải thỏa mãn được nhà tuyển dụng lao động về năng lực ứng xử, sự hiểu biết về môi trường xã hội có liên quan nghề nghiệp của họ, chứ không phải là vấn đề trình độ chuyên môn."
+                },
+                {
+                    "id":2,
+                    "mean": "Như vậy, tất cả các môn học lĩnh hội được trong nhà trường ÐH đều có giá trị thực tiễn nhất định, hỗ trợ nhau trong việc giúp họ có được việc làm phù hợp với giá trị sức lao động của bản thân. Là một nhân lực lao động bậc cao, họ không thể không có năng lực làm việc độc lập, năng lực làm việc nhóm, kiến thức về pháp luật, không thể không có sức khỏe tốt..."
+                },
+                {
+                    "id":3,
+                    "mean": "Nhưng hiện nay, tâm lý sinh viên lơ là và học theo kiểu đối phó, thậm chí còn trốn học đối với các môn học được gọi là môn chung, môn phụ. Việc sinh viên có thái độ không hứng thú học các môn này có một phần trách nhiệm từ phía nhà trường và giảng viên đứng lớp."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "GVÐH đi dạy thêm chân ngoài dài hơn chân trong.",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Theo quy hoạch của Bộ Giáo dục và Đào tạo thì mạng lưới các trường ÐH đến năm 2020 nâng tổng số trường ÐH trong cả nước lên 225 trường. Ðiều đó cho thấy, nền GDÐH nước ta đang từng bước tiệm cận với nền GDÐH đại chúng."
+                },
+                {
+                    "id":2,
+                    "mean": "Tuy nhiên, nhiều nhà giáo dục lớn của đất nước cũng như dư luận xã hội vẫn đang rất trăn trở với vấn đề này. Bởi hiện nay, nguồn nhân lực rất quan trọng là đội ngũ GVÐH ngay cho nhu cầu hiện tại vẫn còn đang trong tình trạng yếu về chất lượng và thiếu trầm trọng về số lượng. Chỉ tính năm 2006, tổng số sinh viên trong cả nước là 1.387.107 người, trong khi tổng số GV là 48.579 người, tỷ lệ SV/GV là 28,55. Ðây là tỷ lệ ở mức khá cao mà người GV phải gánh."
+                },
+                {
+                    "id":3,
+                    "mean": "Ðể giảm thiểu áp lực thiếu GV, các trường ÐH chọn giải pháp đi thuê GV thỉnh giảng. Ðặc biệt, ở các trường ÐH dân lập, nhu cầu thuê thầy dạy là rất lớn. Xét về phương diện nào đấy, đây cũng là cơ hội để người thầy bậc ÐH cải thiện điều kiện lương bổng vốn dĩ quá thấp hiện nay. Tuy nhiên, việc đi dạy thêm chân ngoài dài hơn chân trong này đã dẫn GVÐH ngày càng lún sâu vào phương pháp giảng dạy theo lối mòn kiến thức và triệt tiêu khả năng nghiên cứu, sáng tạo."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "VÐH là cử nhân, kỹ sư còn chiếm tỷ lệ quá cao trong nhà trường ÐH.",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Ở các quốc gia phát triển, GVÐH bắt buộc phải có học vị tiến sĩ; người có trình độ thạc sĩ chỉ được thực hiện vai trò trợ giảng. Ðiều đó cho thấy, các quốc gia phát triển vô cùng coi trọng chất lượng của GDÐH. Bằng chứng là sinh viên tốt nghiệp từ môi trường GDÐH của các quốc gia này có quyền tự hào về nơi họ được đào tạo và văn bằng của họ được thế giới công nhận."
+                },
+                {
+                    "id":2,
+                    "mean": "Bởi vậy, khi nhìn lại nguồn nhân lực GVÐH nước ta có đến hơn nửa là cử nhân, kỹ sư thì việc chất lượng đào tạo yếu kém của GDÐH và việc văn bằng của hầu hết các trường ÐH trong cả nước chưa được thế giới công nhận cũng là điều dễ hiểu. Xin được minh họa bằng con số cụ thể: Năm 2006, tỷ lệ GVÐH có chức danh GS, PGS là 5,26%; có trình độ tiến sĩ, tiến sĩ khoa học là 12,43%; có trình độ thạc sĩ là 32,26%; còn lại là cử nhân, kỹ sư. Tình trạng này đã kéo dài nhiều thập kỷ qua và được Bộ trưởng Giáo dục và Đào tạo Nguyễn Thiện Nhân gọi tên là cơm chấm cơm."
+                },
+                {
+                    "id":3,
+                    "mean": "Ðể cải thiện tình trạng này, từng bước củng cố và nâng cao chất lượng nền GDÐH, chuẩn hóa đội ngũ GV, chiến lược phát triển giáo dục 2001 - 2010 được Chính phủ phê duyệt năm 2001, đưa ra mục tiêu cần đạt đến năm 2010 là 25% GV có trình độ tiến sĩ, tiến sĩ khoa học; 40% GV có trình độ thạc sĩ."
+                },{
+                    "id": 4,
+                    "mean": "Bộ Giáo dục và Đào tạo cũng đề ra mục tiêu phấn đấu đến năm 2015 tất cả GV lên giảng đường ÐH phải có trình độ tiến sĩ và trong vòng 10 năm tới sẽ quyết tâm đào tạo thêm 20.000 tiến sĩ bổ sung cho nền GDÐH nước nhà."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

@@ -1,0 +1,97 @@
+{
+   
+    "background":"../img/product_2.jpg",
+    "titles": "Làm Giàu bằng thực Lực ",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Giới thiệu",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Mình rất thích bác Naval Ravikant - founder của Angel List. Bác Naval có các podcast, tweet storm rất hay về cách làm giàu, hạnh phúc, và cuộc sống."
+                },
+                {
+                    "id": 2,
+                    "mean": "Bài viết này mình sẽ đi qua tweet storm How to Get Rich (without getting lucky) và chia sẻ quan điểm của mình về chủ đề này"
+                }, {
+                    "id": 3,
+                    "mean": "Cách làm giàu bằng thực lực"
+                }, {
+                    "id": 4,
+                    "mean": "Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy."
+                }, {
+                    "id": 5,
+                    "mean": "Wealth (thịnh vượng): Tức là nếu bạn bị mất hết tài sản, bạn vẫn có thể làm lại từ hai bàn tay trắng được. Người giàu chưa chắc đã thịnh vượng, còn người thịnh vượng chắc chắn sẽ giàu"
+                }, {
+                    "id": 6,
+                    "mean": "Ở đây, bác Naval cũng có ý rất giống bác Robert Kiyosaki (Cha giàu cha nghèo) về tài sản và tiêu sản. Việc xây dựng các nguồn ngu nhập thụ động rất quan trọng. Nhiều người nghĩ làm chức lớn trong 1 công ty là ổn định. Còn mình thấy xây dựng 1 kênh Youtube, Tiktok triệu views mới là ổn định"
+                }, {
+                    "id": 7,
+                    "mean": "Có câu là có tiền, có quyền (địa vị). Chúng ta nên tập trung vào việc xây dựng sự thịnh vượng, thu nhập thụ động. Còn địa vị chỉ là by-product mà thôi, không phải là thứ cần ưu tiên"
+                }, {
+                    "id": 8,
+                    "mean": "Understand that ethical wealth creation is possible. If you secretly despise wealth, it will elude you. Ignore people playing status games. They gain status by attacking people playing wealth creation games."
+                }, {
+                    "id": 9,
+                    "mean": "Làm giàu một cách có đạo đức là việc có thể làm, nhưng nó khó."
+                }, {
+                    "id": 10,
+                    "mean": "Khi bạn có tiền, có quyền và nhiều mối quan hệ, giữ được mình chẳng dễ chút nào. Tiền không đổi bản chất con người, nó chỉ khuếch đại chúng. Bạn có thấy những người thành công nhất lại là những người thường vướng vào vòng lao lý không?"
+                },{
+                    "id": 11,
+                    "mean": "Cho nên, càng thành công thì càng phải tỉnh táo. Tránh xa các đối tác lừa lọc, bất chấp để thành công. Phải biết đủ!"
+                },
+                {
+                    "id": 12,
+                    "mean": "Nên đọc Chủ nghĩa khắc kỷ và Ego is the enemy để giữ mình"
+                }, {
+                    "id": 13,
+                    "mean": "You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom."
+                }, {
+                    "id": 14,
+                    "mean": "Chỉ làm công ăn lương bán thời gian thì sẽ không bao giờ giàu được. Phải kinh doanh riêng, đầu tư thêm mới là con đường hướng tới tự do tài chính"
+                }, {
+                    "id": 15,
+                    "mean": "You will get rich by giving society what it wants but does not yet know how to get. At scale."
+                }, {
+                    "id": 16,
+                    "mean": "Khởi nghiệp là giúp người khác. Đặt biệt là giúp họ tiết kiệm thời gian. Còn làm giàu là khởi nghiệp thành công ở quy mô lớn hơn."
+                }, {
+                    "id": 17,
+                    "mean": "<ul><li>Grab giúp bạn bắt xe ôm nhanh và an toàn hơn</li><li>Facebook giúp bạn giải trí, thể hiện bản thân nhanh hơn</li><li>Airbnb giúp bạn đặt phòng nhanh hơn</li><li>Cô bán hủ tiếu bún bò giúp bạn có bữa ăn trong 5p</li></ul>"
+                }, {
+                    "id": 18,
+                    "mean": "Người giúp được nhiều người (quy mô lớn) thì càng giàu."
+                }, {
+                    "id": 19,
+                    "mean": "Pick an industry where you can play long term games with long term people. Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest. Don't partner with cynics and pessimists. Their beliefs are self-fulfilling."
+                }, {
+                    "id": 20,
+                    "mean": "<ul><li>Chọn một ngành mà bạn có thể đi đường dài được. Ví dụ như phần mềm, marketing. 20 năm nữa những ngành này đều có nhu cầu cao.</li><li>Không làm ăn với những người có suy nghĩ ngắn hạn, bi quan. Chọn người có tính kiên nhẫn, biết đối mặt với thất bại.</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "kết",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Mình không đồng tình với cái tên của tweet storm này How to Get Rich (without getting lucky)."
+                },
+                {
+                    "id":2,
+                    "mean": "Mình tin là muốn làm giàu phải có thực lực, nhưng may mắn cũng rất quan trọng. Thiên thời, địa lợi nhân hoà mà. Thiếu may mắn thì giỏi cỡ nào cũng toang thôi."
+                },{
+                    "id":3,
+                    "mean": "Còn lại những thứ bác Navel chia sẻ mình đều tâm đắc, đọc đi đọc lại. Bạn có thể nghe podcast dài hơn 3h về chủ đề này nha"
+                }
+            ]
+        
+        }
+    ]
+
+    
+
+}

@@ -1,0 +1,71 @@
+{
+   
+    "background":"../img/problem_2.jpg",
+    "titles": "Ô nhiễm môi trường nơi trường học",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Vấn đề rác thải",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Vấn đề rác thải là vấn đề nan giải của toàn xã hội, trong đó có khu vực trường học, nơi tập trung rất đông những bạn trẻ được xem là chủ nhân tương lai của đất nước.Việc bảo vệ vệ sinh môi trường đang là một vấn đề rất bức thiết trong cuộc sống chung của chúng ta hiện nay. Trong môi trường học đường thì lâu nay sự ô nhiễm vẫn tồn tại nhưng lại bị mọi người bỏ quên, và chính học sinh, sinh viên những người được xem là chủ nhân tương lai của đất nước cũng thể hiện ra ý thức rất kém trong việc giữ gìn vệ sinh trong môi trường lớp học. Từ các cấp mẫu giáo, tiểu học cho tới đại học, các em học sinh, sinh viên luôn được giáo dục rất kỹ lưỡng về ý thức bảo vệ môi trường sống xanh - sạch đẹp ở mọi nơi, mọi chỗ."
+                },
+                {
+                    "id": 2,
+                    "mean": "Nhưng điều đáng buồn là, ở bất cứ trường học nào thì cảnh tượng học sinh, sinh viên vẫn thản nhiên xả rác bừa bãi, vẫn vô tư làm bẩn môi trường xung quanh của chính họ. Vẫn còn đó những hiện tượng vứt giấy, rác vỏ của các bao bì đựng quà vặt, bã kẹo cao su… lung tung nơi sân trường, hành lang lớp và nhiều nữa là nơi ngăn bàn, dưới nền lớp học… Chính các việc làm thiếu ý thức này đã gây ảnh hưởng nghiêm trọng đến cảnh quan khuôn viên trường học và làm ô nhiễm bầu không khí học tập và giảng dạy, sinh hoạt, vui chơi của chính các em và của cả những người có liên quan. Không chỉ là những hành động xả rác bừa bãi, nhiều em, nhất là các em ở bậc tiểu học còn vẽ bậy trên bàn học, trên tường và có nhiều hành động vô ý thức khác. Nguyên nhân chính của việc thiếu ý thức trong việc giữ gìn và bảo vệ môi trường vệ sinh học đường chủ yếu là do thói lười biếng và lối sống ích kỷ chỉ nghĩ đến quyền lợi cá nhân của mình. Trong suy nghĩ của họ, những nơi công cộng như trường học, lớp học, công viên,... những nơi mà không phải nhà mình thì không cần phải mất công giữ gìn vì đã có đội lao công dọn dẹp được thuê để họ làm những công việc đó. Bởi cách suy nghĩ ấu trĩ như vậy thật là nguy hại. Bên cạnh đó việc xả rác bừa bãi đã là do thói quen có từ lâu, khó sửa đổi khi ở các lớp học, hàng ngày, mặc dù các thầy cô giáo và ban cán sự lớp luôn thường xuyên nhắc nhở nhưng vẫn không thể nào giữ cho lớp học sạch đẹp."
+                }, {
+                    "id": 3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/moi_truong_01.jpg' />"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Một vài địa điểm bất cập",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Theo như thống kê thì tại trường THCS Tân Định, hàng năm với tổng số lượng trên 2.500 em. Tuy nhiên, gần đây khuôn viên trường đã bị bao vậy bởi những rác thải, các bãi rác được tập kết gây nên tình trạng ô nhiễm môi trường. Việc tập kết rác thải tại khu vực này đã gây bức xúc cho người dân quanh khu vực và cho các bậc phụ huynh có con em đang theo học tại trường. Họ luôn lo lắng đến sức khỏe của con em mình vì ngày nào cũng phải sống chung và hít mùi hôi thối từ các bãi rác xung quanh trường. Bất cứ ai đi qua trường cũng thấy lo ngại trước cảnh hàng chục chiếc xe rác nằm dàn hàng ngang che kín cả cổng trường. Khi càng về tối, những xe rác được tập kết về khu vực này càng nhiều, có khi lên tới gần hai chục xe. Từ những chiếc xe này, nước thải rỉ dần xuống, khiến mặt đường khu vực này lênh láng nước. Mùi hôi thối bốc lên nồng nặc. Điều đáng ngại hơn là, tình trạng này đã xảy ra từ nhiều năm nay, bất chấp sự phản ứng của cả nhà trường và người dân sở tại."
+                },
+                {
+                    "id":2,
+                    "mean": "Trước những bất cập về vấn đề ô nhiễm môi trường học đường do các nguyên nhân chủ quan hay khách quan thì vấn đề này cũng đang ảnh hưởng đến bộ mặt của ngành sư phạm nước ta vì vậy cần có những biện pháp để khác phục vấn đề này."
+                },{
+                    "id":3,
+                    "mean": "Bảo vệ môi trường đã trở thành nhiệm vụ cấp bách và không của riêng ai, không phải riêng của công ty thông cống nghẹt Quốc Hùng. Nhưng điều đáng phải quan tâm trước hết là việc giáo dục ý thức bảo vệ môi trường trong các nhà trường chưa được chú trọng đúng mức. Ý thức tự giác bảo vệ môi trường, giữ gìn môi trường chưa được hình thành rõ nét trong các tầng lớp học sinh, sinh viên và thậm chí cả ở một số giáo viên. Việc này có thể được chứng minh từ chính các hoạt động trong khuôn viên trường học, tình trạng trường học ít cây xanh hoặc không có cây xanh vẫn còn phổ biến; học sinh, sinh viên vứt rác bừa bãi, hút thuốc lá khi đến trường vẫn còn diễn ra hàng ngày. Trong khuôn viên trường học, luôn có những thùng đựng rác lớn để chứa rác được bố trí khắp nơi nhưng rác vẫn được vứt chỏng chơ trên sân trường. Những điểm công cộng ở gần các trường học: nhà ga, bến xe, chợ… hiện tượng xả rác bừa bãi là khá phổ biến. Bên cạnh đó, tình trạng sử dụng điện, nước lãng phí cũng đã trở nên “quen thuộc” trong các nhà trường. Dường như tâm lý “dùng của chùa’ vẫn còn tồn tại nên ở nhiều nhà trường, ở các phòng học và phòng làm việc, quạt, điều hoà nhiệt độ, các thiết bị chiếu sáng được sử dụng một cách lãng phí."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Ý thức bảo vệ môi trường của học sinh Việt nam",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Trong khi tại một số quốc gia phát triển đã có hẳn môn học riêng về môi trường để nâng cao ý thức tự bảo vệ môi trường của chính học sinh của họ, thì ở nước ta, ngoại trừ các môn học chuyên ngành về môi trường ở bậc cao đẳng, đại học thì bảo vệ môi trường chưa đựoc xem là một môn học. Tại cấp trung học phổ thông thì nó chỉ được lồng ghép trong các môn Sinh học, Giáo dục công dân, Địa lý và một số tiết học ngoại khoá. Một số cuộc thi bảo vệ môi trường đã được tổ chức trong trường học song nhìn chung, vẫn còn mang nặng tính hình thức. "
+                },
+                {
+                    "id":2,
+                    "mean": "Để công tác giáo dục và nâng cao ý thức bảo vệ môi rtường trong nhà trường thực sự mang lại hiệu quả như mong muốn, cần bắt đầu từ những việc làm, hành động nhỏ nhất. Ví dụ như làm tốt công việc trồng và chăm sóc cây xanh; vệ sinh trong và ngoài lớp sạch sẽ trước và sau mỗi buổi học; thường xuyên tổ chức các cuộc thi về bảo vệ môi trường trong khuôn viên nhà trường … Trong các bài giảng, căn cứ vào điều kiện từng môn học cụ thể, thầy cô có thể lồng ghép những kiến thức về bảo vệ môi trường để cho các học sinh của mình biết rõ về trách nhiệm và nghĩa vụ của mình trong công tác bảo vệ môi trường. Việc cho học sinh, sinh viên thường xuyên tiếp xúc với những kiến thức về môi trường qua các lời giảng của giáo viên có thể tác động trực tiếp và có tác dụng hơn so với những chương trình truyền thông khô cứng. Không chỉ trong các tiết dạy trên lớp, giáo viên cần làm gương cho học sinh trong việc bảo vệ môi trường bằng những hành động thiết thực. Đồng thời, khuyến khích học sinh tự giám sát việc bảo vệ môi trường của nhau và đưa ra những lời nhắc nhở, tuyên dương kịp thời để khuyến khích tình thần của các bạn học sinh đồng thời nêu cao tình thần tự giác. "
+                },
+                {
+                    "id":3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/moi_truong_02.jpg' />"
+                },
+                {
+                    "id":4,
+                    "mean": "Các nhà trường cũng cần dành một khoản kinh phí nhất định để đầu tư các thiết bị tiết kiệm điện, khuyến khích giáo viên, học sinh, sinh viên sử dụng năng lượng tiết kiệm cùng với việc ban hành những quy định cụ thể về việc bảo vệ môi trường, giữ gìn cảnh quan xanh - sạch - đẹp. Cần đưa ý thức bảo vệ môi trường thành một tiêu chí để đánh giá, xếp loại giáo viên, học sinh, sinh viên. Nâng cao ý thức bảo vệ môi trường trong nhà trường là một trong những biện pháp quan trọng góp phần xây dựng môi trường học đường thân thiện cũng như mang lại những lợi ích trước mắt và lâu dài."
+                },
+                {
+                    "id":5,
+                    "mean": "Bên cạnh đó, chính phủ nhà nước cũng cần có những biện pháp hỗ trợ cho nhà trường việc xử lý rác thải trong và xung quanh khuôn viên trường học để mang lại một môi trường trong sạch cho các thế hệ tương lai của đất nước."
+                }
+            ]
+        
+        }
+    ]
+
+    
+
+}

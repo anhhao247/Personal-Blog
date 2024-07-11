@@ -1,0 +1,140 @@
+:root{
+    --light-gray--:#f6f6f6;
+    --header-menu--:#1e1e1e;
+    --body--:#161616;
+    --text-color--:#fafafa;
+    --blue-color--: #699aed;
+    --border-color--:#1e1e1e;
+    --mean-color--:#929292;
+    --cmt-color--: #272727;
+    --font-lg: 90px;
+    --font-md: 70px;
+    --font-sm: 30px;
+    --lh-lg: 95px;
+    --lh-md: 80px;
+    --lh-sm: 38px;
+}
+.light-mode{
+    --body--: white;
+    --header-menu--: #f6f6f6;
+    --text-color--: black;
+    --cmt-color--:#f2f2f2;
+}
+
+.girt{
+  
+    width: 1200px;
+    margin: 0 auto;
+    max-width: 100%;
+} 
+.d-flex{
+    display: flex;
+}   
+body{
+    background-color: var(--body--);
+} 
+/* aminnation */
+@keyframes falein{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    box-sizing: border-box;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+/* modal  */
+.modal{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: none;
+}
+.modal__overlay{
+    position: absolute;
+    background-color: rgba(0,0,0,0.4);
+    height: 100%;
+    width: 100%;
+    animation: falein ease .3s;
+}
+.modal__body{
+    --Grouwth-from: 0.7;
+    --Grouwth-to: 1;
+    margin: auto;
+    background-color: white;
+    z-index: 1;
+    animation: Grouwth linear .4s;
+
+}
+
+
+/* button style */
+.btn{
+    min-width: 142px;
+    height: 36px;
+    text-decoration: none;
+    border: none;
+    border-radius: 2px;
+    padding: 0;
+    outline: none;
+    cursor: pointer;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+@keyframes Grouwth{
+    from{
+        transform: scale(var(--Grouwth-from));
+    }
+    to{
+        transform: scale(var(--Grouwth-to));
+    }
+}
+@keyframes scroller{
+    form {
+        transform: translateY(-100%);
+    }
+    to{
+        transform: translateY(0);
+    }
+}
+.scroll{
+    animation: scroller ease-in 1s;
+}
+.fixed{
+    z-index: 99;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+/* go to top */
+div.gototop {
+    position: fixed;
+    background-color: var(--blue-color--);
+    right: 20px;
+    bottom: 30px;
+    border-radius: 50%;
+    display: none;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+    border: 1px solid black;
+}
+div.gototop a {
+    display: block;
+    padding: 17px 20px;
+    color: var(--border-color--);
+    font-size: 2rem;
+}
+.btn.btn--primary{
+    background-color: var(--blue-color--) !important;
+    border-radius: 10px;
+}

@@ -1,0 +1,133 @@
+{
+   
+    "background":"../img/business_1.jpg",
+    "titles": "Kinh Doanh là  gì?",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Kinh Doanh là  gì?",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Khái niệm kinh doanh là gì được giải thích tại khoản 21 Điều 4 Luật Doanh nghiệp năm 2020 như sau:"
+                },
+                {
+                    "id": 2,
+                    "mean": "Kinh doanh là việc thực hiện liên tục một, một số hoặc tất cả công đoạn của quá trình từ đầu tư, sản xuất đến tiêu thụ sản phẩm hoặc cung ứng dịch vụ trên thị trường nhằm mục đích tìm kiếm lợi nhuận."
+                }, {
+                    "id": 3,
+                    "mean": "Theo quy định này, có thể hiểu kinh doanh là những công việc được thực hiện liên quan đến mua bán hàng hoá trên thị trường nhằm mục đích sinh lợi nhuận dù có thể không cần phải thực hiện đầy đủ các bước trong việc tiêu thụ hoặc cung ứng sản phẩm, dịch vụ trên thị trường."
+                }, {
+                    "id": 4,
+                    "mean": "Do đó, kinh doanh có thể là hoạt động đầu tư, sản xuất hay cung ứng hàng hoá, dịch vụ hoặc mua bán, trao đổi hàng hoá… để tạo ra lợi nhuận. Trong khi đó, theo nghĩa phổ thông, nhiều người thường chỉ quan niệm kinh doanh là việc buôn bán hàng hoá, dịch vụ nhằm tạo ra lợi nhuận."
+                }, {
+                    "id": 5,
+                    "mean": "Như vậy, dù theo nghĩa thông thường hay theo quy định của pháp luật, phân biệt hoạt động kinh doanh với các hành vi khác là mục đích sẽ tạo nên lợi nhuận. Còn những hành vi khác, dùng về mặt hình thức cũng giống kinh doanh nhưng nếu không nhằm tạo ra lợi nhuận thì cũng không được coi là kinh doanh."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Loại hình kinh doanh là gì?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Bên cạnh định nghĩa kinh doanh là gì nêu trên, bài viết cũng sẽ giải đáp về các loại hình kinh doanh thường thấy trên thị trường nước ta. Cụ thể:"
+                },
+                {
+                    "id":2,
+                    "mean": "Kinh doanh dịch vụ"
+                },{
+                    "id":3,
+                    "mean": "Đây có lẽ là loại hình kinh doanh thường gặp nhất hiện nay. Theo đó, trên thị trường có nhiều doanh nghiệp đang áp dụng loại hình này bởi không phân biệt ngành, nghề lĩnh vực. Có thể kể đến một số lĩnh vực kinh doanh dịch vụ phổ biến như:"
+                },{
+                    "id": 4,
+                    "mean": "<ul><li>Doanh nghiệp kinh doanh dịch vụ tư vấn có thể dành cho các dự án tài chính, pháp luật… bởi sự đa dạng, không phân biệt ngành, nghề kinh doanh và không áp đặt cho một ngành, nghề cụ thể.</li><li>Hiểu đơn giản, việc kinh doanh dịch vụ tài chính là thuật ngữ dùng để chỉ các dịch vụ được cung cấp bởi thị trường tài chính như ngân hàng, chứng khoán, bảo hiểm…</li><li>Chuỗi cung ứng và phân phối: Loại hình này thường áp dụng với các doanh nghiệp chuyển phát nhanh. Theo đó, các doanh nghiệp thực hiện việc giao, nhận hàng hoá từ địa điểm này đến địa điểm khác hoặc từ kho này đến kho khác…</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Kinh doanh sản xuất",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Ngoài kinh doanh dịch vụ thì việc kinh doanh sản xuất cũng là hình thức kinh doanh được ưa chuộng. Với bất kỳ một sản phẩm hàng hoá nào, sản xuất là khâu có vai trò quan trọng nhất, phục vụ cho quá trình trao đổi, mua bán trên thị trường."
+                },
+                {
+                    "id":2,
+                    "mean": "Các doanh nghiệp kinh doanh sản xuất sẽ tạo ra sản phẩm, đưa sản phẩm đến các nhà phân phối hoặc bán trực tiếp cho người tiêu dùng. Ở hình thức này, có thể kể đến các doanh nghiệp như sản xuất linh kiện điện tử như Samsung, linh kiện máy móc như Honda, Toyota… hoặc sản xuất các sản phẩm thời trang như Coach, Hermes…"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Kinh doanh bán lẻ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Đây là loại hình kinh doanh phổ biến nhất trên thị trường, thậm chí nhiều người đang kinh doanh theo hình thức này nhưng có thể không biết. Hình thức này tập trung hướng tới đối tượng tiêu dùng cá nhân và mua bán với các sản phẩm, số lợi nhuận thấp."
+                },
+                {
+                    "id":2,
+                    "mean": "Đây cũng là hình thức trực tiếp đưa sản phẩm, hàng hoá, dịch vụ… từ các nhà cung cấp, sản xuất đến tay người tiêu dùng. Hiện có nhiều mô hình kinh doanh bán lẻ nhưng phổ biến nhất là các cửa hàng tạp hoá, siêu thị, trung tâm thương mại…"
+                },
+                {
+                    "id":3,
+                    "mean": "Việc kinh doanh bán lẻ thường bao gồm các loại hàng hoá khác nhau, vô cùng đa dạng, phong phú. Mỗi quy mô có thể chỉ bán một hoặc một số mặt hàng như vật liệu xây dựng, máy tính… hoặc bán tổng hợp nhiều loại hàng như hàng tạp hoá…"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Kinh doanh có những đặc điểm gì?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Mục tiêu có lợi nhuận có lẽ là đặc điểm nổi bật nhất của kinh doanh khi được hỏi đặc điểm của kinh doanh là gì. Đây cũng là đặc điểm dùng để phân biệt hành vi kinh doanh với các hành vi dân sự khác."
+                },
+                {
+                    "id":2,
+                    "mean": "Đây có thể được xem là mục tiêu cuối cùng của các hành vi kinh doanh, là thành quả của cả quá trình kinh doanh sản phẩm, dịch vụ của người kinh doanh."
+                },
+                {
+                    "id":3,
+                    "mean": "Đồng thời, kinh doanh còn là quá trình trao đổi hàng hoá, dịch vụ. Đặc điểm này có thể tương tự với một số hành vi khác nhưng cũng là điều kiện cần để tạo nên hành vi kinh doanh."
+                },{
+                    "id": 4,
+                    "mean": "Tất cả hoạt động kinh doanh đều liên quan trực tiếp hoặc gián tiếp đến việc trao đổi, mua bán hàng hoá và dịch vụ. Mục tiêu của việc trao đổi hàng hoá, dịch vụ là đổi lấy tiền hoặc những vật, tài sản tương đương với tiền hay còn gọi là lợi nhuận."
+                },{
+                    "id": 5,
+                    "mean": "Ngoài ra, kinh doanh còn có các đặc điểm gồm hai đối tượng người mua và người bán; tiếp thị, phân phối hàng hoá; ưu đãi trong kinh doanh; đáp ứng nhu cầu tiêu dùng của người tiêu dùng…"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Doanh nghiệp kinh doanh dưới những loại hình nào?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Về tổ chức, cơ cấu của các doanh nghiệp kinh doanh, theo Luật Doanh nghiệp năm 2020, tại nước ta có các loại hình doanh nghiệp gồm:"
+                },
+                {
+                    "id":2,
+                    "mean": "Công ty trách nhiệm hữu hạn (TNHH) một thành viên: Do một tổ chức/cá nhân làm chủ sở hữu, có tư cách pháp nhân, không phát hành cổ phần nhưng được phát hành trái phiếu…"
+                },
+                {
+                    "id":3,
+                    "mean": "Công ty TNHH hai thành viên trở lên: Gồm từ 02 - 50 thành viên; có tư cách pháp nhân, không phát hành cổ phần, được phát hành trái phiếu…"
+                },{
+                    "id": 4,
+                    "mean": "Công ty cổ phần: Có tư cách pháp nhân, được phát hành cổ phần, trái phiếu cũng như các loại chứng khoán khác, gồm tối thiểu 03 cổ đông và có vốn điều lệ"
+                },{
+                    "id": 5,
+                    "mean": "Công ty hợp danh: Có ít nhất 02 thành viên là chủ sở hữu chung công ty, cùng kinh doanh dưới một tên chung và thành viên góp vốn; không được phát hành bất cứ loại chứng khoán nào; có tư cách pháp nhân…"
+                }
+            ]
+        }
+    ]
+
+    
+
+}

@@ -1,0 +1,58 @@
+{
+   
+    "background":"../img/product_5.jpg",
+    "titles": "Cuốn sách Sản phẩm: Cách trở thành Giám đốc Sản phẩm xuất sắc",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Sách bán chạy số 1 của Amazon",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/cuon_sach_pm_xuat_sac.jpg' />"
+                },
+                {
+                    "id": 2,
+                    "mean": "Chúng tôi cung cấp chuyên môn của mình cho bạn sau khi giúp nhiều sinh viên chuyển sang quản lý sản phẩm"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Cách xây dựng sản phẩm",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Học hỏi từ chính những người hướng dẫn đã tạo ra chương trình quản lý sản phẩm thành công của Product School"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Làm thế nào để vượt qua cuộc phỏng vấn PM",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Hiểu rõ toàn diện về công việc của Giám đốc sản phẩm khi chúng tôi xây dựng sản phẩm theo từng chương"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Không ai yêu cầu bạn xuất hiện",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Mọi nhà quản lý sản phẩm có kinh nghiệm đều đã từng nghe một số phiên bản của những từ đó vào một thời điểm nào đó trong sự nghiệp của họ. Hãy nghĩ về một công ty. Các kỹ sư xây dựng sản phẩm. Các nhà thiết kế đảm bảo rằng nó có trải nghiệm người dùng tuyệt vời và trông đẹp mắt. Tiếp thị đảm bảo khách hàng biết về sản phẩm. Bán hàng thu hút khách hàng tiềm năng mở hầu bao để mua sản phẩm. Một công ty cần gì hơn nữa? Người quản lý sản phẩm làm gì?"
+                },
+                {
+                    "id":2,
+                    "mean": "Cuốn sách Sản phẩm trả lời câu hỏi đó. Với đầy những lời khuyên thiết thực, những phương pháp hay nhất và lời khuyên của chuyên gia, cuốn sách này sẵn sàng giúp bạn thành công!"
+                }   
+            ]
+        }
+    ]
+
+    
+
+}

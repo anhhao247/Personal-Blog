@@ -1,0 +1,128 @@
+{
+   
+    "background":"../img/traval_5.jpg",
+    "titles": "Lợi ích của việc du lịch bằng máy bay thay vì tàu hỏa, xe khác mà bạn nên biết.",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Thời gian và đường bay đa dạng",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Ngày nay, sự phát triển mạnh mẽ của ngành hàng không biến máy bay trở thành phương tiện đi lại vô cùng phổ biến trong đời sống. Dù đi công tác, về quê hay đi du lịch thì máy bay vẫn luôn là ưu tiên hàng đầu. "
+                },
+                {
+                    "id": 2,
+                    "mean": "Chọn đi máy bay, bạn có thể linh hoạt chọn thời gian và đường bay đa dạng phù hợp nhu cầu. Tùy điểm đến mà lịch bay các hãng trải dọc từ sáng sớm đến tối muộn. Dù bạn đặt vé từ sớm hay mua vé bất chợt, bạn đều dễ dàng có được những chuyến bay đáp ứng việc di chuyển, đi lại của mình. "
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Nhiều khuyến mãi  ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Thường thì người ta chỉ săn vé máy bay khuyến mãi chứ ít khi nào săn vé tàu hay vé xe khách giá rẻ. Điều này xuất phát từ việc các hãng hàng không thường tung ra các chương trình ưu đãi hấp dẫn nhằm kích cầu du lịch, đi lại. "
+                },
+                {
+                    "id":2,
+                    "mean": "Vì thế, người trẻ thường chọn du lịch bằng máy bay để có trải nghiệm thoải mái, lại còn có giá rẻ. Bạn có thể theo dõi trên website hoăc Fanpage của các hãng bay để săn giá vé rẻ cho các chuyến đi của mình. Nhiều khuyến mãi hấp dẫn như vé 0 đồng, vé 99.000 đồng (chưa tính thuế phí) sẽ giúp bạn tiết kiệm kha khá một khoản tiền khi đi du lịch. "
+                },{
+                    "id":3,
+                    "mean": "Sự xuất hiện ngày càng nhiều của các hãng hàng không tạo nên một thị trường cạnh tranh lớn. Vì thế, bạn có thể cân nhắc so sánh giá vé của các hãng kết hợp săn khuyến mãi để tối ưu chi phí."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Tiết kiệm thời gian, không bị mất sức",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Một trong những lợi ích khi đi du lịch bằng máy bay là tiết kiệm thời gian cho hành khách. Thay vì đi tàu đến 2 ngày mới tới Hà Nội, bạn chỉ mất khoảng 2 tiếng để bay từ Sài Gòn ra thủ đô, tiết kiệm một khoảng thời gian cực kỳ lớn để nghỉ ngơi hoặc tham quan, khám phá. "
+                },
+                {
+                    "id":2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/tiep_kiem_thoi_gian.jpg' />"
+                },
+                {
+                    "id":3,
+                    "mean": "Hoặc nếu chọn phương tiện đi tàu cao tốc từ Vũng Tàu ra Côn Đảo, bạn cũng phải mất đến 8 tiếng. Trong khi nếu đi máy bay, hành trình được rút gọn chỉ với 45 phút di chuyển mà thôi. Vì thế, những du khách có ít thời gian cho những chuyến du lịch đều ưu tiên lựa chọn đi bằng máy bay. "
+                },
+                {
+                    "id":4,
+                    "mean": "Chưa kể, nếu trong chuyến khám phá Việt Nam của mình, bạn cần di chuyển nhiều điểm đến, trải nghiệm nhiều nơi thì việc đến nơi sớm, có thêm thời gian nhận phòng, nghỉ ngơi và làm quen với địa điểm mình vừa tới sẽ tốt hơn rất nhiều. "
+                },
+                {
+                    "id":5,
+                    "mean": "Ngoài việc tiết kiệm thời gian thì đi chơi bằng máy bay giúp bạn giữ cho mình sức khỏe tốt hơn. Ngồi máy bay 1 – 2 giờ (du lịch trong nước) giúp bạn giữ cho mình thể lực tốt hơn so với việc ngồi xe khách 5 – 6 tiếng (hoặc nhiều hơn)."
+                },
+                {
+                    "id":6,
+                    "mean": "Bạn sẽ đỡ mệt mỏi, đau đầu hơn rất nhiều so với đi tàu, xe khách. Nhờ đó duy trì được nguồn năng lượng dồi dào cho chuyến đi chơi của mình. "
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Tiếp cận nhiều điểm đến mà xe khách, tàu hỏa không thể tới ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Vì sao nên du lịch bằng máy bay? Bởi vì các phương tiện giao thông đường bộ như xe máy, tàu hỏa hay xe khách cũng có lúc bất lợi khi không thể tiếp cận được những hòn đảo xa bờ như Phú Quốc, Côn Đảo. Lúc này, đi du lịch bằng máy bay là lựa chọn tuyệt vời nhất cho bạn."
+                },
+                {
+                    "id":2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/du_lich_bang_may_bay.jpg' />"
+                },
+                {
+                    "id":3,
+                    "mean": "Trên thực tế, bạn có thể kết hợp đi xe khách và tàu cao tốc để đặt chân đến các thiên đường du lịch biển này. Tuy nhiên, bạn sẽ mất rất nhiều thời gian cho việc đi lại, chưa kể còn mệt mỏi, say tàu xe. Trong khi đó, chỉ cần một chuyến bay thẳng là bạn đã nhanh chóng check in những hòn đảo xinh đẹp này. "
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Nhiều hãng bay ra đời",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Xưa kia, chỉ có một hãng hàng không Vietnam Airlines hoạt động với mức giá tương đối cao, khiến nhiều người khó tiếp cận. Tuy nhiên hiện tại, Việt Nam đã có nhiều hãng bay mới như VietJet, Bamboo, Vietravel, Jetstar,… mang đến cho hành khách nhiều sự lựa chọn. "
+                },
+                {
+                    "id":2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/du_lich_bang_may_bay_01.jpg' />"
+                },
+                {
+                    "id":3,
+                    "mean": "Bạn có thể so sánh giá vé giữa các hãng bay, so sánh lịch trình bay và các tiêu chí khác về chất lượng phục vụ để chọn hãng bay phù hợp với nhu cầu của mình. Vì có nhiều hãng bay ra đời, tính cạnh tranh cao nên giá vé máy bay cũng không còn quá đắt đỏ. Chỉ cần chịu khó “săn”, bạn sẽ tìm được vé tốt của những hãng bay tốt. "
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Phục vụ chuyên nghiệp, sạch sẽ ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Giao thông đường bộ nước ta rất phát triển với các chuyến xe, chuyến tàu ngắn dài khắp 3 miền Bắc, Trung, Nam. Tuy nhiên chất lượng phục vụ khi đi xe khách khó lòng sánh với đi máy bay. "
+                },
+                {
+                    "id":2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/du_lich_bang_may_bay_03.jpg' />"
+                },
+                {
+                    "id":3,
+                    "mean": "Mọi hành khách khi du lịch bằng máy bay đều được đón tiếp, giúp đỡ và hướng dẫn tận tình. Điều này khác hẳn những chuyến xe khách đông người, nhồi nhét. Vào những kỳ nghỉ, bạn sẽ không bao giờ bắt gặp tình trạng chen chúc trên máy bay. Tuy nhiên với xe khách thì rất dễ gặp phải. "
+                },{
+                    "id": 4,
+                    "mean": "Hơn nữa, trên máy bay luôn có nhà vệ sinh, phục vụ hành khách tốt hơn. Còn nếu đi xe khách, bạn phải đợi tài xế ghé trạm dừng mới có thể giải quyết nhu cầu vệ sinh cá nhân. Vì thế, về cơ bản thì phương tiện máy bay sẽ mang lại nhiều tiện nghi hơn so với các loại xe công cộng khác.  "
+                }
+            ]
+        }
+    ]
+
+    
+
+}

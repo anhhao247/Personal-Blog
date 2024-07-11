@@ -1,0 +1,80 @@
+{
+   
+    "background":"../img/technology_3.jpg",
+    "titles": "Sự cố máy tính năm 2000",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Sự cố máy tính năm 2000 làm gì?",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Sự cố máy tính năm 2000 (còn được gọi là sự cố Y2K, lỗi thiên niên kỷ, hay đơn giản là Y2K) là sự cố máy tính diễn ra vào thời khắc đầu tiên bước sang năm 2000. Nguyên nhân là do các máy tính thế hệ cũ, các vi mạch đồng hồ điện tử cũ không thể nhận biết được sự khác biệt giữa các năm 2000 và 1900, bởi vì chúng được lập trình với 2 chữ số cuối cùng của năm nhằm tiết kiệm dung lượng lưu trữ khi mà giá cả sản xuất phần cứng máy tính trong giai đoạn đầu còn đắt đỏ. Khi những máy này cộng thêm một con số vào sau 99"
+                },
+                {
+                    "id": 2,
+                    "mean": " BIOS sẽ đặt lại số đếm thành 00. Vấn đề này là do máy tính nhận dạng ngày 01/01/00 (ngày 1 tháng 1 năm 2000) như là ngày 1 tháng 1 năm 1900."
+                },{
+                    "id":3,
+                    "mean": "Trong việc thiết kế lập trình chương trình máy tính, hai chữ số của năm bị phát sinh lỗi khi chuyển từ x99 đến x00. Điều này đã gây ra một số mặt hạn chế liên quan đến hoạt động không chính xác của ngày và thời gian sau ngày và giờ và sau ngày 1 tháng 1 năm 2000 gọi là ngày giới hạn hay với cái tên chân trời sự kiện. Nếu như không được sửa chữa kịp thời thì hệ thống làm việc lâu dài sẽ bị phá vỡ khi ...97, 98, 99, 00... tăng dần theo thứ tự trở nên không còn hợp lệ trong thứ tự năm ví dụ như năm 19100."
+                },{
+                    "id": 4,
+                    "mean": "Vì sự cố này, công ty và các tổ chức trên toàn thế giới đã kiểm tra, sửa chữa, và nâng cấp hệ thống máy tính của họ."
+                },{
+                    "id":5,
+                    "mean": "Mặc dù đã có các nỗ lực khắc phục hậu quả, số lượng các lỗi máy tính đã xảy ra khi đồng hồ của chúng chuyển sang năm 2000 vẫn là một ẩn số; một trong các lý do là do sự ngần ngại của các tổ chức khi báo cáo về vấn đề này."
+                },{
+                    "id": 6,
+                    "mean": "Ngày nay, các máy tính đời mới đã khắc phục được sự cố Y2K có thể xảy ra trong khi hết thế kỉ."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Bối cảnh",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Y2K (Sự cố máy tính năm 2000), một từ gồm chữ ghép với số, là viết tắt phổ biến của vấn đề phầm mềm năm 2000. Viết tắt này là kết hợp của: Y cho Year, và K cho tiền tố đơn vị kilo có ý nghĩa là 1000; do đó 2K có nghĩa là 2000. Ngoài ra, nó còn có một tên gọi khác Lỗi Thiên Niên Kỷ (Millennium Bug) bởi vì nó có liên hệ với sự kiện chuyển giao thiên niên kỷ, mặc dù vấn đề này có thể xảy ra vào thời điểm cuối của bất cứ thế kỷ bình thường nào."
+                },
+                {
+                    "id":2,
+                    "mean": "Sự cố năm 2000 là tên của một cuốn sách được viết trước đó, Computers in Crisis, của Jerome và Marilyn Murray (Petrocelli, 1984; được McGraw-Hill tái bản dưới tựa đề The Year 2000 Computing Crisis vào năm 1996). "
+                },{
+                    "id":3,
+                    "mean": "Từ viết tắt Y2K được tạo ra bởi David Eddy, một lập trình viên ở Massachusetts,[3] trong một thư điện tử được gửi đi vào ngày 12 tháng 6 năm 1995. Sau này ông nói rằng, Mọi người gọi nó là CDC (Century Date Change), FADL (Faulty Date Logic). Ngoài ra còn có nhiều từ khác. Y2K chỉ đơn giản là xuất hiện từ các ngón tay của tôi."
+                },{
+                    "id": 4,
+                    "mean": "Vấn đề nảy sinh trên cả các máy tính lớn và các máy tính cá nhân mới hơn, thiết bị lưu trữ thời đó rất đắt đỏ, từ mức thấp vào khoảng 10 đô la cho 1 kilobyte, cho đến nhiều trường hợp lên đến 100 đô la một kilobyte. Do đó giảm dung lượng là một vấn đề rất quan trọng đối với các lập trình viên. Từ khi phương pháp thêm tiền tố 19 cho một năm của một ngày, hầu hết các chương trình máy tính đều sử dụng phương pháp này một cách nội bộ, hoặc dùng để lưu trữ trên đĩa hoặc băng, các tệp dữ liệu có định dạng ngày tháng gồm 6 chữ số MMDDYY, MM tượng trưng cho 2 ký tự của tháng, DD tượng trưng cho hai ký tự của ngày, và YY là hai ký tự của năm. Tương tự, không gian lưu trữ dữ liệu trên băng, đĩa rất đắt đỏ, cho nên phương pháp này giúp tiết kiệm chi phí bằng cách giảm dung lượng của các tệp dữ liệu và các cơ sở dữ liệu."
+                },{
+                    "id": 5,
+                    "mean": "Nhiều chương trình máy tính lưu năm dưới dạng hai chữ số; ví dụ, năm 1980 được lưu là 80. một vài chương trình như vậy không thể phân biệt năm 2000 và năm 1900. Các chương trình khác cố gắng đặt tạm năm 1900 làm đại diện cho năm 2000. Điều này có thể gây ra sự sụp đổ hoàn toàn và dẫn đến các phép so so sánh ngày cho kết quả sai. Một số hệ thống nhúng cũng sử dụng logic ngày tương tự, đã được dự kiến là thất bại và sẽ làm tê liệt các tiện ích cũng như các cơ sở hạ tầng khác."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Sự cố lập trình",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Việc sử dụng định dạng ngày 2 chữ số của các máy tính thế hệ trước nhằm tiết kiệm chi phí và nâng cao sự tiện lợi sẽ không làm phát sinh vấn đề cho đến khi ngày tháng được lưu trữ trong chúng được sử dụng trong việc tính toán."
+                },
+                {
+                    "id":2,
+                    "mean": "Trong thập niên 1960, bộ nhớ máy tính rất khan hiếm và đắt tiền, và hầu hết các dữ liệu được thực hiện trên phiếu đục lỗ là dữ liệu văn bản trong 80 cột tài liệu hồ sơ. Các ngôn ngữ lập trình thời gian như COBOL và RPG xử lý số liệu trong ASCII hoặc EBCDIC. Các nhà lập trình lúc trước họ sử dụng bit gọi là đục lỗ vùng để lưu một ký tự trừ cho dạng số âm, hoặc để nén hai chữ số thành một byte hình thức này gọi là mã thập-nhị phân, nhưng nếu không thì đã được xử lý số như dạng chữ thẳng (straight text). Sau một thời gian thì các phiếu đục lỗ chuyển đổi thành băng từ tính và sau đó là những tập tin đĩa, tiếp sau là đến cơ sở dữ liệu đơn giản như ISAM nhưng cấu trúc của các chương trình thường thay đổi rất ít. Phần mềm phổ biến như dBase tiếp tục thực hiện việc lưu trữ văn bản vào những thập niên 1980 và 1990."
+                },{
+                    "id":3,
+                    "mean": "Việc tiết kiệm hai chữ số cho mỗi trường ngày đã được chú ý đến vào thập niên 1960. Các nhà lập trình ở thời điểm đó đã không chú ý đến lập trình thời gian mà họ chỉ quan tâm đến giải quyết các vấn đề chương trình, phần cứng dẫn đến việc sai số ở hai chữ số của năm rất đáng kể."
+                },
+                {
+                    "id":4,
+                    "mean": "Tất nhiên sẽ có trường hợp ngoại lệ. Người đầu tiên biết được sự cố này là nhà khoa học máy tính nổi tiếng Bob Bemer, người đã nhận ra vào năm 1958 khi làm việc trên phần mềm phả hệ. Ông đã trải qua hai mươi năm đèn sách để trở thành nhà lập trình viên IBM, chính phủ Mỹ và ISO đã tham gia vào nhưng kết quả đem lại không đáng là bao. Điều này đã thúc đẩy ngôn ngữ lập trình COBOL ra đời vào năm 1961 để xác định bốn chữ số của năm cho chính xác. Mặc dù sự cố này được thông báo trên các tạp chí từ năm 1970 trở đi nhưng phần lớn các lập trình viên mới công nhận sự cố lớn Y2K này trong giữa thập niên 1990, thậm chí kéo dài đến gần cuối thập niên này mới được giải quyết thoả đáng."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

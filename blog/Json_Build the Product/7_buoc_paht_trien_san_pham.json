@@ -1,0 +1,114 @@
+{
+   
+    "background":"../img/product_4.jpg",
+    "titles": "Tìm hiểu 7 bước phát triển sản phẩm",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Trước tiên",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Đối với hầu hết các chủ doanh nghiệp dày dạn kinh nghiệm và các doanh nhân đầy tham vọng, quá trình phát triển sản phẩm thường mang một luồng khí thần bí."
+                },
+                {
+                    "id": 2,
+                    "mean": "Và khi bạn nghe câu chuyện về nguồn gốc của các doanh nghiệp thương mại điện tử tuyệt vời khác , thường thì rõ ràng là hành trình đi đến thành phẩm hiếm khi giống như một đường thẳng. Ví dụ: khi con gái của Tina Roth-Eisenberg mang về nhà một số hình xăm bán vĩnh viễn mà cô ấy cảm thấy còn thiếu, cô ấy đã huy động cộng đồng các nhà thiết kế đồng nghiệp của mình để tạo ra Tattly ."
+                }, {
+                    "id": 3,
+                    "mean": "Mặt khác, David Barnett đã phải tự học cách sử dụng phần mềm thiết kế 3D để có thể tạo ra nguyên mẫu PopSockets , phụ kiện điện thoại phổ biến hiện nay."
+                }, {
+                    "id": 4,
+                    "mean": "Về bản thân, những câu chuyện đầy cảm hứng này không cung cấp kế hoạch chi tiết từ đầu đến cuối để phát triển sản phẩm, nhưng những điểm tương đồng mà chúng chia sẻ cho thấy một số bước mà những người sáng lập luôn thực hiện trên con đường bắt đầu kinh doanh và vận chuyển một sản phẩm hoàn chỉnh ."
+                }, {
+                    "id": 5,
+                    "mean": "Phát triển sản phẩm hiệu quả đòi hỏi nhiều thứ: nghiên cứu thị trường, quản lý sản phẩm và thử nghiệm ý tưởng của bạn, v.v."
+                }, {
+                    "id": 6,
+                    "mean": "Trong hướng dẫn này, chúng tôi sẽ đề cập đến mọi thứ bạn cần biết về quy trình phát triển sản phẩm cũng như một số chiến thuật để cải thiện quy trình phát triển nhằm giúp bạn hiện thực hóa tầm nhìn của mình!"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Phát triển sản phẩm là gì?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Phát triển sản phẩm đề cập đến toàn bộ quá trình đưa sản phẩm ra thị trường. Nó cũng bao gồm việc làm mới một sản phẩm hiện có và giới thiệu một sản phẩm cũ vào một thị trường mới. Điều này bao gồm xác định nhu cầu thị trường, khái niệm hóa sản phẩm, xây dựng lộ trình sản phẩm, tung ra sản phẩm và thu thập phản hồi."
+                },
+                {
+                    "id":2,
+                    "mean": "Phát triển sản phẩm mới (NPD) là một phần cốt lõi của thiết kế sản phẩm. Quá trình không kết thúc cho đến khi vòng đời sản phẩm kết thúc. Bạn có thể tiếp tục thu thập phản hồi của người dùng và lặp lại các phiên bản mới bằng cách nâng cao hoặc thêm các tính năng mới."
+                },{
+                    "id":3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/7_buoc_phat_trien_san_pham.jpg' />"
+                },{
+                    "id": 4,
+                    "mean":"Không có vai trò nào phát triển sản phẩm. Trong bất kỳ công ty nào, dù là một doanh nghiệp ở giai đoạn đầu hay một tập đoàn đã thành lập, việc phát triển sản phẩm sẽ hợp nhất mọi bộ phận, bao gồm thiết kế, kỹ thuật, sản xuất, tiếp thị sản phẩm, UI/UX, v.v. Mỗi nhóm đóng vai trò thiết yếu trong quá trình xác định, thiết kế, xây dựng, thử nghiệm và phân phối sản phẩm. Như bạn sẽ thấy trong hướng dẫn này, sự phức tạp của quy trình phát triển sản phẩm làm cho việc quản lý sản phẩm trở nên quan trọng hơn."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Quy trình phát triển sản phẩm mới trong 7 bước",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Phát triển sản phẩm mới (NPD) là quá trình đưa một ý tưởng sản phẩm ban đầu ra thị trường. NPD cũng có thể hưởng lợi rất nhiều từ các nguyên tắc phát triển phần mềm linh hoạt ."
+                },
+                {
+                    "id":2,
+                    "mean": "Mặc dù quy trình phát triển sản phẩm khác nhau tùy theo ngành, nhưng về cơ bản, nó có thể được chia thành bảy giai đoạn: lên ý tưởng, nghiên cứu, lập kế hoạch, tạo mẫu, tìm nguồn cung ứng, tính giá thành và thương mại hóa."
+                },
+                {
+                    "id":3,
+                    "mean": "Sử dụng khuôn khổ phát triển sau đây để đưa ý tưởng sản phẩm của riêng bạn ra thị trường."
+                },
+                {
+                    "id":4,
+                    "mean": "Nhiều doanh nhân đầy tham vọng bị mắc kẹt ở giai đoạn đầu tiên: lên ý tưởng và động não. Điều này thường là do họ đang chờ đợi một thiên tài xuất hiện để tiết lộ sản phẩm hoàn hảo mà họ nên bán. Mặc dù việc xây dựng một thứ gì đó về cơ bản là “mới” có thể thỏa mãn một cách sáng tạo, nhưng nhiều ý tưởng hay nhất là kết quả của việc lặp lại một sản phẩm đã có sẵn."
+                },
+                {
+                    "id":5,
+                    "mean": "Mô hình SCAMPER là một công cụ hữu ích để nhanh chóng đưa ra các ý tưởng về sản phẩm bằng cách đặt câu hỏi về các sản phẩm hiện có. Mỗi chữ cái đại diện cho một dấu nhắc:"
+                },
+                {
+                    "id":6,
+                    "mean": "<ul><li>Thay thế (ví dụ: lông thú giả cho lông thú)</li><li>Kết hợp (ví dụ: vỏ điện thoại và bộ pin)</li><li>Thích ứng (ví dụ: áo ngực cho con bú có móc cài phía trước) </li><li>Sửa đổi (ví dụ: bàn chải đánh răng điện có kiểu dáng đẹp hơn)</li><li>Sử dụng cho mục đích khác (ví dụ: giường cho chó bằng mút hoạt tính) </li><li>Loại bỏ (ví dụ: loại bỏ người trung gian để bán kính râm và chuyển khoản tiết kiệm cho người tiêu dùng)</li><li>Sắp xếp lại/Sắp xếp lại (ví dụ: túi vải thô không làm nhăn bộ vest của bạn)</li>    </ul>"
+                },{
+                    "id": 7,
+                    "mean": "Bằng cách xem xét những gợi ý này, bạn có thể nghĩ ra những cách mới lạ để biến đổi những ý tưởng hiện có hoặc thậm chí điều chỉnh chúng cho phù hợp với đối tượng mục tiêu hoặc vấn đề mới. Sử dụng những hiểu biết sâu sắc từ phân tích kinh doanh cũng có thể hữu ích để hiểu rõ hơn về các cơ hội trên thị trường."
+                },{
+                    "id":8,
+                    "mean": "Nếu bạn vẫn đang tìm kiếm khoảnh khắc tuyệt vời của mình, thì chúng tôi cũng tập hợp một danh sách các nguồn để đưa ra ý tưởng sản phẩm của riêng bạn , từ việc phân tích thị trường trực tuyến và mô tả sản phẩm để lấy cảm hứng cho đến phát minh lại các xu hướng lịch sử."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Giành chiến thắng trong quá trình phát triển sản phẩm của riêng bạn ",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Trong quá trình phát triển sản phẩm, mỗi hành trình đi đến sản phẩm hoàn chỉnh đều khác nhau và mọi ngành đều có những điều kỳ quặc riêng liên quan đến việc tạo ra một thứ gì đó mới."
+                },
+                {
+                    "id":2,
+                    "mean": "Nếu bạn thấy mình đang vật lộn để tìm ra tất cả, hãy nhớ rằng mọi sản phẩm ra đời trước sản phẩm của bạn đều phải vượt qua những thử thách giống nhau. Từ quản lý sản phẩm, tạo mẫu và tiếp thị sản phẩm của bạn ra thế giới, có rất nhiều bộ phận chuyển động!"
+                },
+                {
+                    "id":3,
+                    "mean": "Bằng cách làm theo các bước này khi bạn trải qua quá trình phát triển sản phẩm của riêng mình, bạn có thể chia nhiệm vụ nặng nề là đưa một sản phẩm mới ra thị trường thành các giai đoạn dễ tiêu hóa hơn."
+                },
+                {
+                    "id":4,
+                    "mean": "Bất kể bạn đang phát triển sản phẩm gì, bằng cách chuẩn bị tất cả những gì cần thiết—thông qua nghiên cứu, lập kế hoạch, tạo nguyên mẫu, tìm nguồn cung ứng và tính chi phí—bạn có thể thiết lập cho mình một sản phẩm cuối cùng thành công."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

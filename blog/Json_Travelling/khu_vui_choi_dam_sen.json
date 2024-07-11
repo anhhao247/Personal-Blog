@@ -1,0 +1,162 @@
+{
+   
+    "background":"../img/traval_4.jpg",
+    "titles": "Khu vui chơi đàm sen tại thành phố HCM",
+    "main" : [
+        {
+            "id" : 1,
+            "title":" Khám phá, vui chơi LÊN RỪNG XUỐNG BIỂN tại Công viên Văn hóa Đầm Sen",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Công viên Văn hóa Đầm Sen đã thu hút hàng ngàn lượt khách tham quan mỗi năm. Tới đây, bạn sẽ có cơ hội hòa mình vào thiên nhiên, trải nghiệm nhiều trò hay, tìm thấy những giây phút thư giãn cực đã!"
+                },
+                {
+                    "id": 2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/dam_sen_01.jpg' />"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Địa chỉ Công viên Văn hóa Đầm Sen ở đâu?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Địa chỉ Công viên Văn hóa Đầm Sen nằm tại đường Hòa Bình, Phường 3, Quận 11, Thành phố Hồ Chí Minh. Nơi đây là một trong những công viên văn hóa lớn nhất Việt Nam. Ghé thăm công viên bạn sẽ không khỏi trầm trồ với diện tích khủng cùng cảnh sắc thiên nhiên tuyệt đẹp."
+                },
+                {
+                    "id":2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/dam_sen_02.jpg' />"
+                },{
+                    "id":3,
+                    "mean": "Công viên Văn hóa Đầm Sen được xây dựng vào năm 1976 với sự kêu gọi của UBND Thành phố Hồ Chí Minh. Dưới bàn tay của hàng ngàn lao động, bãi đầm lầy hoang trũng ngày nào đã trở thành khu du lịch trọng điểm. Nơi đây được thiết kế dựa trên sự kết hợp của nền văn hóa Đông và Tây, hòa quyện vẻ đẹp cổ điển của thời La Mã."
+                },{
+                    "id": 4,
+                    "mean": "Giờ mở cửa Công viên Đầm Sen tham khảo:"
+                },{
+                    "id": 5,
+                    "mean": "<ul><li>Thứ Hai đến thứ Sáu: 8h – 18h.</li><li>Thứ Bảy và Chủ nhật: 7h30 – 21h.</li><li>Các ngày lễ/Tết: 7h30 – 22h.</li></ul>"
+                },{
+                    "id": 6,
+                    "mean": "Đến với Công viên Văn hóa Đầm Sen bạn có thể qua 3 cổng như sau:"
+                },{
+                    "id": 7,
+                    "mean": "<ul><li>Cổng số 1: đường Lạc Long Quân.</li><li>Cổng số 1A: đường Hòa Bình.</li><li>Cổng số 2: đường Hòa Bình (cổng nhà hàng Thủy Tạ). </li><li>Ngoài ra, khu du lịch Đầm Sen có cổng liên thông từ Đầm Sen Nước và Đầm Sen Khô.</li></ul>"
+                },{
+                    "id": 6,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/dam_sen_03.jpg' />"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Cách di chuyển đến Công viên Văn hóa Đầm Sen",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Di chuyển bằng phương tiện cá nhân"
+                },
+                {
+                    "id":2,
+                    "mean": "Di chuyển bằng taxi"
+                },
+                {
+                    "id":3,
+                    "mean": "Di chuyển bằng xe bus"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Giá vé Công viên Văn hóa Đầm Sen",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Công viên Văn hóa Đầm Sen giá vé chia ra làm nhiều mức khác nhau tùy vào hình thức tham quan bạn chọn. Bạn có thể mua vé từ cổng, trong công viên hoặc từ cổng công viên nước."
+                },
+                {
+                    "id":2,
+                    "mean": "Vé đi Đầm Sen trong ngày có thời gian tham quan từ 8h – 17h, không bao gồm các trò chơi và dịch vụ xe điện. Tùy vào mỗi thời điểm giá vé sẽ thay đổi khác nhau, dưới đây là con số để bạn tham khảo:"
+                },
+                {
+                    "id":3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/dam_sen_04.jpg' />"
+                },
+                {
+                    "id":4,
+                    "mean": "Vé trọn gói Đầm Sen khô đã bao gồm trò chơi, không bao gồm xe điện và thủy cung. Bạn có thể đến đây vào 8h – 17h hằng ngày."
+                },
+                {
+                    "id":5,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/dam_sen_05.jpg' />"
+                },
+                {
+                    "id":6,
+                    "mean": "Vé Silver đã bao gồm trò chơi, tham quan trong ngày, lối đi riêng, massage cá, thủy cung và không bao gồm xe điện. Bạn có thể đến đây vào 8h – 17h hằng ngày."
+                },
+                {
+                    "id":7,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/dam_sen_06.jpg' />"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "1001 trò chơi tại Công viên Văn hóa Đầm Sen Khô",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Đến với Công viên Văn hóa Đầm Sen Khô bạn sẽ có cơ hội trải nghiệm những trò chơi cảm giác mạnh. Cùng với đó là trò tương tác ảo công nghệ hiện đại, các trò chơi thiếu nhi cực vui. Tin rằng, khi tới đây bạn sẽ tìm thấy những giây phút cực đã, thoải mái nô đùa, xua tan mọi căng thẳng và mệt mỏi."
+                },
+                {
+                    "id":2,
+                    "mean": "Trò chơi cảm giác mạnh Tại Công viên Văn hóa Đầm Sen có tới 13 trò chơi cảm giác mạnh để bạn thử thách giới hạn của bản thân. Bạn sẽ được “phiêu” trên tàu vượt thác, vòng quay thần tốc, vòng xoay không gian, Power Surge,…cực đã. Tuy nhiên, nếu bạn sợ độ cao và có sức khỏe yếu thì không nên tham gia trò chơi này."
+                },
+                {
+                    "id":3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/dam_sen_07.jpg' />"
+                },
+                {
+                    "id":4,
+                    "mean": "Bên cạnh đó, bạn hãy tham gia 5 trò tương tác ảo để tận hưởng công nghệ hiện đại. Bạn vừa xem phim hoặc chơi game chân thật ngay trước mắt. Bất cứ ai cũng có thể xem phim Cinemax 8D, bắn súng Run Raider, lâu đài kỳ thú, 9D Virtual Reality, đua xe Turbo Racing."
+                },
+                {
+                    "id":5,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/dam_sen_08.jpg' />"
+                },
+                {
+                    "id":6,
+                    "mean": "Ngoài ra, vui chơi tại đây bạn còn có cơ hội khám phá nhà Băng Đầm Sen. Hoặc đứng từ đu quay đứng Ferris Wheel cũng giúp bạn ngắm nhìn toàn bộ công viên từ trên cao. Trò đạp vịt Pelado sẽ là sự lựa chọn lý tưởng dành cho những ai muốn tận hưởng không gian xanh."
+                },
+                {
+                    "id":7,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/dam_sen_09.jpg' />"
+                },{
+                    "id": 8,
+                    "mean": "Ngoài ra còn có ngiều khu vui chơi khác như là : "
+                },{
+                    "id": 9,
+                    "mean": "<ul><li>Thủy cung</li><li>Vườn bách thú </li><li>Khu giáo dục trải nghiệm</li><li>Một số địa điểm check-in tuyệt đẹp</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Kết",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Khi đọc xong bài viết trên bạn còn chần chờ gì nữa mà không sách bao lô lên mà đi tới đàm sen vui chơi giải trí thôi nào"
+                },
+                {
+                    "id":2,
+                    "mean": "Chúc bạn có 1 chuyến du lịch thật thoải mãi và vui tươi."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

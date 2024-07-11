@@ -1,0 +1,200 @@
+{
+   
+    "background":"../img/traval_3.jpg",
+    "titles": "Địa Điểm vui chơi, check in cực đẹp tại vũng tàu",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Khu Dã Ngoại Hồ Bầu Sen LaLaLand",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Hồ Bàu Sen được ví như “lá phổi xanh” tại Vũng Tàu, trở thành điểm du lịch mới hấp dẫn mà bạn nên đến trải nghiệm khi có dịp ghé thăm Thành phố biển. Không gian rộng, thoáng mát cực chill giúp bạn giảm căng thẳng sau những bộn bề công việc."
+                },
+                {
+                    "id": 2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/lalaland.jpg' />"
+                }, {
+                    "id": 3,
+                    "mean": "Khu Dã Ngoại LaLaLand có vị trí tiếp giáp với bờ hồ Bàu Sen, đang là điểm đến đến thu hút du khách hàng đầu tại Vũng Tàu với khung cảnh thiên nhiên trong lành và yên bình. Nếu cuối tuần bạn có ý định đi chơi xa, LalaLand là 1 gợi ý lý tưởng:"
+                }, {
+                    "id": 4,
+                    "mean": "<ul><li>Địa chỉ : 36/23 Xô Viết Nghệ Tĩnh , P.Thắng Tam , Tp.Vũng Tàu , Bà Rịa – Vũng Tàu</li><li>Số điện thoại: 0888902828</li><li>Fanpage: <a href=''>https://www.facebook.com/lalalandvt</a></li></ul>"
+                }
+            ]
+        },{
+            "id" : 2,
+            "title":"Tượng chúa Giêsu Kito Vua",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Địa chỉ: Thùy Vân, Phường 2, Tp. Vũng Tàu, Bà Rịa – Vũng Tàu"
+                },
+                {
+                    "id": 2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/tuong_chua_kito_vua.jpg' />"
+                }, {
+                    "id": 3,
+                    "mean": "Tượng Chúa Kitô Vua – Biểu tượng của thành phố biển, là một bức tượng Chúa Giêsu được đặt trên đỉnh Núi Nhỏ của thành phố Vũng Tàu. Tượng có chiều cao 32 mét, chiều dài hai cánh tay là 18,4 mét, đặt trên bệ khối chạm hình Chúa và 12 tông đồ. Bên trong tượng là cầu thang xoắn ốc gồm 133 bậc, chạy từ bệ lên cổ tượng. Để lên tượng, bạn phải leo 1.000 bậc thang cao 500m và thành quả là du khách sẽ được chiêm ngưỡng cả thành phố từ trên cao với nếp nhà xinh, với bãi biển trong xanh bên triền cát trắng mịn,… hãy cảm nhận làn gió từ biển Đông thổi vào khi đứng trên cánh tay Chúa."
+                }
+            ]
+        },{
+            "id" : 3,
+            "title":"Biển Long Hải",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Địa chỉ: Nằm cách thành phố Vũng Tàu 12km."
+                },
+                {
+                    "id": 2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/bien_long_hai.jpg' />"
+                }, {
+                    "id": 3,
+                    "mean": "Biển Long Hải là điểm đến không thể bỏ qua khi tới du lịch Vũng Tàu bởi bức tranh thiên nhiên hoang sơ tuyệt đẹp sẽ níu chân du khách. Khí hậu ở Long Hải mát mẻ quanh năm nên bạn có thể tới bất cứ khi nào. Nước biển ở đây trong xanh và bao quanh biển là những dải núi hay rừng hoa anh đào khoe sắc. Đặc biệt, biển Long Hải rất sẵn hải sản tươi ngon giá rẻ. "
+                }, {
+                    "id": 4,
+                    "mean": "Nước biển Long hải rất sạch, ngắm bình minh và hoàng hôn tại đây thì còn gì tuyệt vời bằng. Nếu đi thẳng từ Sài Gòn ra Long Hải thì cũng khá xa, thì vậy bạn nên tìm một số khách sạn nghỉ lại để tiện tham quan khám phá nơi đây hơn nhé!"
+                }
+            ]
+        },{
+            "id" : 4,
+            "title":"Hải đăng Vũng Tàu",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Địa chỉ: Nằm trên đỉnh núi Nhỏ, phường 2, thành phố Vũng Tàu."
+                },
+                {
+                    "id": 2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/hai_dang_vung_tau.jpg' />"
+                }, {
+                    "id": 3,
+                    "mean": "Hải đăng Vũng Tàu được xem như một trong những biểu tượng của thành phố biển Vũng Tàu. Kiến trúc ngọn hải đăng cổ xưa nhất Việt Nam và Đông Nam Á này là một tháp hình trụ cao 18 m, đường kính 3 m và được sơn màu trắng. Bên trong ngọn hải đăng có cầu thang dẫn đến gần đỉnh để ngắm toàn cảnh thành phố Vũng Tàu. Du khách có thể di chuyển bằng ô tô, xe máy hoặc thả bộ trên con đường mòn lên núi."
+                }, {
+                    "id": 4,
+                    "mean": "Đặc biệt đường lên ngon hải đăng tuy ngoằn ngoèo nhưng cực thơ mộng. Vào mùa xuân, những cây bông gòn trổ hoa trắng xoá cả góc trời đem đến cho bạn những bức hình sống ảo như tại Hàn Quốc."
+                }
+            ]
+        },{
+            "id" : 5,
+            "title":"Khu đồi Con Heo",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Địa chỉ: Hẻm 222 Phan Chu Trinh, Phường 2, Thành phố Vũng Tàu."
+                },
+                {
+                    "id": 2,
+                    "mean": "Trước kia, đồi Con Heo là nơi khai thác đá nên ít dấu chân người lui tới. Những năm gần đây, ngọn “đồi hoang” với cái tên dễ thương này được khám phá và trở thành điểm đến lí thú để vui chơi, thưởng ngoạn cảnh cũng như chụp hình."
+                }, {
+                    "id": 3,
+                    "mean": "Đồi Con Heo với nét hoang sơ hòa quyện cùng chút bí ẩn của con đường đầy sỏi đá, chút hoang dại mà lãng mạn của đồi cỏ khô và sự bao la, bát ngát của biển trời,… tất cả tạo nên sự hấp dẫn đặc biệt thu hút đông đảo khách du lịch cũng như dân bản địa lui tới."
+                }, {
+                    "id": 4,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/doi_con_heo.jpg' />"
+                }
+            ]
+        },{
+            "id" : 6,
+            "title":"Mũi Nghinh Phong ",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Địa chỉ: số 1 đường Hạ Long, thành phố Vũng Tàu."
+                },
+                {
+                    "id": 2,
+                    "mean": "Mũi Nghinh Phong là mũi đất vươn dài nhất ở phía Nam của bán đảo Vũng Tàu, đây là nơi đón gió suốt bốn mùa, chả vậy mà mũi có tên là Nghinh Phong. Mũi tạo ra hai bãi tắm là bãi Vọng Nguyệt và bãi Hương Phong, hai vịnh lớn ở hướng Tây và hướng Đông."
+                }, {
+                    "id": 3,
+                    "mean": "Du khách tìm đến mũi Nghinh Phong như một chốn để nghỉ ngơi, thư giãn sau những ngày làm việc vất vả. Nước biển ở đây trong và sạch, không khí trong lành dễ chịu."
+                }, {
+                    "id": 4,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/mui_hinh_lau.jpg' />"
+                }
+            ]
+        },{
+            "id" : 7,
+            "title":"Hồ Đá Xanh",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Địa chỉ: Gần sườn núi Dinh, thuộc huyện Tân Thành. "
+                },
+                {
+                    "id": 2,
+                    "mean": "Hồ Đá Xanh là một địa điểm thu hút nhiều khách du lịch thời gian gần đây bởi sự quyện hòa tài tình của thiên nhiên- mộng mơ mà hùng vĩ. Để tới được đây, bạn đi theo quốc lộ 51, qua trạm thu phí tới ngã ba núi Dinh thì rẽ trái và đi thẳng theo hẻm bên cạnh nhà thờ Long Hương. Sau đó, bạn hỏi người dân địa phương, họ sẽ chỉ cho bạn tới hồ nhanh nhất. Một lưu ý cho du khách là khu vực này khá nguy hiểm nên các bạn không nên tắm ở đây nhé."
+                }, {
+                    "id": 3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/ho_da_xanh.jpg' />"
+                }
+            ]
+        },{
+            "id" : 8,
+            "title":"Hẻm đường Trần Phú",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Địa chỉ: 107-109 Trần Phú, TP Vũng Tàu"
+                },
+                {
+                    "id": 2,
+                    "mean": "Là một con hẻm nhỏ trên đường Trần Phú nhưng nơi đây đã nhanh chóng gây sốt bởi cho những shoot hình cực chất lượng. Con hẻm nằm trên dốc hướng thẳng ra biển, tông màu nhà nhẹ nhàng cổ điển, đặc biệt là hàng cây nổi bần bật giữa background vô cùng lãng mạn."
+                }, {
+                    "id": 3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/hem_duong_tan_phu.jpg' />"
+                }
+            ]
+        },{
+            "id" : 9,
+            "title":"Khu du lịch Suối Tiên",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Địa chỉ: xã Tân Hải, huyện Tân Thành, Bà Rịa – Vũng Tàu"
+                },
+                {
+                    "id": 2,
+                    "mean": "khu Suối Tiên – được ví như Đà Lạt thứ hai- nằm trên núi Dinh, suối là tập hợp của nhiều suối, thác, sông đổ xuống từ độ cao vài trăm mét. Càng lên cao, cảnh vật ở suối càng đẹp và lạ mắt. Dọc suối là những tảng đá hình thù độc đáo, gốc cổ thụ lâu đời, những triền hoa vàng ruộm,…"
+                }, {
+                    "id": 3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/khu_du_lich_suoi_tien_vt.jpg' /> "
+                }
+            ]
+        },{
+            "id" : 10,
+            "title":"Biển Suối Ồ",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Địa chỉ: xã Bình Châu, huyện Xuyên Mộc, tỉnh Bà Rịa- Vũng Tàu."
+                },
+                {
+                    "id": 2,
+                    "mean": "Biển suối Ồ là một trong những bãi biển hiếm hoi ở Việt Nam vừa có nước ngọt và nước mặn. Điểm đặc biệt của bãi biển này là có hai đường nước xanh biếc song song nối sông và biển bị ngăn cách bởi triền cát trắng xóa."
+                }, {
+                    "id": 3,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/bien_suoi_o.jpg' />"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Lên đường và bắt đàu đi du lịch thôi!",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Qua bài viết trên các bạn có thể tham khảo được cái khu du lịch tại vũng tàu để đi du lịch cho mùa hè này "
+                },
+                {
+                    "id":2,
+                    "mean": "Chúc bạn có chuyến đi thật vui vẻ bên gia đình ngưởi thân bạn bè."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

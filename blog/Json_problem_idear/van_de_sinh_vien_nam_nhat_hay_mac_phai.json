@@ -1,0 +1,246 @@
+{
+   
+    "background":"../img/problem_6.jpg",
+    "titles": "Những sai lầm mà sinh viên năm nhất thường hay mắc phải.",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Trốn tiết  ",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Sau một đêm tiệc tùng, ta khó có thể kìm được ham muốn trốn học. Quả là đơn giản khi chỉ cần lên mạng xã hội để xin ghi chú về bài giảng và bài tập. Nhưng, ngược lại, bạn cũng sẽ không được trải nghiệm các giờ học tập trên lớp, lắng nghe những lời giảng sâu sắc của các giáo sư và tham gia thảo luận. "
+                },
+                {
+                    "id": 2,
+                    "mean": "Đồng hồ báo thức có vẻ như muốn báo hiệu cho bạn một sự thật khắc nghiệt, nhưng tốt nhất là bạn nên làm chủ ý chí của mình và đến lớp. Tăng khả năng tham dự lớp học của bạn bằng cách đăng ký các lớp vào những thời điểm mà bạn có nhiều khả năng đi học nhất. Hãy nhớ rằng bạn vẫn phải trả phí cho mọi lớp học đã đăng ký, ngay cả khi bạn không đến lớp. Thêm vào đó, điểm số cao hay thấp còn phụ thuộc vào việc bạn đi học có đầy đủ hay không, vì vậy đừng mạo hiểm bằng cách bỏ tiết nhé."
+                }
+            ]
+        },{
+            "id" : 2,
+            "title":"Không biết phương pháp học đúng",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Mặc dù mới kết thúc 12 năm học, nhiều sinh viên đại học lại không biết cách học tập hiệu quả. Việc học không chỉ dừng lại tại các công đoạn đọc, đánh dấu và ghi nhớ. Nếu bạn không nghiêm túc tìm hiểu tài liệu, tài liệu ấy ắt sẽ không dễ ghi nhớ."
+                },
+                {
+                    "id": 2,
+                    "mean": "Ghi chép trên lớp là một cách để đảm bảo bạn có đủ thông tin cần thiết, và hành động viết có thể hỗ trợ việc ghi nhớ. Tìm cơ hội gặp gỡ với các giáo sư trong giờ hành chính để thảo luận về tài liệu, và liên hệ với các sinh viên khác để bắt đầu thiết lập các nhóm học tập. Nhiều trường cũng cung cấp các khóa học dành cho sinh viên năm nhất dạy các kỹ năng học tập cơ bản."
+                }
+            ]
+        },{
+            "id" : 3,
+            "title":"Lập kế hoạch và quản lý thời gian kém",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Chần chừ là kẻ thù không đội trời chung của nhiều sinh viên, đặc biệt là sinh viên năm nhất. Trong một nghiên cứu về sinh viên đại học, hai nhóm sinh viên được giao viết ba bài báo. Nhóm đầu tiên đã thiết lập các ngày phải hoàn thiện bài trong suốt học kỳ; nhóm thứ hai có thể chuyển hạn chót đến bất cứ hôm nào họ muốn. Nhóm thứ hai nộp bài vào cuối học kỳ, và chất lượng kém hơn. Theo trang báo Psychology Today, sự trì hoãn cũng dẫn đến suy giảm năng lượng và sức khỏe thể chất. Sinh viên đại học hay trì hoãn sẽ dễ bị cảm lạnh và cảm cúm, dễ gặp phải các vấn đề về đường tiêu hóa và tình trạng mất ngủ."
+                },
+                {
+                    "id": 2,
+                    "mean": "Bạn cần cam kết thiết lập thói quen làm việc và học tập tốt, đây là một mục tiêu bạn có thể đạt được, và công sức bạn bỏ ra sẽ được đền đáp xứng đáng. Có rất nhiều cơ sở cung cấp các khóa học về quản lý thời gian, các trung tâm hỗ trợ sinh viên cũng có thể giúp phát triển các chiến lược quản lý thời gian hiệu quả."
+                }
+            ]
+        },{
+            "id" : 4,
+            "title":"Không thiết lập mối quan hệ với giảng viên",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Sự tiếp xúc giữa sinh viên với giảng viên bên ngoài lớp học, góp phần vào tỷ lệ tốt nghiệp cao hơn, kết quả học tập tốt hơn và sự hài lòng chung đối với trường học. Tuy nhiên, 2/3 số sinh viên được khảo sát trong một nghiên cứu được công bố vào năm 2014 cho biết, họ đã không tham gia các lớp học thêm, theo yêu cầu. "
+                },
+                {
+                    "id": 2,
+                    "mean": "Giáo viên hướng dẫn luôn có các giờ học bổ túc dành riêng cho sinh viên yêu cầu giúp đỡ. Thiết lập mối quan hệ cá nhân với các giáo sư có thể thể hiện thái độ tốt và tinh thần sẵn sàng học tập của sinh viên, đồng thời, có thể mang lại cơ hội cho họ đạt điểm số cao hơn và có nhiều cơ hội học tập hơn."
+                }
+            ]
+        },{
+            "id" : 5,
+            "title":"Bị phân tâm bởi điện thoại",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Một nghiên cứu năm 2016 từ Tạp chí Giáo dục Truyền thông cho thấy 97% sinh viên đại học sử dụng điện thoại của họ trong giờ học không vì mục đích giáo dục, chủ yếu là để nhắn tin, nhưng đó không phải là thủ phạm duy nhất. Phương tiện truyền thông xã hội, lướt web và kiểm tra email đều góp phần gây ra sự phiền nhiễu này."
+                },
+                {
+                    "id": 2,
+                    "mean": "Một số giáo viên có quy định hoàn toàn nghiêm cấm việc sử dụng điện thoại di động trong lớp. Học sinh sinh viên vẫn nên để điện thoại ở chế độ Không làm phiền, và cất trong ba lô. Họ thậm chí có thể thử các ứng dụng như Cold Turkey Blocker, Freedom hoặc Offtime, cho phép người dùng tạm thời chặn quyền truy cập vào các ứng dụng hoặc trang web nhất định."
+                }
+            ]
+        },{
+            "id" : 6,
+            "title":" Không tạo lập và tuân theo ngân sách",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Ngoài học phí, quãng thời gian học đại học cũng đi kèm với các chi phí khác nhau, từ ăn uống, sách vở đến phương tiện đi lại. Theo Amy Nelson, người quản lý chương trình Hiểu biết về tài chính - tại Đại học Nevada, Reno, cho rằng, vấn đề tài chính đối với sinh viên là cả một thách thức, có thể làm trật bánh những sinh viên không có ngân sách để giúp họ chi tiêu hợp lý. “Sinh viên không hiểu bản thân phải chi tiêu những gì  - cũng như nguồn tiền họ nhận được sẽ đến từ đâu, và họ nên chi tiêu như thế nào - hoặc những thói quen chi tiêu sẽ ảnh hưởng tới họ trong các học kỳ tiếp theo như thế nào, ” cô nói."
+                },
+                {
+                    "id": 2,
+                    "mean": "May mắn thay, nhiều trường có các chương trình hiểu biết về tài chính cho sinh viên năm nhất mới nhập học, cung cấp các mẹo để hình thành ngân sách và gắn bó với nó. Nelson cũng khuyên bạn nên xem lời khuyên từ Cục Bảo vệ Tài chính Người tiêu dùng (Consumer Financial Protection Bureau)."
+                }
+            ]
+        },{
+            "id" : 7,
+            "title":"Sống vượt xa khả năng chi trả",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Sinh viên năm nhất đại học thường có xu hướng chi tiêu quá mức trong năm đầu tiên đó, trở thành nạn nhân của sự tự do đến từ cuộc sống xa nhà và sự cám dỗ từ phía bạn bè. Tuy nhiên, rất có thể, những người bạn đó đang phải đối mặt với những thách thức tương tự, và việc hợp tác để chống lại việc chi tiêu quá đà ắt sẽ mang lại hiệu quả. "
+                },
+                {
+                    "id": 2,
+                    "mean": "Bạn có thể nói không với bạn bè của mình,” Nelson nói. “Ăn ngoài là khoản ngân sách tiêu hao lớn nhất và phát sinh rất nhanh. Sinh viên nên tận dụng kế hoạch bữa ăn đại học đó, bám sát vào ngân sách của mình và cùng nhau tìm cách sống với chi phí rẻ mà không phải hy sinh niềm vui."
+                }
+            ]
+        },{
+            "id" : 8,
+            "title":"Lạm dụng thẻ tín dụng",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Một lý do khiến sinh viên năm nhất đại học có thể chi tiêu quá mức là do, họ đang lạm dụng thẻ tín dụng - vào năm 2017, 38% sinh viên có thẻ tín dụng. Thật không may, sinh viên đại học thường phải đối mặt với các khoản vay lãi suất cao, dẫn đến những khoản nợ lớn đối với những người không thể trả nợ nhanh chóng."
+                },
+                {
+                    "id": 2,
+                    "mean": "Bạn có thể cân nhắc việc trở thành người dùng được ủy quyền trên thẻ tín dụng của cha mẹ mình hoặc tìm kiếm thẻ có hạn mức chi tiêu thấp, để tích lũy một mức tín dụng tốt cho những lần mua hàng trong tương lai. Bạn cũng nên tự học về những điều kiện giao dịch các loại thẻ khác nhau cung cấp."
+                }
+            ]
+        },{
+            "id" : 9,
+            "title":"Không có Quỹ khẩn cấp",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Ngay cả những kế hoạch được sắp đặt tốt nhất cũng không tránh khỏi những trường hợp khẩn cấp, từ một chiếc xe bị hỏng đến một cơn bệnh. Nhưng có quá ít sinh viên được trích lập quỹ khẩn cấp để cho phép họ có được một khoản tài chính mà không bị phá sản."
+                },
+                {
+                    "id": 2,
+                    "mean": "Số tiền họ nên đặt phân chia cho các mục tiêu khác nhau, và sẽ phụ thuộc vào hoàn cảnh cá nhân. Sinh viên năm nhất thường vẫn nhận được một số trợ giúp của cha mẹ và ngân sách của họ có thể ít hơn so với những sinh viên độc lập về tài chính, nhưng bạn vẫn nên âm thầm tiết kiệm. Cân nhắc xem khoản chi lớn nhất của bạn có thể là gì (ví dụ: sửa chữa ô tô lớn) và sử dụng khoản đó làm điểm khởi đầu."
+                }
+            ]
+        },{
+            "id" : 10,
+            "title":"Không quan tâm đến nợ nần",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Theo một báo cáo của Viện Brookings, khoảng một nửa tổng số sinh viên năm nhất ở Hoa Kỳ đánh giá thấp số nợ sinh viên mà họ mắc phải và ít hơn một phần ba có thể đưa ra ước tính chính xác về khoản nợ của họ. Đồng thời, họ tiếp tục vay nợ sinh viên mà không có kế hoạch trả nợ."
+                },
+                {
+                    "id": 2,
+                    "mean": "Thật tuyệt khi có được sự hỗ trợ tài chính đó vào đầu học kỳ, nhưng điều quan trọng là phải lập ngân sách để chúng có thể trải đều từ tháng này sang tháng khác. Nếu bạn có một số tiền mặt dư ra, hãy cân nhắc trả lại khoản vay ngay lập tức, để giảm bớt tổng số tiền bạn sẽ nợ sau này."
+                }
+            ]
+        },{
+            "id" : 11,
+            "title":"Không theo dõi thời hạn hỗ trợ tài chính",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Những thời hạn đó dường như còn kéo dài vài tháng nữa, và đột nhiên, kết thúc. Nhưng những sinh viên bỏ lỡ thời hạn nộp hồ sơ giấy tờ sẽ không nhận được tiền đúng hạn và điều đó có thể gây ra sự tàn phá về tài chính. “Tôi hoàn toàn hiểu rằng hỗ trợ tài chính là phức tạp và khó hiểu,” Nelson nói, nhưng đó là lý do tại sao văn phòng hỗ trợ tài chính ở đó. “Họ phải có thể cung cấp cho sinh viên các công cụ và thông tin để hiểu được thư mời nhập học; để chia nhỏ các khoản tài trợ, cho vay, v.v.; và để hiểu tất cả các thời hạn quan trọng khác."
+                },
+                {
+                    "id": 2,
+                    "mean": "Vào đầu học kỳ - hoặc có thể sớm hơn - sinh viên nên ngồi lại với một cố vấn hỗ trợ tài chính hoặc cố vấn để thảo luận về những vấn đề cần giải quyết, và khi nào phải giải quyết. Đặt tất cả các ngày thích hợp trên lịch, và lý tưởng nhất là đặt lời nhắc trên điện thoại hoặc email của bạn."
+                }
+            ]
+        },{
+            "id" : 12,
+            "title":"Chuyển khỏi ký túc xá",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Tôi sẽ tiết kiệm được rất nhiều tiền bằng cách chia sẻ tiền thuê nhà với bạn cùng phòng thay vì sống trong ký túc xá. Đó là một biện pháp phổ biến của các sinh viên năm nhất hào hứng với viễn cảnh được sống riêng. Vấn đề là, nó không hoàn toàn đúng. Đối với nhiều sinh viên, chỉ riêng chi phí đi lại tăng đã ăn hết phần lớn số tiền tiết kiệm được cho nhà ở, và điều đó không tính đến các tiện ích và các chi phí khác phát sinh khi sống ngoài khuôn viên trường."
+                },
+                {
+                    "id": 2,
+                    "mean": "Trước khi đi sâu vào cuộc sống căn hộ chỉ để “tiết kiệm tiền”, sinh viên nên nghiền ngẫm về các khoản chi tiêu để xác định xem việc sống trong hay ngoài khuôn viên trường sẽ tiết kiệm chi phí hơn."
+                }
+            ]
+        },{
+            "id" : 13,
+            "title":"Không hăng hái đặt ra câu hỏi ",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Đôi khi sinh viên năm nhất đại học cảm thấy ái ngại khi tiết lộ rằng, họ không biết phải làm gì. Họ cũng không biết bản thân thiếu sót những gì. “Chúng tôi thấy vấn đề này trong hỗ trợ tài chính, nhưng tôi nghe nó từ các bộ phận khác và từ các cố vấn: Hãy đặt câu hỏi. Hãy hỏi cho đến khi bạn hiểu, ”Nelson nói. “Tôi nghĩ rằng sinh viên sợ hãi, họ không biết chính xác những gì cần hỏi, vì vậy họ không hỏi bất cứ điều gì, và sau đó họ bỏ lỡ thời hạn, trả quá nhiều hoặc nộp sai loại bài tập.” "
+                },
+                {
+                    "id": 2,
+                    "mean": "Sinh viên nên thực sựvì các trường đại học muốn họ thành công trong các lớp học và tận hưởng trải nghiệm đại học. Đó chính xác là lý do tại sao các nguồn sinh viên, bao gồm giảng viên, cố vấn học tập hoặc tài chính, gia sư và cố vấn tồn tại. "
+                }
+            ]
+        },{
+            "id" : 14,
+            "title":"Sử dụng phương tiện truyền thông xã hội một cách thiếu trách nhiệm",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Mạng xã hội không chỉ có thể làm sao nhãng học tập mà còn có thể ảnh hưởng đến danh tiếng của học sinh. Vào tháng 6 năm 2017, Đại học Harvard đã rút lại 10 lời mời nhập học sau khi phát hiện ra rằng, các sinh viên năm nhất tương lai sử dụng Facebook xúc phạm người khác. Sinh viên cũng cần nhận thức được rằng, hơn 2/3 nhà tuyển dụng sử dụng các trang mạng xã hội để nghiên cứu - và đôi khi từ chối - những nhân viên tương lai."
+                },
+                {
+                    "id": 2,
+                    "mean": "Học sinh nên nhớ rằng, một khi họ đăng một thứ gì đó trực tuyến, nó sẽ ở đó mãi mãi. Điều quan trọng là phải duy trì cài đặt bảo mật để có thể phê duyệt những người xem tiểu sử và bài đăng, đồng thời có thể tạo các mạng riêng biệt cho các liên hệ công việc, gia đình và bạn bè, để họ có thể điều chỉnh bài đăng cho phù hợp với đối tượng. Và tất nhiên, tốt nhất là bạn không nên đăng bất kỳ nhận xét tiêu cực nào, ảnh đùa / ảnh xúc phạm hoặc ảnh thỏa hiệp."
+                }
+            ]
+        },{
+            "id" : 15,
+            "title":"Ngủ không đủ giấc",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Xa nhà và sự thiếu nhất quán trong giờ giấc lịch trình thường dẫn đến việc sinh viên thức quá khuya và mất ngủ. Nhưng các nghiên cứu cho thấy rằng, những sinh viên đại học không đi ngủ hoặc thức dậy vào những thời điểm nhất quán hàng ngày có nhiều khả năng bị điểm thấp hơn và thường xuyên bị ốm hơn."
+                },
+                {
+                    "id": 2,
+                    "mean": "Số lượng giấc ngủ là quan trọng, nhưng sự đều đặn cũng vậy. Sẽ luôn có những trường hợp ngoại lệ, nhưng học sinh vẫn nên cố gắng giữ một lịch trình ngủ đều đặn."
+                }
+            ]
+        },{
+            "id" : 16,
+            "title":"Lập kế hoạch kém cho tương lai",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Bạn có thể mơ lớn - nhưng đừng quên thực tế. “Nhiều sinh viên nghĩ rằng họ sẽ kiếm được 80.000 đô la một năm sau khi tốt nghiệp,” Nelson nói. “Nhưng nó phụ thuộc vào lĩnh vực bạn đang hướng đến. Tôi luôn khuyên sinh viên nên kiểm tra các trang web về lương để hiểu rõ hơn về mức lương đầu vào cho sự nghiệp tương lai của họ. ” Có ý thức chính xác về những gì sẽ xảy ra trong tương lai có thể bắt đầu ngay từ năm thứ nhất để sinh viên có thể lập kế hoạch phù hợp."
+                },
+                {
+                    "id": 2,
+                    "mean": "Hầu hết các khu học xá đều có dịch vụ lập kế hoạch nghề nghiệp để hỗ trợ sinh viên; nhân viên tư vấn được đào tạo để trợ giúp mọi thứ từ chuẩn bị sơ yếu lý lịch đến phỏng vấn, xác định nghề nghiệp mà họ quan tâm, để tạo kết nối với nhà tuyển dụng. Các cuộc thảo luận với giảng viên và nhân viên về nghề nghiệp - càng sớm càng tốt - giúp sinh viên cảm thấy tự tin hơn về việc chuẩn bị cho mục tiêu nghề nghiệp, và có thể giúp sinh viên xác định các môn cần học tiếp theo."
+                }
+            ]
+        },{
+            "id" : 17,
+            "title":"Đảm nhận quá nhiều",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Thật dễ dàng để hào hứng với tất cả các hoạt động mà trường đại học cung cấp, từ các nhóm học tập, các bữa tiệc cho đến các cơ hội tình nguyện. Nhưng tham gia quá nhiều vào các hoạt động đó có thể khiến sinh viên gặp rắc rối nếu họ không thể cân bằng tất cả. "
+                },
+                {
+                    "id": 2,
+                    "mean": "Nelson nói: “Hãy chọn lọc các ưu tiên của bạn. Nhúng ngón chân vào trước. Giữ các lớp học là tối quan trọng, và sau đó xây dựng trong các tính năng bổ sung. Hãy thử vài lựa chọn và quyết định những hoạt động bạn thích nhất, và đừng cảm thấy tồi tệ khi bỏ qua những thứ bạn không thích."
+                }
+            ]
+        },{
+            "id" : 18,
+            "title":"Không yêu cầu giúp đỡ",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Giáo viên và phụ huynh thường nhấn mạnh rằng học đại học là quãng đường học sinh phải có trách nhiệm với bản thân, và tự tìm hiểu mọi thứ. Thật không may, đối với nhiều sinh viên, điều này đã chuyển thành nỗi sợ hãi khi yêu cầu sự giúp đỡ - từ giảng viên, nhân viên, cố vấn học tập, phụ huynh hoặc bạn bè."
+                },
+                {
+                    "id": 2,
+                    "mean": "Tuy nhiên, biết khi nào cần tìm sự trợ giúp không phải là thừa nhận thất bại - đó là dấu hiệu của trách nhiệm học tập và biết khi nào thì nên nhờ tới sự giúp đỡ từ những người có kinh nghiệm hoặc chuyên môn cao hơn."
+                }
+            ]
+        }
+        
+    ]
+
+    
+
+}

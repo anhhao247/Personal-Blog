@@ -1,0 +1,118 @@
+.gobal{
+    width: 100%;
+    padding: 100px 12px;
+    background-color: var(--body--);
+}
+.gobal__header{
+    width: 80%;
+    margin: 0  auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.gobal__header-image{
+    width: 40%;
+    margin: auto;
+}
+.gobal__header-image > img{
+    width: 100%;
+    border-radius: 36px;
+}
+.margin{
+    margin: auto;
+}
+.gobal__header-title > h1{
+    color: var(--text-color--);
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: 5.5rem;
+}
+.gobal__header-inner >h1{
+    margin: 30% 12px;
+    line-height: 5.5rem;
+    font-size: 2rem;
+    color: var(--text-color--);
+}
+.gobal__header-dicription > p{
+    font-size: 2.5rem;
+    font-weight: 500;
+    color: var(--text-color--);
+}
+/* Phan bai dang  */
+body{
+    background-color: var(--body--);
+
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.body__tags{
+    width: 100%;
+    height: 1200px;
+    margin: 46px 0;
+    position: relative;
+
+}
+div.tag{
+    position: absolute;
+    width: 30%;
+    padding: 0;
+    background-color: var(--header-menu--);
+    border-radius: 36px;
+    overflow: hidden;
+}
+div.tag__image{
+    width: 100%;
+    height: 50%;
+}
+div.tag__image > a > img{
+    width: 100%;
+    height: 100%;
+}
+div.content{
+    padding: 18px;
+}
+div.tag__title  h1{
+    font-size: 3rem;
+    line-height: 4rem;
+    padding-left: 12px;
+}
+div.tag__title  a{
+    text-decoration: none;
+    color: var(--text-color--);
+}
+div.tag__title a:hover{
+    color: var(--blue-color--);
+    text-decoration: underline;
+}
+div.tag__discription > span{
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 3rem;
+    color: var(--text-color--);
+    padding-left: 12px;
+}
+div.tag__contact{
+    width: 100%;
+    display: flex;
+}
+div.tag__contact-img{
+    width: 25%;
+
+}
+div.tag__contact-img img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding: 12px;
+}
+div.tag__contact >div > p{
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: var(--text-color--);
+    text-align: center;
+    padding-left: 12px;
+    margin-top: 26px;
+}
+

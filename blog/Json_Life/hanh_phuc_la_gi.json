@@ -1,0 +1,55 @@
+{
+    "background":"../img/life_6.jpg",
+    "titles": "Hạnh Phúc Là Gì?",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Hạnh Phúc Là Gì?",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Hạnh phúc là một trạng thái cảm xúc của con người khi được thỏa mãn một nhu cầu nào đó mang tính trừu tượng. Hạnh phúc là một cảm xúc bậc cao. Ở con người, nó mang tính nhân bản sâu sắc và thường chịu tác động của lý trí.[1] Hạnh phúc gắn liền với quan niệm về niềm vui trong cuộc sống."
+                },
+                {
+                    "id": 2,
+                    "mean": "Khi mọi người nói về sự hạnh phúc, họ có thể nói về cảm nhận của bản thân trong thời điểm hiện tại, hoặc sự đề cập chung hơn về cách họ cảm nhận về cuộc sống nói chung."
+                }, {
+                    "id": 3,
+                    "mean": "Vì hạnh phúc thường là một thuật ngữ được định nghĩa rộng rãi, các nhà tâm lý học và các nhà xã hội học khác thường sử dụng thuật ngữ “hạnh phúc chủ quan” (subjective well-being) khi nói về cảm xúc này. Đúng như cách gọi, hạnh phúc chủ quan có xu hướng tập trung vào cảm xúc cá nhân nói chung về cuộc sống của họ vào thời điểm hiện tại. "
+                }, {
+                    "id": 4,
+                    "mean": "Hai thành phần chính của hạnh phúc (hay hạnh phúc chủ quan) là:"
+                }, {
+                    "id": 5,
+                    "mean": "<ul><li>Sự cân bằng của cảm xúc: Mọi người đều trải qua những xúc cảm, tâm trạng tích cực lẫn tiêu cực. Hạnh phúc thường liên quan tới trải nghiệm tích cực hơn là cảm giác tiêu cực.</li><li>Sự hài lòng trong cuộc sống: điều này liên quan đến mức độ cảm thấy thoả mãn của bạn tới đâu trong các lĩnh vực khác nhau trong cuộc sống bao gồm các mối quan hệ, công việc, thành tích và những thứ khác mà bạn cho là quan trọng.</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Làm Thế Nào Để Biết Bạn Đang Hạnh Phúc?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Mặc dù nhận thức về sự hạnh phúc có thể khác nhau ở mỗi con người, có một số dấu hiệu mà các nhà tâm lý học tìm kiếm khi đo lường và đánh giá mức độ hạnh phúc."
+                },
+                {
+                    "id":2,
+                    "mean": "Những dấu hiệu của sự hạnh phúc gồm có:"
+                },{
+                    "id":3,
+                    "mean": "<ul><li>Cảm giác bạn đang được sống một cuộc sống mà mình mong muốn</li><li>Cảm nhận rằng hoàn cảnh sống của mình tốt đẹp</li><li>Cảm thấy rằng bạn đã hoàn thành (hoặc sẽ hoàn thành) những gì mà bạn mong muốn trong cuộc sống</li><li>Cảm thấy thoả mãn với cuộc sống của mình</li><li>Có nhiều cảm xúc tích cực hơn là tiêu cực</li></ul>"
+                },{
+                    "id": 4,
+                    "mean": "Một điều quan trọng đáng nhớ là hạnh phúc không phải là một trạng thái hưng phấn liên tục. Thay vào đó, hạnh phúc là cảm giác tổng thể trải qua nhiều cảm xúc tích cực hơn là những cảm xúc tiêu cực."
+                },{
+                    "id": 5,
+                    "mean": "Những người cảm thấy hạnh phúc vẫn cảm nhận được toàn bộ các cung bậc cảm xúc của con người - thỉnh thoảng sẽ tức giận, thất vọng, chán nản, cô đơn và thậm chí là buồn bã. Nhưng kể cả khi đối mặt với sự khó chịu, họ vẫn có một niềm lạc quan tiềm ẩn rằng mọi thứ sẽ trở nên tốt đẹp hơn, họ có thể đối diện với những gì đang diễn ra, và họ sẽ cảm thấy vui vẻ hạnh phúc trở lại."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

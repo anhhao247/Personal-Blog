@@ -1,0 +1,108 @@
+{
+   
+    "background":"../img/business_5.jpg",
+    "titles": "Mở quán cà phê cần những gì? Bí quyết là gì?",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"NGHIÊN CỨU THỊ TRƯỜNG",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Về cơ bản bước này các bạn cần thực hiện thăm dò, khảo sát thị trường để đưa ra cho mình định hướng kinh doanh tốt nhất để lên kế hoạch kinh doanh một cách chi tiết."
+                },
+                {
+                    "id": 2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/nghiem_cuu_thi_truong.jpg' alt='thi truong'"
+                }, {
+                    "id": 3,
+                    "mean": "Về thị trường:"
+                }, {
+                    "id": 4,
+                    "mean": "<ul><li>Đối thủ của bạn là ai?</li><li>Họ bán cái gì?</li><li>Giá bán trung bình của họ bao nhiêu?</li><li>Họ mở ở địa điểm nào?</li></ul>"
+                }, {
+                    "id": 5,
+                    "mean": "Về khách hàng:"
+                }, {
+                    "id": 6,
+                    "mean": "<ul><li>Khách hàng mục tiêu là ai?</li><li>Độ tuổi khách hàng mục tiêu?</li><li>Nghề nghiệp chính của họ?</li><li>Khả năng chi trả cho sản phẩm?</li><li>Thói quen tiêu dùng?</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "LÊN Ý TƯỞNG KINH DOANH",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Bạn cần lên kế hoạch thật chi tiết xem bạn sẽ mở quán cà phê theo mô hình gì, phong cách nào, phục vụ đối tượng nào…Bạn cũng cần dự đoán được rằng hình thức kinh doanh của mình có phù hợp trong tương lại không. Nó có thể nhân rộng ra và đáp ứng nhu cầu của xã hội được không?"
+                },
+                {
+                    "id":2,
+                    "mean": "<ul><li>Bạn bán cái gì, cho nhóm đối tượng nào? </li><li>Định vị thương hiệu sản phẩm trên thị trường ra sao?</li><li>Mô hình kinh doanh có gì khác biệt với nhóm đối thủ cạnh tranh?</li><li>Bạn tự mở mới hay sử dụng hình thức nhượng quyền thương hiệu?</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "THIẾT LẬP MỤC TIÊU VÀ ĐỊNH HƯỚNG KINH DOANH",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Kế hoạch kinh doanh ngày càng chi tiết thì các bạn càng dễ dàng thực hiện, bạn phải xác định được định hướng kinh doanh của mình qua hai yếu tố: "
+                },
+                {
+                    "id":2,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/thiet_lap_muc_tieu.jpg' alt='thi truong'"
+                },
+                {
+                    "id":3,
+                    "mean": "Kế hoạch xây dựng quán: sức chứa của quán là bao nhiêu, diện tích mong muốn, menu đồ uống gồm những gì, mức giá bán, bao giờ thì thuê nhân viên, sau bao lâu thì đi vào hoạt động,…"
+                },
+                {
+                    "id":4,
+                    "mean": "Chỉ tiêu doanh số mong muốn: doanh thu mong muốn/tháng, dự định bao lâu thu hồi vốn, có thể chịu được thua lỗ trong bao nhiêu tháng,…"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Lựa chọn mô hình quán và địa điểm",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Những mô hình phổ biến và phát triển hiện nay :"
+                },
+                {
+                    "id":2,
+                    "mean": "<ul><li>Mô hình café take away</li><li>Mô hình café vỉa hè truyền thống</li><li>Mô hình café hiện đại thể hiện sự sáng tạo và cá tính của người chủ: café sân vườn, café vintage, café sân thương, café thú cưng…</li><li>Mô hình café âm nhạc</li><li>Mô hình các chuỗi café</li><li>Mô hình café phim</li><li>Mô hình café văn phòng…</li></ul>"
+                },
+                {
+                    "id":3,
+                    "mean": "kCó hai hình thức kinh doanh cafe phổ biến hiện nay là nhận nhượng quyền từ một thương hiệu có tiếng và tự mở lên một thương hiệu hoàn toàn mới. Với hình thức tự kinh doanh các bạn sẽ được làm chủ với toàn quyền quyết định các vấn đề liên quan đến quán café của mình. Đối với hình thức nhượng quyền thì bạn chỉ cần bỏ ra một số tiền nhất định để được kinh doanh dưới tên thương hiệu mà người khác đã xây dựng. Tất cả mọi thứ đều có sẵn mô hình của thương hiệu bạn sẽ chỉ cần sao chép và làm theo đúng hướng dẫn là được."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": " LẬP BẢNG DỰ TRÙ CHI PHÍ TÀI CHÍNH",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/chi_phi_tai_chinh.jpg' alt='thi truong'"
+                },
+                {
+                    "id":2,
+                    "mean": "Lập kế hoạch chi tiết để bạn cân đo các chi phí sao cho hợp lý, dưới đây là một vài chi phí :"
+                },
+                {
+                    "id":3,
+                    "mean": "<ul><li>Chi phí thuê mặt bằng</li><li>Chi phí xây dựng</li><li>Chi phí thiết kế và trang trí nội thất</li><li>Chi phí đầu tư cho trang bị thiết bị, dụng cụ</li><li>Chi phí đầu tư cho nguyên vật liệu</li><li>Chi phí duy trì quán</li><li>Chi phí Marketing</li><li>Chi phí thuê nhân viên và đăng ký kinh doanh</li></ul>"
+                }
+            ]
+        }
+    ]
+
+    
+
+}

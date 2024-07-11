@@ -1,0 +1,125 @@
+{
+   
+    "background":"../img/life_1.jpg",
+    "titles": "Ý nghĩa cuộc sống là gì?",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Ý nghĩa cuộc sống là gì?",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Tại sao bạn lại hỏi câu hỏi này?"
+                },
+                {
+                    "id": 2,
+                    "mean": "Bạn hỏi vì bạn đang chơi vơi, rối bời và bất ổn. Và bạn muốn thứ gì đó ổn định có phải không?"
+                }, {
+                    "id": 3,
+                    "mean": "Bạn muốn biết rõ ràng cuộc đời này phải như thế nào, mục tiêu phải rõ ràng và cụ thể. Nhưng bạn không biết, bạn đang rất bất ổn."
+                }, {
+                    "id": 4,
+                    "mean": "Bạn muốn có một định nghĩa rõ ràng như tấm bản đồ để dẫn lối bạn đi trong lúc chơi vơi."
+                }, {
+                    "id": 5,
+                    "mean": "Điều quan trọng trong những lúc này không phải hỏi mục đích cuộc đời này là gì? Mà phải biết lý do tại sao bạn đang bất ổn."
+                }, {
+                    "id": 6,
+                    "mean": "Ví dụ sau nhiều lần thi trượt bạn vẫn không đậu, sau nhiều lần khởi nghiệp bạn vẫn không thành công, người bạn yêu phản bội bạn. Bạn lại quay ra hỏi mục đích cuộc đời này là gì sao?"
+                }, {
+                    "id": 7,
+                    "mean": "Hãy bình tĩnh và suy nghĩ. Chính bạn chọn cuộc thi đó, chính bạn chọn con đường khởi nghiệp, chính bạn chọn người đó."
+                }, {
+                    "id": 8,
+                    "mean": "Chỉ chính bạn mới có câu trả lời cho lý do bạn bất ổn."
+                }, {
+                    "id": 9,
+                    "mean": "Bạn buồn và lạc lõng là do kết quả không tốt. Chứ nếu nó tốt bạn đã không hỏi mục đích cuộc đời mà đang vạch ra những kế hoạch tiếp theo."
+                }, {
+                    "id": 10,
+                    "mean": "Nếu cho bạn một siêu năng lực là làm gì cũng thành công. Bạn nghĩ bạn sẽ làm gì lúc đó. Chắc bạn cũng đã xâm chiếm các vũ trụ khác rồi chứ thời gian đâu mà cảm thấy bất ổn."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Học cách chấp nhận",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Chúng ta đều muốn làm gì đó, làm xong thất bại hoặc không đúng ý mình. Rồi không chấp nhận được kết quả."
+                },
+                {
+                    "id":2,
+                    "mean": "Rồi ta lại đặt câu hỏi mục đích cuộc đời là gì. Đó như là một cách để ta trốn tránh thực tại."
+                },{
+                    "id":3,
+                    "mean": "Tại vì ta sẽ giành thời gian suy nghĩ về ý nghĩa cuộc sống, cách sống ý nghĩa để quên đi vấn đề hiện tại mình đang mắc kẹt."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Ai cũng có vấn đề",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Cuộc sống này vô cùng phức tạp. Con người cũng phức tạp không kém."
+                },
+                {
+                    "id":2,
+                    "mean": "Bạn cũng không thể điều khiển mọi thứ hoặc người khác được."
+                },
+                {
+                    "id":3,
+                    "mean": "Việc bạn làm không như ý, người bạn thích không thích bạn, bi kịch ập đến, xui xẻo bủa vây. Vâng đó là cuộc đời."
+                },
+                {
+                    "id":4,
+                    "mean": "Bạn có thể chấp nhận nó và bước tiếp hoặc tìm cách trốn thoát những sự phức tạp này."
+                },
+                {
+                    "id":5,
+                    "mean": "Và bạn nên nhớ là ai cũng có khó khăn hết thôi. Ít hay nhiều. Chứ đừng tưởng mọi người xung quanh bạn đều tài giỏi, vui vẻ. Chỉ là bạn không biết hoặc họ giấu thôi."
+                },
+                {
+                    "id":6,
+                    "mean": "Cho nên là hãy tìm về bên trong bạn, hiểu rõ bản thân, giải quyết vấn đề của bạn. Mọi người khác cũng bận giải quyết vấn đề của họ rồi. Bạn đừng quá lo người khác đánh giá mình."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Vậy mục đích hay ý nghĩa cuộc sống này là gì?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Mình có thể đưa cho bạn định nghĩa, hoặc trích dẫn định nghĩa của các nhà triết học lỗi lạc, những doanh nhân nổi tiếng."
+                },
+                {
+                    "id":2,
+                    "mean": "Nhưng để làm gì cơ chứ? Cho dù có định nghĩa rồi, có các bước để đạt được rồi nhưng cuộc sống mà bạn."
+                },
+                {
+                    "id":3,
+                    "mean": "Cho dù định nghĩa mục đích cuộc đời là gì thì bạn cũng phải làm gì đó đúng không (kể cả không làm gì cũng là 1 lựa chọn)"
+                },
+                {
+                    "id":4,
+                    "mean": "Bạn làm theo thì sẽ có khó khăn, có thất bại. Sao mà tránh được cơ chứ."
+                },
+                {
+                    "id":5,
+                    "mean": "Vậy mục đích cuộc đoi Làm những việc ý nghĩa trong đời (theo định nghĩa của bạn) Chấp nhận thất bại, khó khăn, thử thách Bằng lòng với cuộc sống. Có những thứ bạn có thể thay đổi được, có những thứ không."
+                },
+                {
+                    "id":6,
+                    "mean": " Khi mày yêu cuộc đời, cuộc đời cũng sẽ yêu mày đắm say - Đen Vâu"
+                }
+            ]
+        }
+    ]
+
+    
+
+}

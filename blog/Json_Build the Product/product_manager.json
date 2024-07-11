@@ -1,0 +1,106 @@
+{
+   
+    "background":"../img/product_1.jpg",
+    "titles": "Vậy sản phẩm ở đây là gì?",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Product ( sản phẩm ) là gì?",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Product có thể là một sản phẩm vậy lý như con chuột bàn phím, laptop, điện thoại. Nó cũng có thể là phần mềm như Facebook, Email."
+                },
+                {
+                    "id": 2,
+                    "mean": "Trong Inspired - quyển sách khá nổi tiếng về Product Manager, Marty Cagan mô tả công việc của Product Manager là:"
+                }, {
+                    "id": 3,
+                    "mean": "Phát triển một sản phẩm mà có giá trị, hữu dụng và có thể làm được."
+                }, {
+                    "id": 4,
+                    "mean": "Ở những công ty công nghệ lớn, một product có thể được chia ra làm nhiều tính năng và những tính này cũng được gọi là một product."
+                }, {
+                    "id": 5,
+                    "mean": "Ví dụ Facebook sẽ có Newsfeed, User Profile, Messaging, Commenting đều có thể gọi là một product vì nó quá phức tạp và có nhiều tính năng bên trong. Với từng tính năng trên sẽ có một hoặc nhiều Product Manager và một team product ( designer, developer )"
+                }, {
+                    "id": 6,
+                    "mean": "Sẽ có công ty chia PM theo tính năng như Facebook, cũng có công ty sẽ chia theo platform như PM cho iOS, PM cho Android và PM cho Web"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Chính xác Product Manager là làm gì?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Product Manager là công việc lai giữa Business, UX và Technology"
+                },
+                {
+                    "id":2,
+                    "mean": "Đây có lẽ là đồ thị venn rất dễ bắt gặp khi ban tìm hiểu về Product Manager. Bạn không nhất thiết phải master ở cả 3 lĩnh vực. Nhưng bạn cần có kinh nghiệm ở một lĩnh vực và có niềm đam mê học hỏi, nghiên cứu cả ba"
+                },{
+                    "id":3,
+                    "mean": "Business: PM phải hiểu sản phẩm, thị trường và khách hàng. Phải dựa vào các số liệu và tầm nhìn của founder về sản phẩm để đánh giá được tính năng nào sẽ thu được tiền, tính năng nào user đang cần. Tóm lại là phải đảm bảo lợi ích của người dùng trên hết, đem lại giá trị cho họ. Bởi nếu họ hài lòng, sản phẩm sẽ phát triển và có lợi nhuận."
+                },{
+                    "id": 4,
+                    "mean": "Technology: PM không phải là người trực tiếp code, nhưng cần có kiến thức về mảng này. Đây là điều quan trọng bởi PM sẽ thường xuyên làm việc với team dev. Những kiến thức cần biết như quy trình phát triển phần mềm,"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Bạn sẽ không quản lý ai hết",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Dù trong job title là Product Manager nhưng bạn sẽ không quản lý ai hết"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "3 Loại Product Manager",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Skateholder là gì"
+                },
+                {
+                    "id":2,
+                    "mean": "Internal PM"
+                },
+                {
+                    "id":3,
+                    "mean": "Hỗ trợ build các tool, app cho công ty sử dụng"
+                },
+                {
+                    "id":4,
+                    "mean": "B2B PM ( Business to business PM ) Build cho client hoặc công ty khác. PM phải tương tác với các team ở nội bộ công ty và với công ty khác"
+                },
+                {
+                    "id":5,
+                    "mean": "Business to consumer PM"
+                },
+                {
+                    "id":6,
+                    "mean": "Phần mềm có nhiều người sử dụng như Spotify, Facebook, Twitter."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Kết",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Hy vọng bài viết này đem đến cái nhìn sơ lược về Product Manager cho bạn. Bạn có thể đọc thêm bài kinh nghiệm vỏng vấn Product Manager ở đây"
+                }
+            ]
+        }
+    ]
+
+    
+
+}

@@ -1,0 +1,100 @@
+{
+   
+    "background":"../img/technology_4.jpg",
+    "titles": "Bạn hiểu thế nào về công nghệ thông tin ! ",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Technology là gì?",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Technology hay còn gọi là công nghệ là sự phát minh, sự thay đổi, việc sử dụng và kiến thức về công cụ, máy móc, kỹ thuật, kỹ năng nghề nghiệp, hệ thống, phương pháp tổ chức,… Technology sẽ giải quyết một vấn đề, cải tiến một giải pháp đã tồn tại để đạt được mục đích hay thực hiện một chức năng cụ thể đòi hỏi hàm lượng chất xám cao. Ảnh hưởng nhiều đến khả năng kiểm soát và thích nghi của con người."
+                },
+                {
+                    "id": 2,
+                    "mean": "Technology có tên bắt nguồn từ technologia tiếng Hy Lạp với techno có nghĩa là thủ công và logia vó nghĩa là châm ngôn. Thuật ngữ này ám chỉ đến các công cụ và mưu mẹo của con người, phụ thuộc vào từng ngữ cảnh sử dụng:"
+                },{
+                    "id": 3,
+                    "mean": "<ul><li>Công cụ, máy móc giúp con người giải quyết các vấn đề.</li><li>Các kỹ thuật bao gồm phương pháp, vật liệu, công cụ và tiến trình giải quyết các vấn đề.</li><li>Các sản phẩm được tạo ra phải hàng loạt và giống nhau.</li><li>Sản phẩm có chất lượng cao và giá thành hạ.</li></ul>"
+                },{
+                    "id": 4,
+                    "mean": "Hay nói cách khác, Technology là sự ứng dụng những phát minh khoa học vào những mục tiêu, sản phẩm thực tiễn, cụ thể phục vụ cho đời sống con người. Đcự biệt trong lĩnh vực công nghiệp hoặc thương mại. Hoặc thuật ngữ công nghệ cũng được sử dụng chung cho các lĩnh vực cụ thể như “công nghệ xây dựng”, “công nghệ thông tin”."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Technology bao gồm những gì?",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Ở trên là các thông tin cơ bản về Technology là gì? Để tìm hiểu sâu hơn về chúng ta sẽ đi tìm hiểu về các thành phần cốt lõi tạo thành, 4 thành phần đó bao gồm:"
+                },
+                {
+                    "id":2,
+                    "mean": "<ul><li>Kỹ thuật (T): bao gồm máy móc, thiết bị, các thành phần cốt lõi mà bất kỳ công nghệ nào cũng phải có. Con người sẽ được tăng thêm sức mạnh về cơ bắp, trí tuệ trong mọi hoạt động nhờ áp dụng công nghệ, đặc biệt là sản xuất.</li><li>Con người (H): là người nắm giữ và điều khiển công nghệ bao gồm kiến thức, kinh nghiệm, kỹ năng,… Những yếu tố này giúp con người điều hành máy móc, thiết bị và có thể sử dụng chúng 1 cách tối ưu, hiệu quả nhất để tạo ra các thành phẩm yêu cầu.</li><li>Thông tin (I): thông tin là các dữ liệu về kỹ thuật, con người, tổ chức,… chúng biểu thị dưới dạng dữ liệu, lưu trữ trong các thiết bị để phục vụ cho các hoạt động của con người.</li><li>Tổ chức (O): là những đơn vị áp dụng công nghệ, kỹ thuật và con người để tạo ra những mục tiêu chung. Tổ chức dựa vào con người và công nghệ, tận dụng hết các thế mạnh để đạt được mục tiêu.</li></ul>"
+                },{
+                    "id": 3,
+                    "mean": "<img  style='height: 520px; width: 800px; border-radius: 50px;' src='../img/technology_bao_gom.jpg' alt='CNTT'>"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Ứng dụng của Technology",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Hầu hết các lĩnh vực trong đời sống hiện nay đều đang được ứng dụng công nghệ, các lĩnh vực như trí tuệ nhân tạo, ngôi nhà thông minh, hay là những robot dọn dẹp, giúp việc,… tất cả đều là những sản phẩm từ công nghệ."
+                },
+                {
+                    "id":2,
+                    "mean": "Lạm dụng công nghệ đôi khi không tốt, nhưng việc sử dụng công nghệ đúng nơi đúng cách giúp cho cuộc sống được cải tiện nâng cao hơn, đem lại nhiều tiện ích hơn cho con người. Dưới đây là một số lĩnh vực công nghệ trong thực tế:"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Ngành công nghiệp hóa, hiện đại hóa",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Xu hướng kinh tế hiện nay, công nghiệp hóa hiện đại hóa là sự thay đổi lớn nhất của nền công nghệ hiện đại mà không thể nào không kể đến. Các dây chuyền sản xuất tự động hóa, các máy móc, thiết bị là những ví dụ điển hình nhất của ngành này. Chúng được sử dụng trong các hoạt động đời sống lẫn các hoạt động sản xuất, làm tăng giá trị, chất lượng sản phẩm. Giảm bớt được những công việc nặng nhọc, rút bớt được về cả nguồn lực và thời gian."
+                },{
+                    "id": 2,
+                    "mean": "<img  style='height: 520px; width: 800px; border-radius: 50px;' src='../img/technology_cong_nghiep_hoa_hien_dai_hoa.jpg' alt='CNTT'>"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Công nghệ trong đời sống xã hội",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Những sản phẩm công nghệ đã đóng góp sự thay đổi lớn là smartphone, chúng giúp cải thiện cách thức học tập, làm việc, giải trí,… khiến cuộc sống trở nên đa dạng và độc đáo hơn. Con người dễ dàng nắm bắt các thông tin xung quanh, chủ động hơn trong cuộc sống."
+                },{
+                    "id": 2,
+                    "mean": "<img  style='height: 520px; width: 800px; border-radius: 50px;' src='../img/technology_doi_song_xa_hoi.jpg' alt='CNTT'>"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Hệ thống tự động hóa",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Công nghệ mang tới cho chúng ta thành quả quan trọng – hệ thống tự động hoá. Hệ thống tự động hóa có thể thay thế sức lao động con người, mà không làm ảnh hưởng tới chất lượng công việc."
+                },{
+                    "id": 2,
+                    "mean": "<img  style='height: 520px; width: 800px; border-radius: 50px;' src='../img/technology_tu_dong_hoa.jpg' alt='CNTT'>"
+                }
+            ]
+        }
+    ]
+
+    
+
+}

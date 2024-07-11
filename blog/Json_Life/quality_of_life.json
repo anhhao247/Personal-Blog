@@ -1,0 +1,88 @@
+{
+   
+    "background":"../img/life_5.jpg",
+    "titles": "Luận Văn FACTORS INFLUENCING QUALITY OF LIFE",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"QUALITY OF LIFE là gì?",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Chất lượng cuộc sống ( QOL ) được Tổ chức Y tế Thế giới định nghĩa là nhận thức của một cá nhân về vị trí của họ trong cuộc sống trong bối cảnh văn hóa và hệ thống giá trị mà họ sống và liên quan đến mục tiêu, kỳ vọng, tiêu chuẩn và mối quan tâm của họ"
+                },
+                {
+                    "id": 2,
+                    "mean": "Các chỉ số tiêu chuẩn về chất lượng cuộc sống bao gồm sự giàu có , việc làm , môi trường , sức khỏe thể chất và tinh thần , giáo dục , thời gian giải trí và thư giãn , thuộc về xã hội , tín ngưỡng tôn giáo , an toàn ,an ninh và tự do ."
+                }, {
+                    "id": 3,
+                    "mean": "QOL có nhiều bối cảnh khác nhau, bao gồm các lĩnh vực phát triển quốc tế , chăm sóc sức khỏe , chính trị và việc làm. QOL liên quan đến sức khỏe (HRQOL) là một đánh giá về QOL và mối quan hệ của nó với sức khỏe."
+                }, {
+                    "id": 4,
+                    "mean": "Một cách tiếp cận, được gọi là lý thuyết gắn kết , được nêu trong tạp chí Nghiên cứu Ứng dụng về Chất lượng Cuộc sống , thừa nhận bốn lĩnh vực để đánh giá chất lượng cuộc sống: sinh thái, kinh tế, chính trị và văn hóa. Ví dụ, trong lĩnh vực văn hóa, nó bao gồm các lĩnh vực phụ sau đây về chất lượng cuộc sống:"
+                }, {
+                    "id": 5,
+                    "mean": "<ul><li>Niềm tin và ý tưởng</li><li>Sáng tạo và giải trí</li><li>Tìm hiểu và học hỏi</li><li>Giới tính và thế hệ</li><li>Bản sắc và sự tham gia</li><li>Bộ nhớ và chiếu</li><li>Hạnh phúc và sức khỏe</li></ul>"
+                }, {
+                    "id": 6,
+                    "mean": "Theo quan niệm này, các khái niệm liên quan thường xuyên khác bao gồm tự do , nhân quyền và hạnh phúc . Tuy nhiên, vì hạnh phúc là chủ quan và khó đo lường nên các thước đo khác thường được ưu tiên hơn. Người ta cũng chứng minh rằng hạnh phúc, dù có thể đo lường được bao nhiêu, không nhất thiết tăng lên tương ứng với sự thoải mái do thu nhập tăng lên."
+                }, {
+                    "id": 7,
+                    "mean": "Do đó, không nên lấy mức sống làm thước đo hạnh phúc. [2] [8] Khái niệm an ninh con người đôi khi cũng được coi là có liên quan , mặc dù khái niệm an ninh con người có thể được xem xét ở cấp độ cơ bản hơn và dành cho tất cả mọi người."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Đo lường định lượng",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Không giống như GDP bình quân đầu người hoặc mức sống , cả hai đều có thể đo lường bằng tài chính, khó thực hiện các phép đo khách quan hoặc dài hạn về chất lượng cuộc sống của các quốc gia hoặc các nhóm người khác. Trong thời gian gần đây, các nhà nghiên cứu đã bắt đầu phân biệt hai khía cạnh của hạnh phúc cá nhân: Hạnh phúc về cảm xúc , trong đó những người trả lời được hỏi về chất lượng của những trải nghiệm cảm xúc hàng ngày của họ – tần suất và cường độ của những trải nghiệm của họ, chẳng hạn như niềm vui, sự căng thẳng. , buồn bã, tức giận và tình cảm – và đánh giá cuộc sống , trong đó người trả lời được yêu cầu suy nghĩ về cuộc sống của họ nói chung và đánh giá nó theo thang điểm."
+                },
+                {
+                    "id":2,
+                    "mean": "Các hệ thống và thang đo lường như vậy và các hệ thống đo lường khác đã được sử dụng trong một thời gian. Nghiên cứu đã cố gắng kiểm tra mối quan hệ giữa chất lượng cuộc sống và năng suất. [10] Có nhiều phương pháp khác nhau để đo lường chất lượng cuộc sống về chăm sóc sức khỏe, sự giàu có và của cải vật chất. Tuy nhiên, việc đo lường biểu hiện có ý nghĩa của mong muốn của một người khó hơn nhiều . Một cách để làm như vậy là đánh giá phạm vi cách thức các cá nhân thực hiện lý tưởng của chính họ. "
+                },{
+                    "id":3,
+                    "mean": "Chất lượng cuộc sống có thể hiểu đơn giản là hạnh phúc , trạng thái chủ quan của tâm trí. Bằng cách sử dụng tâm lý đó, công dân của một quốc gia đang phát triển đánh giá cao hơn vì họ hài lòng với những nhu cầu cơ bản về chăm sóc sức khỏe, giáo dục và bảo vệ trẻ em."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Chỉ số Phát triển Con người",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Có lẽ thước đo phát triển quốc tế được sử dụng phổ biến nhất là Chỉ số Phát triển Con người (HDI), kết hợp các thước đo về tuổi thọ, giáo dục và mức sống, nhằm định lượng các lựa chọn sẵn có cho các cá nhân trong một xã hội nhất định. HDI được Chương trình Phát triển Liên Hợp Quốc sử dụng trong Báo cáo Phát triển Con người của họ . "
+                },
+                {
+                    "id":2,
+                    "mean": "Tuy nhiên, kể từ năm 2010, Báo cáo Phát triển Con người đã đưa ra Chỉ số Phát triển Con người (IHDI) điều chỉnh theo Bất bình đẳng . Trong khi HDI ban đầu vẫn hữu ích, nó tuyên bố rằng IHDI là mức độ phát triển con người thực tế (có tính đến sự bất bình đẳng), trong khi HDI ban đầu có thể được xem như một chỉ số về phát triển con người tiềm năng (hoặc mức HDI tối đa) có thể đạt được nếu không có bất bình đẳng."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Báo cáo Hạnh phúc Thế giới",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Báo cáo Hạnh phúc Thế giới là một cuộc khảo sát mang tính bước ngoặt về tình trạng hạnh phúc toàn cầu. Nó xếp hạng 156 quốc gia theo mức độ hạnh phúc của họ, phản ánh mối quan tâm ngày càng tăng trên toàn cầu trong việc sử dụng hạnh phúc và phúc lợi đáng kể như một chỉ số về chất lượng phát triển con người. Mục đích ngày càng tăng của nó đã cho phép các chính phủ, cộng đồng và tổ chức sử dụng dữ liệu phù hợp để ghi lại mức độ hạnh phúc nhằm tạo điều kiện cho các chính sách mang lại cuộc sống tốt đẹp hơn. Các báo cáo xem xét tình trạng hạnh phúc trên thế giới ngày nay và cho thấy khoa học về hạnh phúc giải thích các biến thể hạnh phúc của cá nhân và quốc gia như thế nào."
+                },
+                {
+                    "id":2,
+                    "mean": "Được phát triển lại bởi Liên hợp quốc và xuất bản gần đây cùng với chỉ số HDI, báo cáo này kết hợp cả các biện pháp khách quan và chủ quan để xếp hạng các quốc gia theo mức độ hạnh phúc, được coi là kết quả cuối cùng của chất lượng cuộc sống cao. Nó sử dụng các cuộc khảo sát từ Gallup , GDP thực trên đầu người, tuổi thọ khỏe mạnh, có ai đó để dựa vào, tự do lựa chọn cuộc sống, không tham nhũng và hào phóng để tính điểm cuối cùng. Hạnh phúc đã được công nhận là một khái niệm quan trọng trong chính sách công toàn cầu."
+                },
+                {
+                    "id":3,
+                    "mean": "Báo cáo Hạnh phúc Thế giới chỉ ra rằng một số vùng trong những năm gần đây đã trải qua sự bất bình đẳng tăng dần về hạnh phúc."
+                }
+            ]
+        }
+    ]
+
+    
+
+}

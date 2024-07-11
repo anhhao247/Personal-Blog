@@ -1,0 +1,130 @@
+{
+  
+    "background":"../img/life_3.jpg",
+    "titles": "Sống tối giản dưới 7kg hành lý",
+    "main" : [
+        {
+            "id" : 1,
+            "title":"Taị sao mình muốn sống tối giản?",
+            "discription":[
+                {
+                    "id": 1,
+                    "mean": "Trong chuyến đi xuyên Việt năm nay, do mình cũng phải trả phòng nên đành phải mang theo hết hành lý. Cộng với việc chơi ván nữa nên cũng mang theo 2 cái ván"
+                },
+                {
+                    "id": 2,
+                    "mean": "Hành lý là 1 vali 28 inch, 1 vali 20 inch và 2 tấm ván"
+                }, {
+                    "id": 3,
+                    "mean": "Khi di chuyển trong chuyến đi, mình thấy việc xách thêm nhiều đồ thực sự không cần thiết. Có những món mình còn không dùng tới."
+                }, {
+                    "id": 4,
+                    "mean": "Vừa rồi mình đi Bali - Indonesisa 2 tuần, mình đã quyết định thử mang theo vài bộ đồ và mình cảm thấy việc này thật gọn nhẹ. Dưới đây là các lợi ích khi chỉ mang dưới 7kg hành lý."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Lợi ích khi bạn có dưới 7kg hành lý",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Với việc chỉ có 1 balo backpack dưới 7kg thì bạn"
+                },
+                {
+                    "id":2,
+                    "mean": "      + Đỡ tốn tiền mua thêm hành lý khi bay"
+                },{
+                    "id":3,
+                    "mean": "       + Check in nhanh hơn"
+                }, {
+                    "id":4,
+                    "mean": "      + Check out cũng nhanh không phải đợi hành lý ra"
+                }, {
+                    "id":5,
+                    "mean": "      + Đi bộ với cái balo cũng nhẹ nhàng hơn là kéo vali. Có những đoạn đường bậc thang, gồ ghề không thể nào kéo vali được"
+                }, {
+                    "id":6,
+                    "mean": "      + Đi xe khách thì có thể để balo dưới chân hoặc khoang để đồ trên đầu. Bạn có thể giữ đồ của mình trong tầm mắt"
+                }, {
+                    "id":7,
+                    "mean": "      + Tập được thói quen đóng đồ để sử dụng hết tất cả đồ bạn mang theo"
+                }, {
+                    "id":8,
+                    "mean": "      + Và đương nhiên là pack đồ sẽ rất nhanh."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Ưu tiên trải nghiệm hơn là vật chất",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Khi ở Bali, mình đi chơi cùng với 1 bạn Tây balo. Nói là bạn chứ chú này cũng 41 tuổi rồi."
+                },
+                {
+                    "id": 2,
+                    "mean": "Qua cách sinh hoạt của chú này cũng như các bạn Tây balo khác, mình thấy trước đây mình đã sống theo chủ nghĩa tiêu dùng một cách vô thức."
+                },
+                {
+                    "id": 3,
+                    "mean": "Tây balo - họ tiết kiệm tối đa để đi được nhiều nước, gặp nhiều người nhất có thể. Còn mình đã vô thức mua khá nhiều đồ. Chẳng hạn như mình có tận 4 cái ván trượt để thay đổi, giày thì 6 đôi với lý do cũng để thay đổi lol"
+                },
+                {
+                    "id": 4,
+                    "mean": "Họ ở trong dorm với nhiều người khác cho tiết kiệm, giặt đồ bằng bồn rửa mặt, di chuyển liên tục để khám phá."
+                },
+                {
+                    "id":5,
+                    "mean": "Điều mình học được là nên từ bỏ sự thoải mái một chút để có nhiều trải nghiệm hơn."
+                },
+                {
+                    "id": 6,
+                    "mean": "Bây giờ mình cảm thấy vui vẻ khi đi đâu cũng chỉ cần 1 balo dưới 7kg. Nói là 7kg nhưng cái lap đã tốn 1.5kg, balo 1kg. Vậy là chỉ khoảng 4,5kg đồ thôi."
+                },
+                {
+                    "id": 7,
+                    "mean": "Điều này cũng khiến mình không có nhu cầu mua sắm gì nữa. Giờ mình chỉ nghĩ nên bỏ thứ gì, cái gì có thể gửi nhờ bạn bè được, cái gì đem đi cho được, cái nào bán lại được."
+                },
+                {
+                    "id": 8,
+                    "mean": "Thoát khỏi chủ nghĩa tiêu dùng cũng giúp mình quan tâm đến công dụng của 1 món đồ hơn là bề ngoài của nó."
+                },
+                {
+                    "id": 9,
+                    "mean": "Như 1 củ sạc đa năng có 2 đầu type-C và USB thì có thể sạc điện thoại vừa xạc Kindle đỡ tốn chỗ mua 2 củ sạc. Như 1 đôi giày vừa trekking vừa chạy bộ được thì đỡ mua 2 đôi"
+                },
+                {
+                    "id": 10,
+                    "mean": "<img style='height: 520px; width: 800px; border-radius: 50px;' src='../img/toi_gian_hanh_ly.png' alt='hanh ly toi gian'/>"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Tóm Lại la",
+            "discription": [
+                {
+                    "id":1,
+                    "mean": "Mình đã thực sự theo lối sống tối giản chứ không phải chỉ đọc và nghĩ mình đã tối giản như trước."
+                },
+                {
+                    "id":2,
+                    "mean": "Mục tiêu lớn bây giờ là làm sao vừa tối giản mà hiệu quả trong công việc, thể thao, sở thích, vv"
+                },
+                {
+                    "id":3,
+                    "mean": "Mình luôn nguỵ biện cho rằng là mình chỉ có thể làm việc hiệu quả (deep work) khi ngồi vào ghế trong 1 không gian yên tĩnh. Nhưng bây giờ mình sẽ tập xem thử vừa đi du lịch thay đổi địa điểm liên tục vừa làm việc hiệu quả có được hay không."
+                },
+                {
+                    "id":4,
+                    "mean": "Còn bạn, bạn có bao nhiêu kg đồ đạc?"
+                }
+            ]
+        }
+    ]
+
+    
+
+}
